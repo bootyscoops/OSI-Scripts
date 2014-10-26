@@ -62,11 +62,11 @@ Perimeter, Approximately 5.2km. Max Elevation, 55m. This island, almost complete
 [bg storage="intro"]
 
 
-一切の建造物が存在せず、存在するものは海岸沿いに位置する洞穴。[br]
-この島唯一の住民であるヤギ・鳥・小動物たち。[br]
-鬱陶しいほどに茂る野生植物。[pc]
+The island has absolutely no human structures, only the many caves that dot its shoreline.[br]
+Goats, Birds and Insects make up its inhabitants.[br]
+Its surface completely coated in dense forests.[pc]
 
-そして３６０度島を覆い囲う　青　青　青。[pc]
+With nothing on all sides but blue, blue, blue.[pc]
 
 [black]
 [image storage="kara" layer=0 page=fore top=0 left=0]
@@ -75,15 +75,15 @@ Perimeter, Approximately 5.2km. Max Elevation, 55m. This island, almost complete
 [wt]
 [bg storage="doukutu"]
 
-無人島。[pc]
+A Deserted Island.[pc]
 
-誰も住んでいない。観光先としても機能していない、この小さな小さな島を所有する男が居た。[pc]
+Completely devoid of inhabitants. Now, this tiny, tiny island awaits a visit from its owner.[pc]
 
-それが、「貴方」。[pc]
+This man is 'You'.[pc]
 
-この小さな小さな無人島…白い砂浜と青い海に囲まれた、誰も居ない…[pc]
+Your tiny island, surrounded by white sands and blue seas, totally alone...[pc]
 
-天然の「牢獄」。[pc]
+A natural 'Prison'.[pc]
 
 
 
@@ -95,9 +95,9 @@ Perimeter, Approximately 5.2km. Max Elevation, 55m. This island, almost complete
 [bg storage="sky"]
 
 
-これから始まるのは、この島を極上のリゾート地へと開発していく貴方の物語。[pc]
+Now begins the story of how you transform this island into a world-class resort.[pc]
 
-ザーメンの白と絶望の青で彩られた、肉のリゾート。[pc]
+A resort of the flesh, furnished in the white of semen and the blue of despair.[pc]
 
 
 
@@ -119,16 +119,16 @@ Perimeter, Approximately 5.2km. Max Elevation, 55m. This island, almost complete
 [bg storage="black"]
 
 [nowait]
-あなたの名前を教えてください[pc]
+Please enter your Name[pc]
 [endnowait]
 ;
 [eval exp="sf.sname='檻原'"]
 [eval exp="sf.name='智樹'"]
 ;
-[input name=sf.sname prompt="あなたの苗字は?" title="苗字の入力"]
-[input name=sf.name prompt="あなたの名前は?" title="名前の入力"]
+[input name=sf.sname prompt="What is your Surname?" title="苗字の入力"]
+[input name=sf.name prompt="What is your Given Name?" title="名前の入力"]
 
-＜９/１　日曜日　朝＞[pc]
+＜９/１　Sunday Morning＞[pc]
 
 [bg storage="car"]
 
@@ -141,9 +141,9 @@ Perimeter, Approximately 5.2km. Max Elevation, 55m. This island, almost complete
 [wait time=1000]
 
 
-【小柳】「社長、お目覚めですか？」[pc]
+【Koyanagi】 "Sir, are you awake?"[pc]
 
-いつの間にか眠っていたようだ。[br]
+Seems I fell asleep without realizing.[br]
 ハンドルを握る小柳が、信号待ちのタイミングで俺に声をかける。[pc]
 
 
@@ -151,9 +151,9 @@ Perimeter, Approximately 5.2km. Max Elevation, 55m. This island, almost complete
 
 [eval exp="sf.k_001=1"]
 
-【[emb exp=sf.sname]】「…何時だ？」[pc]
+【[emb exp=sf.sname]】 "...What time is it?"[pc]
 
-【小柳】「１０時８分です。ホテルにはあと１時間ほどで到着します。」[pc]
+【Koyanagi】 "8 past 10, sir. We will arrive at the hotel in about one hour."[pc]
 
 必要以上に俺の秘書はモノを言うことはない。それが煩わしくなくていい。[br]
 開いた車の窓から見えるのは、まるで絵の具で塗りたくったかのような青の天井。観光パンフレットそのままの配色は、まだ感覚が覚めきっていない俺には、むしろ人工的なものに感じられた。[pc]
@@ -166,9 +166,9 @@ Perimeter, Approximately 5.2km. Max Elevation, 55m. This island, almost complete
 
 …欠伸一つ吐き出すと、俺は小柳に命令した。[pc]
 
-【[emb exp=sf.sname]】「おい…車を止めろ。小便だ。」[pc]
+【[emb exp=sf.sname]】 "Hey...Pull over. I've gotta piss."[pc]
 
-【小柳】「…かしこまりました。」[pc]
+【Koyanagi】 "...Yes sir."[pc]
 
 [fadeoutbgm time=1000]
 
@@ -208,7 +208,7 @@ Perimeter, Approximately 5.2km. Max Elevation, 55m. This island, almost complete
 …携帯できる便器があるというのは、便利なものだ。[pc]
 
 
-【[emb exp=sf.sname]】「小柳、早くしろ。行くぞ。」[pc]
+【[emb exp=sf.sname]】 "Hurry it up, Koyanagi."[pc]
 
 俺は、秘書に[br]
 …いや、「便器」にそう声をかけると、道脇の茂みへと足を進めた。[pc]
@@ -284,7 +284,7 @@ Perimeter, Approximately 5.2km. Max Elevation, 55m. This island, almost complete
 ブランドのスーツも、シューズも、この奴隷には似合わない。[br]
 ……情念の炎が、俺の劣情を煽る。[pc]
 
-【[emb exp=sf.sname]】「……小柳、脱げよ。入れてやる…」[pc]
+【[emb exp=sf.sname]】 "......Koyanagi, strip. I wanna fuck you..."[pc]
 
 たまらなくなった俺が、そう言って小柳に這う姿勢を促したときだ。[br]
 ちょうど俺たちがやってきた方向から、茂みをかき分けて何者かが近づいてくる音がした。[pc]
@@ -294,11 +294,11 @@ Perimeter, Approximately 5.2km. Max Elevation, 55m. This island, almost complete
 
 ガサリッ！！[pc]
 
-【？？】「おぉい！こんなところに車止めたら迷惑だよー！！」[pc]
+【？？】 "Hey! You can't park your car here!!"[pc]
 
 [fadeoutbgm time=1000]
 随分と野暮ったい、太い声が道路側から響いてきた。俺は慌ててファスナーをあげる。[br]
-…クソ。[pc]
+...Shit.[pc]
 
 
 ;ザッザッザ･･･茂みをかきわけて進む音＞次のシーンへ
@@ -341,7 +341,7 @@ Perimeter, Approximately 5.2km. Max Elevation, 55m. This island, almost complete
 警官にしては、なんというか…威厳はあるが権威的なものは感じない。[br]
 例えるなら近所のおっさんが子供を叱るような、そんな調子で男は俺たちを戒める。[pc]
 
-【[emb exp=sf.sname]】「あぁすみません。小便が我慢できなくって…。」[pc]
+【[emb exp=sf.sname]】 "Sorry, sorry. Couldn't hold it, y'know?"[pc]
 
 愛想笑いを浮かべて、なんともなしにそう答えれば、その警官はやけに赤い顔になった。[pc]
 
@@ -352,7 +352,7 @@ Perimeter, Approximately 5.2km. Max Elevation, 55m. This island, almost complete
 [wt]
 [image storage="kara" layer=1 page=back pos=c]
 
-……ああ。なるほど？…見られた、かな？[pc]
+....Oooh, I see...So he saw us, did he?[pc]
 
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
@@ -433,7 +433,7 @@ Perimeter, Approximately 5.2km. Max Elevation, 55m. This island, almost complete
 
 [bg storage="black"]
 [nowait]
-＜９/１　日曜日　昼＞[br]
+＜９/１　Sunday Noon＞[br]
 [endnowait]
 
 ;ホテルもホテル用のBGM作ったほうがいいかも　弱めのクラシックみたいな。
@@ -458,7 +458,7 @@ Perimeter, Approximately 5.2km. Max Elevation, 55m. This island, almost complete
 [layopt layer=2 page=fore visible=true]
 [image storage="Koyanagi_cyakui_megane" layer=2 page=fore pos=c]
 
-【[emb exp=sf.sname]】「仕事は分かってるな？はじめろ。」[pc]
+【[emb exp=sf.sname]】 "Do you understand your assignments? Get to work."[pc]
 
 
 [position layer=message0 page=fore frame="window_t.png"]
@@ -482,7 +482,7 @@ Perimeter, Approximately 5.2km. Max Elevation, 55m. This island, almost complete
 ;キーを打つ音
 [playse storage="typing"]
 
-カタカタ…[pc]
+Clack clack...[pc]
 
 エアコンの稼動音と、秘書がキーを打つ音だけが部屋の中に静かに響く。ただ淡々と、慣れた速さで奏でられるその音は、PCを知らない人に聞かせたら、そういう音色の楽器にも思えるかもしれない。[br]
 俺は、改めて自分の秘書の顔を眺め見た。[pc]
@@ -524,8 +524,8 @@ Perimeter, Approximately 5.2km. Max Elevation, 55m. This island, almost complete
 こうしているのも退屈だ。[pc]
 
 [select]
-[links target=*asobu]1.俺は小柳の体で遊ぶことにした。[endlink][r]
-[links storage="0901b.ks" target=*soto]2.俺はやはり外に出ることにした。[endlink]
+[links target=*asobu]1. I decided to play with Koyanagi's body.[endlink][r]
+[links storage="0901b.ks" target=*soto]2. I decided to go outside.[endlink]
 [endselect]
 [s]
 --------------------[pc]
@@ -556,14 +556,14 @@ Perimeter, Approximately 5.2km. Max Elevation, 55m. This island, almost complete
 [playbgm storage="hb"]
 [bgmopt volume=100]
 
-【小柳】「…社長…っ」[pc]
+【Koyanagi】 "...Sir...nh"[pc]
 
 【[emb exp=sf.sname]】「構うな、続けろ。」[pc]
 
 コイツの開発された乳首は、薄手のシャツなら意味がないほどに大きく膨れ、ちょっとした刺激で固くなる。[br]
 その胸の勃起をちょっと弄ってやれば…。[pc]
 
-【小柳】「……ッ。」[pc]
+【Koyanagi】 "......Kuh."[pc]
 
 もう一つ勃起。スーツの下が、シンボルのフォルムを美しく象る。[br]
 世間では、男は年を取れば枯れるもの。５０も過ぎればただの中年になるのだろうが、コイツは違う。[br]
@@ -584,19 +584,19 @@ Perimeter, Approximately 5.2km. Max Elevation, 55m. This island, almost complete
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【小柳】「うぁ……っっ」[pc]
+【Koyanagi】 "Uah...nnh"[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
-【[emb exp=sf.sname]】「休むな。」[pc]
+【[emb exp=sf.sname]】 "Relax."[pc]
 
-俺は、ズボンから無理やり引きずり出したチンポの先に、乱暴に爪を立てた。[pc]
+With a tug, I pulled his cock free from his trousers. It was already rock hard.[pc]
 
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【小柳】「うひぃ………あッは、はい……ぃ……。」[pc]
+【Koyanagi】 "Nnnh......Aahhh, Yes...sir....."[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
@@ -629,7 +629,7 @@ Perimeter, Approximately 5.2km. Max Elevation, 55m. This island, almost complete
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【小柳】「ぅぁあああああ！！！」[pc]
+【Koyanagi】 "uuooOOOAAAAAA!!!"[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
@@ -662,7 +662,7 @@ Perimeter, Approximately 5.2km. Max Elevation, 55m. This island, almost complete
 …人のことは言えないか。[br]
 俺も、こいつの悲鳴が耳を劈くたびに、いきそうな気になる。[pc]
 
-【[emb exp=sf.sname]】「…ほら、腰をあげろ。さっきの続きだ。」[pc]
+【[emb exp=sf.sname]】 "...Hey, ass in the air. Let's pick up where we left off."[pc]
 
 もう小柳の手はマウスを握っているものの、完全に止まっている。[br]
 そして俺がケツを叩いてそう指示すれば、一瞬体が悦びに震えるのを俺は見逃さなかった。[pc]
