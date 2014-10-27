@@ -5,7 +5,7 @@
 
 [fadeoutbgm time=1000]
 
-【[emb exp=sf.sname]】「少し出かける。終わったら連絡しろ。」[pc]
+【[emb exp=sf.sname]】 "I'm going out for a while. Contact me when you're done."[pc]
 
 
 
@@ -20,7 +20,7 @@
 
 [bg storage="map"]
 
-さて、どこへ向かおうか[pc]
+Now, where should I go?[pc]
 *erabu
 
 [bgfast storage="map"]
@@ -28,10 +28,10 @@
 [image storage="0901.png" layer=0 page=fore top=0 left=660]
 
 [select]
-[links target=*saru]1.サルトリ通り[endlink][r]
-[links target=*park]2.水座城址公園[endlink][r]
-[links target=*ichiba]3.観光市場[endlink][r]
-[links target=*ie]4.住宅地[endlink][r]
+[links target=*saru]1. Sarutori Street[endlink][r]
+[links target=*park]2. Minza Castle Park[endlink][r]
+[links target=*ichiba]3. Markets[endlink][r]
+[links target=*ie]4. Residential Area[endlink][r]
 [endselect]
 [s]
 -------------------
@@ -44,7 +44,7 @@
 [layopt layer=0 page=fore visible=true]
 [image storage="0901.png" layer=0 page=fore top=0 left=660]
 
-ホテルから車で間もなくの場所。[br]
+Before long I was driving away from the hotel.[br]
 住宅街から、隔離されたかのように少し距離を置いたこの場所は、この島唯一の風俗通りだ。[br]
 サルトリ通り。元々は＜sultry＞……暑苦しい、官能的な表情を意味するこの言葉がなまり、呼ばれるようになったというのが、資料から得ている情報だ。[pc]
 
@@ -57,8 +57,8 @@
 ;★あまり長居も出来ないな
 
 [select]
-[links target=*saru_dark]1.暗くなるまでここで時間を潰す[endlink][r]
-[links target=*saru_back]2.あまり長居も出来ないな[endlink][r]
+[links target=*saru_dark]1. Kill time here until dark.[endlink][r]
+[links target=*saru_back]2. Maybe I shouldn't hang around too long...[endlink][r]
 [endselect]
 [s]
 ------------------
@@ -73,15 +73,15 @@
 [layopt layer=0 page=fore visible=true]
 [image storage="0901.png" layer=0 page=fore top=0 left=660]
 
-……退屈だな。[br]
+......This is boring.[br]
 ラジオをかけたり、電話で他愛もない相手と他愛もない話をしたり、そうやって時間を潰して、ようやく日が少し翳ってきた頃。[br]
 少しずつ街が動き出す。と、ここで、随分と英語文字の店が多いのに気がついた。[br]
 ……そういえば米兵の駐屯地が近くにあったな。成程、米兵の暇つぶしで発展した風俗通りか。道理で。[pc]
 
 どんな奴らがくるのか、少しの興味と、それ以上の下心が生まれた頃、それを遮るかのように、電話が鳴った。[br]
-小柳からのメールだ。[pc]
+It was an email from Koyanagi.[pc]
 
-＜埠頭までお越しください。地図を添付します----＞[pc]
+＜Please come to the wharf. I have attached a map----＞[pc]
 
 ……ちっ。仕方がない、ここはまたにしよう。[br]
 時間の使い方を間違えたかもしれないな。[pc]
@@ -280,7 +280,7 @@
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【琉吾】「あーニーニー、何か買ってく？」[pc]
+【Ryuugo】 "Hey Niinii, Whaddaya buyin'?"[pc]
 
 
 [position layer=message0 page=fore frame="window_n.png"]
@@ -292,7 +292,7 @@
 
 当然魚には興味がないが。この漁師と話がしてみたい。[pc]
 
-【[emb exp=sf.sname]】「どれが美味しいんだい？」[pc]
+【[emb exp=sf.sname]】 "What would you recommend?"[pc]
 
 [layopt layer=1 page=fore visible=true]
 [image storage="琉吾普通" layer=1 page=fore pos=c]
@@ -300,7 +300,7 @@
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【琉吾】「……ニーサン、ナイチャーさ？観光？」[pc]
+【Ryuugo】 ".....So you're a Naichaa, bro? A tourist?"[pc]
 
 
 [position layer=message0 page=fore frame="window_n.png"]
@@ -321,13 +321,13 @@
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
-【[emb exp=sf.sname]】「………………なんだって？」[pc]
+【[emb exp=sf.sname]】 ".........And what's that?"[pc]
 
 
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【琉吾】「ヤマトンチューさぁとびいかっていうかもなぁ。[br]普段店には出ないんだけどねー。食べたことある？天日干し。」[pc]
+【Ryuugo】 「ヤマトンチューさぁとびいかっていうかもなぁ。[br] We don't usually普段店には出ないんだけどねー。食べたことある？天日干し。」[pc]
 
 
 [position layer=message0 page=fore frame="window_n.png"]
@@ -336,7 +336,7 @@
 ……無骨というかなんというか。この男は一足跳びで喋る癖があるらしい。[br]
 しかしまぁ。客商売ということを意識してるわけでもないだろうに、随分といい笑顔で話しかけてくる。憎めない、という表現が一番しっくりくるタイプだな。[pc]
 
-【[emb exp=sf.sname]】「……いや、ないねぇ。美味い？」[pc]
+【[emb exp=sf.sname]】 ".....No, I don't think I have. Is it good?"[pc]
 
 
 [layopt layer=1 page=fore visible=true]
@@ -345,7 +345,7 @@
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【琉吾】「ワンとこのは、なんでもデージマーサン！どれでも美味いよ。」[pc]
+【Ryuugo】 "It's Deejimaasan! Nothin' tastes better!"[pc]
 
 
 [position layer=message0 page=fore frame="window_n.png"]
@@ -354,13 +354,13 @@
 観光客相手のサービスか、素でこうなのか。売り子の男は、呪文のような沖縄方言をまじえて話しかけてくる。[br]
 これもまた、地方の男独特で、味があっていい。[pc]
 
-【[emb exp=sf.sname]】「……５枚ほど包んでもらおうか。」[pc]
+【[emb exp=sf.sname]】 ".....Alright, I'll take 5."[pc]
 
 
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【琉吾】「ニフェーデービル！（ありがとうございます）」[pc]
+【Ryuugo】 "Nifeedeebiru! (Thank you very much)"[pc]
 
 
 [position layer=message0 page=fore frame="window_n.png"]
@@ -381,19 +381,19 @@
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
-【[emb exp=sf.sname]】「ああ。」[pc]
+【[emb exp=sf.sname]】 "You too."[pc]
 
 [image storage="kara.png" layer=1 page=fore pos=c]
 [image storage="kara.png" layer=1 page=back pos=c]
 
-片手に袋をぶらさげ、俺は車に戻った。[br]
-……警官もいいが。地元漁師を「釣り上げる」のも悪くないな。[pc]
+With the bag hanging over one arm, I went back to the car.[br]
+......The cop is fine, but...I wouldn't mind 'hooking' a local fisherman as well.[pc]
 
 俺がそんなあらぬ妄想を抱いていると、携帯に小柳からのメールが届いていたのに気がついた。[pc]
 
 [fadeoutbgm time=1000]
 
-＜埠頭までお越しください。地図を添付します----＞[pc]
+＜Please come to the wharf. I have attached a map.----＞[pc]
 
 ;（ひんがーいかをアイテムに追加/港へ）
 
@@ -413,9 +413,9 @@
 
 ごくごく普通の住宅街だ。沖縄と言っても、そこまで大きな違いはないな。[pc]
 
-……。[pc]
+......[pc]
 
-よりにもよってこんなつまらない場所で時間を潰すこともないな。他の場所へ行こう。[pc]
+よりにもよってこんなつまらない場所で時間を潰すこともないな。 Where should I go next?[pc]
 
 [jump target=*erabu]
 ---------------------
@@ -437,7 +437,7 @@
 [layopt layer=2 page=fore visible=true]
 [image storage="Koyanagi_cyakui_megane" layer=2 page=fore pos=c]
 
-【[emb exp=sf.sname]】「仕事は終わったのか？」[pc]
+【[emb exp=sf.sname]】 "Did you finish your assignments?"[pc]
 
 俺はそれだけ尋ねると、小柳は一枚の書類を手渡してきた。[pc]
 
@@ -445,7 +445,7 @@
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【小柳】「プロフィールです。」
+【Koyanagi】 "I have assembled a dossier."
 [pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
@@ -461,16 +461,16 @@
 [bg storage="cg005"]
 [eval exp="sf.cg005=1"]
 
-「赤嶺　太（３８）沖縄県出身。沖縄県立水座高等学校卒業後、沖縄県警察官採用試験合格、○○年４月、採用。[br]
-　水座派出所勤務 巡査部長。[br]
-　デパート勤務の２歳年下の妻と地元高校に通う息子が一人。[br]
-　家庭環境はいたって平穏。赤嶺本人の素行もいたって良好。[pc]
+"Futoshi Akamine (38) Okinawa. Passed the Okinawa Prefecture Police Exam after graduating from Minza High School, employed in April 19XX.[br]
+　Sergeant at Minza Police Station.[br]
+　Has a wife two years his junior who works at a department store and 1 son.[br]
+　A normal, peaceful domestic life. His performance record is also quite good.[pc]
 　
-　趣味：柔道。中学・高校と柔道部一本で、警察官柔道大会での入賞経験あり。地域からは馴染みやすい警察官として人望あり。　」[pc]
+　Hobbies: Judo. In the Judo club in Middle and High school, also enjoys regular success in Police Judo Tournaments. A familiar and well-respected police officer in the region. "[pc]
 
 
-【小柳】「久蓋島からはすでに人払いは済んでいます。[br]
-いつ入島しても問題ありません」
+【Koyanagi】 "I have cleared Kugai of all personnel.[br]
+You are free to visit whenever you please."
 [pc]
 
 【[emb exp=sf.sname]】「なるほど。あとは、ご招待するのみと。[br]
@@ -490,7 +490,7 @@
 [image storage="kara.png" layer=1 page=fore pos=c]
 [image storage="kara.png" layer=2 page=fore pos=c]
 
----さて、と。[br]
-狩りの時間だ。[pc]
+---Now then...[br]
+The hunt begins.[pc]
 
 [jump storage="0901.ks" target=*0901_5]
