@@ -97,8 +97,8 @@
 男漁りにうろついていた連中が、灯火に魅かれる小虫のように集まりはじめる。[br]
 甘い甘い、デヴィッドの嬌声に誘われて。[pc]
 
-「うお……すげぇ。　何あれ、SM？　ガイジンか？」[pc]
-「チンポでけー。　露出狂かよっ！」[pc]
+"Woah....Amazing. What is this, S&M? Is he a foreigner?"[pc]
+"His cock is huuuge. Some kinda exhibitionist!"[pc]
 
 【[emb exp=sf.sname]】「ほーら、ディビー。　たくさんお客さんが集まってきたぞー？」[pc]
 
@@ -152,7 +152,7 @@
 
 [playse storage="piston4"]
 
-【デヴィッド】「マ、マスター……ッ！！」[pc]
+【David】 "M-Masterrr...Gh!!"[pc]
 
 知らない男に触られる恐怖か、目隠しの向こうの世界が見えず、デヴィッドが怯えている。[br]
 だが、それでもチンポは萎える気配がない。ならば構わず続行だ。[pc]
@@ -181,36 +181,36 @@
 
 [playse storage="piston1"]
 
-「俺にも触らせてくれよ。」[pc]
+"I wanna touch him."[pc]
 
-「お、俺も！」[pc]
+"M-Me too!"[pc]
 
 続々と増える志願者たち。さっきまでおよび腰だったチビも、息だけの責めじゃ物足りなくなってきた様子だ。チラチラと、俺の機嫌を伺っている。もっと触っていいか、と。[pc]
 
-【[emb exp=sf.sname]】「……おい、ディビー。どうする？　触って欲しいか。」[pc]
+【[emb exp=sf.sname]】 "...Hey, Davey. How about it? Do you want them to touch you?"[pc]
 
-【デヴィッド】「い、イェス！　サー！！」[pc]
+【David】 "Y-Yes! Sir!!"[pc]
 
-【[emb exp=sf.sname]】「どこの誰かも分からないジャップ相手だぞ。それでもいいのか？」[pc]
+【[emb exp=sf.sname]】 "Who knows what all these Japs will do to you. Are you sure?"[pc]
 
-【デヴィッド】「Sir!!!　YES!!!」[pc]
+【David】 "Sir!!!　YES!!!"[pc]
 
 【[emb exp=sf.sname]】「それならお願いしろ。　ここに居る皆さんに、だ。」[pc]
 
 俺はドンとディビーを突き飛ばす。公園のど真ん中、裸の犬が一匹のみ。[br]
 主人がいなくても、上手に芸を見せられるかな？[pc]
 
-【デヴィッド】「……P……Please……！！」[pc]
+【David】 "((......P...Please...!!))"[pc]
 
-【[emb exp=sf.sname]】「日本語で言え。」[pc]
+【[emb exp=sf.sname]】 "Say it in Japanese."[pc]
 
-【デヴィッド】「う……ァ……[br]
-……オ……オネガイシマス……[br]
-オレの……ペニス、サワッテクダサイ…………ッ」[pc]
+【David】 "U...Uh......[br]
+....P...Please...[br]
+M-my...penis, please feel it........"[pc]
 
-外人独特の奇妙な訛り混じりで、デヴィッドは懇願する。[pc]
+David begged in his strange, foreign accent.[pc]
 
-【デヴィッド】「オレノチンポ、イジメテクダサイ……！！」[pc]
+【David】 "Please fondle my cock......!!"[pc]
 
 ギャラリーの唾を飲む音が聞こえる。全員の目に嗜虐の光が見える。[br]
 普段街中で威張り腐ってて、快く思われていないアメ公が、こんなに無様な姿で乞う姿を見ているんだ。興奮しないわけがない。[pc]
@@ -226,7 +226,7 @@
 【デヴィッド】「……シリ、シリノアナモ……サワッテクレ……ッ[br]
 チンポモ、ケツモイジメテクダサイ……オネガイシマス……！！！」[pc]
 
-【[emb exp=sf.sname]】「ケツは俺がやってやるよ。」[pc]
+【[emb exp=sf.sname]】 "I'm gonna fuck his ass."[pc]
 
 [layopt layer=1 page=fore visible=true]
 [image storage="kara" layer=1 page=fore pos=c]

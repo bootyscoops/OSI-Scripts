@@ -1,4 +1,4 @@
-stuff*0901|1“ú–Ú
+*0901|1“ú–Ú
 
 [er]
 [fadeoutbgm time=1000]

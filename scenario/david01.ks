@@ -11,7 +11,7 @@
 [bgmopt volume=100]
 
 
-<9/[emb exp="f.day"]　夜　サルトリ通り>[pc]
+<9/[emb exp="f.day"]　Evening Sarutori Street>[pc]
 
 
 ホテルから、車で４・５分。その気になれば歩いてでも来られる距離にあるこの場所。[br]
@@ -51,7 +51,7 @@
 ……外人というのはどうして揃いも揃って声のボリュームが大きいのだろうか。[br]
 アルコールが入り陽気になった男どもの蛮声が、通りにこだまする。[pc]
 
-【？？】「ガッハッハッハ！！」[pc]
+【???】 "GAHAHAHA!!"[pc]
 
 
 [playbgm storage="暗黒"]
@@ -61,14 +61,14 @@
 [layopt layer=1 page=fore visible=true]
 [image storage="デヴィッド影" layer=1 page=fore pos=c]
 
-そのとき、一際大きな声をあげて店から出てくる男の姿が見えた。[br]
-声に負けない巨体。暗がりでよく見えないが、体のサイズからどう見ても外国人……おそらくは、軍基地関係の人間だろう。[br]
-その片脇は、肌を多く晒した、きらびやかな……言い換えればケバいドレスに身を包んだ女が取り巻いている。[br]
-女の華奢な体と比べると、余計に男の体が大きく見える。[pc]
+I turned to see a man emerging from a store with an exceptionally loud voice.[br]
+Or rather, a Giant with an exceptionally loud voice. I couldn't see too well in the dark, but with a body of that size he must be a foreigner...Someone from the military base, perhaps.[br]
+On one arm he held a women dressed in glittery, revealing...In other words, trashy clothing.[br]
+Next to the woman's slight frame, the man looked even bigger.[pc]
 
 [wait time=1000]
 
-その巨漢の男に、俺は……[pc]
+Faced with the giant, I......[pc]
 
 [wait time=1000]
 
@@ -79,7 +79,7 @@
 [er]
 [select]
 [links target=*step]1.食指が動いた。[endlink][r]
-[links target=*goout]2.恐怖を感じた。[endlink][r]
+[links target=*goout]2. Felt terrified.[endlink][r]
 [endselect]
 [s]
 
@@ -112,7 +112,7 @@
 
 [tt]
 
-【外人】「……○×☆※♪＃＄？！」[pc]
+【Foreigner】 "......○×☆※♪＃＄?!"[pc]
 
 [tn]
 
@@ -126,7 +126,7 @@
 
 [tt]
 
-【外人】「……○×☆※♪＃＄？！×☆※♪s＃＄sk！！！」[pc]
+【Foreigner】 "......○×☆※♪＃＄？！×☆※♪s＃＄sk！！！"[pc]
 
 [tn]
 
@@ -140,7 +140,7 @@
 
 [tt]
 
-【外人】「……○×☆※♪＃＄！！！」[pc]
+【Foreigner】 "......○×☆※♪＃＄！！！"[pc]
 
 [tn]
 
@@ -149,9 +149,9 @@
 話しかけられてるの、俺か？[br]
 気が付いたら、外人は俺の目前まで迫ってきて、俺の胸倉でも掴まんばかりの勢いで叫んでいた。息が、酒臭い。[pc]
 
-【[emb exp=sf.sname]】「……こいつ、なんて言ってるんだ？」[pc]
+【[emb exp=sf.sname]】 "......What's this idiot saying?"[pc]
 
-一応、俺も商談用に簡単な英会話は心得てはいるが、ネイティブな、しかも半分クダを巻いてるこの男の英語は聞き取れない。[pc]
+I knew enough rudimentary english to get through a business meeting, but I couldn't even make out half of what this native speaker was saying.[pc]
 
 ;小柳普通の立ち絵をディビーの隣に
 
@@ -168,16 +168,16 @@
 
 [tt]
 
-【小柳】「……何さっきから俺のことをジロジロ見ていやがるんだ、このクサレジャップ！……と言ってますね。」[pc]
+【Koyanagi】 "......What the fuck were you staring at me for, fuckin' Jap! ...Or something along those lines."[pc]
 
 [tn]
 
-さすが万能秘書。[pc]
+As expected of my secretary.[pc]
 
 [er]
 [select]
-[links target=*step2]1.俺にケンカを売るとは面白い。[endlink][r]
-[links target=*goout]2.なんだこの外人、まずいだろこれ。[endlink]
+[links target=*step2]1. Might be interesting to pick a fight.[endlink][r]
+[links target=*goout]2. What's with this foreigner, I'm not interested.[endlink]
 [endselect]
 [s]
 
@@ -193,26 +193,26 @@
 [position layer=message0 page=fore frame="window_t2.png"]
 [position layer=message0 page=back frame="window_t2.png"]
 
-【外人】「……○×☆※♪＃＄！！！」[pc]
+【Foreigner】「……○×☆※♪＃＄！！！」[pc]
 
 [tn]
 
 [tt]
 
-【小柳】「チビの日本人め。何ジロジロみていやがる。ここはお前らみたいなモヤシ野郎の来る場所じゃねぇんだ。とっとと消えうせろ。」[pc]
+【Koyanagi】 "Creepy little jap. The fuck're you looking at? Little wimps like you ain't welcome here. Hurry up and fuck off."[pc]
 
 [tn]
 
 [position layer=message0 page=fore frame="window_t2.png"]
 [position layer=message0 page=back frame="window_t2.png"]
 
-【外人】「……○×☆※♪＃＄？！×☆※♪s＃＄sk！！！」[pc]
+【Foreigner】 "......○×☆※♪＃＄？！×☆※♪s＃＄sk！！！"[pc]
 
 [tn]
 
 [tt]
 
-【小柳】「聞こえないのか忌々しいサル野郎。何か文句があるなら言ってみろ。」[pc]
+【Koyanagi】 "Are you even listening you fuckin' monkey? If you've got a problem why dontcha tell me like a man?"[pc]
 
 [tn]
 
@@ -223,16 +223,16 @@
 
 [wait time=2000]
 
-中指を、立てる。[pc]
+I put up my middle finger.[pc]
 
 [position layer=message0 page=fore frame="window_t2.png"]
 [position layer=message0 page=back frame="window_t2.png"]
 
-【外人】「ッッッ○×☆※♪＃＄！！！」[pc]
+【Foreigner】 "ッッッ○×☆※♪＃＄！！！"[pc]
 
 [tn]
 
-ブチ切れた顔で外人は、俺に向かって拳を振り上げた！[pc]
+The foreigner's face turned into a scowl, and he swung his fist at me![pc]
 
 ;SE:殴る音
 ;CG余裕があれば入れたいです（小柳、ディビー殴り倒す）
@@ -255,18 +255,18 @@
 
 [tt]
 
-【小柳】「……くたばれクソジャップ。だそうです。」[pc]
+【Koyanagi】 "......Fuckin' shithead Jap. And so on."[pc]
 
 [tn]
 
 通訳ご苦労様、と。[pc]
 
-【女】「キャアアアア！！！」[pc]
+【Woman】 "Kyaaaaaaaa!!!"[pc]
 
 それまでニヤニヤしながら俺たちのやり取りを見ていた、パブ嬢らしい女は、外人が崩れ落ちるのを見るや否や、悲鳴をあげて逃げ出してしまった。[br]
 その声を聞きつけ、通りをウロウロしてた連中が、何だ何だと集まってくる。中には口笛を吹いて囃し立てるものも居たが、こんなところでストリートファイトを披露する気はない。[pc]
 
-【[emb exp=sf.sname]】「……戻るぞ。面倒ごとはゴメンだ。」[pc]
+【[emb exp=sf.sname]】 "......Let's head back. Sorry to be a bother."[pc]
 
 ;立ち絵消す。
 
@@ -320,10 +320,10 @@
 
 [laycount layers=3]
 
-ぶっちゃけ、怖い。[pc]
+To be honest, he's scary.[pc]
 
 
-【[emb exp=sf.sname]】「……ホテルに戻るぞ、小柳。」[pc]
+【[emb exp=sf.sname]】 "......Let's go back to the hotel, Koyanagi."[pc]
 
 ;立ち絵小柳普通。
 
@@ -333,9 +333,9 @@
 [image storage="Koyanagi_cyakui_megane" layer=2 page=fore pos=c]
 
 
-【小柳】「……。」[pc]
+【Koyanagi】 "......"[pc]
 
-【[emb exp=sf.sname]】「戻るぞ。」[pc]
+【[emb exp=sf.sname]】 "Come on."[pc]
 
 そんな目で見るな、クソ。触らぬ神に祟りなしっていうだろ。[br]
 その、ヘタレを見るような目で見るのは、やめろ。[pc]
