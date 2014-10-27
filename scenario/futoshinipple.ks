@@ -25,21 +25,21 @@
 
 [playse storage="鎖3"]
 
-【太】「くっ･･･！！」[pc]
+【Futoshi】 "Ghu...!!"[pc]
 
 今までにも何度か乳首を触ってやったことはあったが、こうやって一点のみを責めるのは初めてだ。少し指を伸ばしただけで、太の顔には屈辱と、戦慄の色が見える。[pc]
 
-【[emb exp=sf.sname]】「デカい乳首だな。」[pc]
+【[emb exp=sf.sname]】 "You have pretty huge nipples, huh."[pc]
 
-【太】「･･･うるさい、やるならさっさとやれ･･･。」[pc]
+【Futoshi】 "...Just shut up and get it over with..."「･･･うるさい、やるならさっさとやれ･･･。」[pc]
 
-【[emb exp=sf.sname]】「無愛想だな。褒めてるんだぜ？吸われなれた女のような、いじりがいのある乳首だ。」[pc]
+【[emb exp=sf.sname]】 "Still not warmed up to me, hm? I meant that as a compliment.「無愛想だな。褒めてるんだぜ？吸われなれた女のような、いじりがいのある乳首だ。」[pc]
 
 俺は指先で、少しボリュームのあるその先端をツンと押しつぶしてみた。[pc]
 
-【太】「････ッッ。」[pc]
+【Futoshi】 "....nnh."[pc]
 
-【[emb exp=sf.sname]】「熱いな。興奮してるのか？」[pc]
+【[emb exp=sf.sname]】 "Ooh, they're warm. Are you getting excited?"[pc]
 
 【太】「むふぅ･･･っ････！」[pc]
 
@@ -48,13 +48,13 @@
 
 【[emb exp=sf.sname]】「･･･イイ声で鳴くんだな、お前は。」[pc]
 
-【太】「嫌･･･触るな･･･っ！くそ！やめろ変態･･･！！」[pc]
+【太】 "Don't...touch me...! Shit! You fucking pervert...!!"[pc]
 
 【[emb exp=sf.sname]】「乳を弄られて感じるのか。こんなのはどうだ？」[pc]
 
-今まで指で触っていた部分を、俺は舌で突いてみた。[pc]
+I lowered my hands and tried prodding them with my tongue.[pc]
 
-【太】「はぁ･･･んんんんんーーーー･･･！」[pc]
+【Futoshi】 "Hha...nnnnnnnnn...!"[pc]
 
 声を堪え、自分の気を他へ逸らそうと、天を仰ぎ堪える太。[br]
 どうやら乳首は元々感じやすい体質らしい。真面目なおまわりさんの、意外な一面だ。[pc]

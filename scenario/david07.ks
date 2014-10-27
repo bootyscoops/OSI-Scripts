@@ -21,7 +21,7 @@
 
 [fadeoutbgm time=1000]
 
-【[emb exp=sf.sname]】「おはよう、ディビー。」[pc]
+【[emb exp=sf.sname]】 "Good morning, Davey."[pc]
 
 ;立ち絵　ディビー裸
 

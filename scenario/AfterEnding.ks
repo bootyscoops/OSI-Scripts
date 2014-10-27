@@ -1,81 +1,88 @@
-T
-6#s]s]%3$52#%w#%j\#"u^%$
-82Cu
-%2\
-s]s]E’œ’œ’∑÷?‘9‘Ì‘‘<‘Ì‘1€ù÷‘&‘ ‘‘
-‘Û÷%‘ı’∂’π÷’≤ÿˆ¿„’éƒÇ’î’¢’…ZtZt;.0w#%0j\‘9‘Ì‘‘<‘Ì‘1u^;8j\1;2\
-s]s]EeDeJ’∑⁄˘’⁄’ò’⁄≈Ã«–ZtZt68#^;.%C:$62Nw62C1%w>>;j6$
-s]%;.'
-w62j2$0g^'0j6<^!$52C1;2#ZtZt:0w#%0j\2%;Nf\w62j62^'0j6<#Zt
-%9w2
-?3C">2$;^%;j\‘‘‘‘ı÷%‘ıu^#:jMgNgˇ6"jOgN
-s]% 
+*Start
 
-s]% >
-w
->2CbNgN
-s]s]%>62^$
-862Cu38;!gLu^;.%C5$w62C54
-s]%#6$^:#8j9!%6w"2Cu˝?˝5˝0˝‹ˇ˝‹\w
->2CdNgN÷>!&2CfNg#Zt	##Zt	6#^#:jIgNg#ZtZt:0w#%0j\2%;Nd\w62j62^'0j6<#Zt
-%9w2
-?3C">2$;^%;j\‘‘‘‘ı÷%‘ıu^#:jMgNgˇ6"jOgN
-s]% 
+[disablestore store="true" restore="true"]
 
-s]% >
-w
->2C`NgN
-s]s]%>62^$
-862Cu38;!gJu^;.%C5$w62C54
-s]%#6$^:#8j9!%6w"2Cu˝?˝5˝0˝‹ˇ˝‹\w
->2CdNgN÷>!&2CfNg#Zt	##Zt	6#^#:jFgNg#ZtZt:0w#%0j\2%;Ncu^;.%C5$w62C54
-s]%#6$^:#8j9!%6w"2Cu˝?˝5˝0˝‹ˇ˝‹\w
->2CdNgN÷>!&2CfNg#Zt	##Zt	6#^#:jGgNg#ZtZt:0w#%0j\2%;Nb\w62j62^'0j6<#Zt
-%9w2
-?3C">2$;^%;j\‘‘‘‘ı÷%‘ıu^#:jMgNgˇ6"jOgN
-s]% 
+;Ç±Ç±Ç…ÅAÉGÉìÉfÉBÉìÉOå„ÅiÉXÉ^ÉbÉtÉçÅ[ÉãÇ»Ç«ÅjÇÃèàóùÇì¸ÇÍÇ‹Ç∑
 
-s]% >
-w
->2CoNgN
-s]s]%>62^$
-862Cu38;!gHu^;.%C5$w62C54
-s]%#6$^:#8j9!%6w"2Cu˝?˝5˝0˝‹ˇ˝‹\w
->2CdNgN÷>!&2CfNg#Zt	##Zt	6#^#:jFgNg#ZtZt:0w#%0j\2%;N`\w62j62^'0j6<#Zt
-%9w2
-?3C">2$;^%;j\‘‘‘‘ı÷%‘ıu^#:jMgNgˇ6"jOgN
-s]% 
+[playbgm storage="ÉGÉìÉfÉBÉìÉO" loop="false"]
 
-s]% >
-w
->2CoNgN
-s]s]%>62^$
-862Cu38;!gFu^;.%C5$w62C54
-s]%#6$^:#8j9!%6w"2Cu˝?˝5˝0˝‹ˇ˝‹\w
->2CdNgN÷>!&2CfNg#Zt	##Zt	6#^#:jOgNgN
-s]s]%>62^$
-862Cu38;!gGu^;.%C5$w62C54
-s]%#6$^:#8j9!%6w"2Cu˝?˝5˝0˝‹ˇ˝‹\w
->2CdNgN÷>!&2CfNg#Zt	##Zt	6#^#:jGgNg#ZtZt:0w#%0j\2%;Og\w62j62^'0j6<#Zt
-%9w2
-?3C">2$;^%;j\‘‘‘‘ı÷%‘ıu^#:jMgNgˇ6"jOgN
-s]% 
+;2:24Ç…çáÇ§ÇÊÇ§í≤êÆ
 
-s]% >
-w
->2C`NgN
-s]s]%>62^$
-862Cu38;!fOu^;.%C5$w62C54
-s]%#6$^:#8j9!%6w"2Cu˝?˝5˝0˝‹ˇ˝‹\w
->2CdNgN÷>!&2CfNg#Zt	##Zt	6#^#:jIgNg#ZtZt:0w#%0j\5"u^;.%C5$w62C54
-s]%#6$^:#8j9!%6w"2Cu˝?˝5˝0˝‹ˇ˝‹\w
->2CdNgN÷>!&2CfNg#Zt	##Zt	6#^#:jMgNg#ZtZt	6#;4
-s]% >
-w
->2CfNgN
-s]s]s]%3;.^$23C"2
-s]E;$
-s]E
-s]s]%=:w#%0j\1%#P<u^#%2
-jT0:82
-s]%$#
+[layopt layer=message0 page=fore visible=false]
+[layopt layer=message0 page=back visible=false]
+
+[image storage="edroll_01" layer=base page=back]
+[trans method=universal rule="ÉhÉbÉgÉãÅ[Éã" time=3000Å@vaque=100]
+[wt]
+[wait time=5000]
+
+[image storage="edroll_02" layer=base page=back]
+[trans method=universal rule="ÉhÉbÉgÉãÅ[Éã" time=3000Å@vaque=100]
+[wt]
+[wait time=7000]
+
+[image storage="edroll_03" layer=base page=back]
+[trans method=universal rule="ÉhÉbÉgÉãÅ[Éã" time=3000Å@vaque=100]
+[wt]
+[wait time=7000]
+
+[image storage="edroll_04" layer=base page=back]
+[trans method=universal rule="ÉhÉbÉgÉãÅ[Éã" time=3000Å@vaque=100]
+[wt]
+[wait time=8000]
+
+[image storage="edroll_04b" layer=base page=back]
+[trans method=universal rule="ÉhÉbÉgÉãÅ[Éã" time=3000Å@vaque=100]
+[wt]
+[wait time=9000]
+
+[image storage="edroll_05" layer=base page=back]
+[trans method=universal rule="ÉhÉbÉgÉãÅ[Éã" time=3000Å@vaque=100]
+[wt]
+[wait time=8000]
+
+[image storage="edroll_06" layer=base page=back]
+[trans method=universal rule="ÉhÉbÉgÉãÅ[Éã" time=3000Å@vaque=100]
+[wt]
+[wait time=8000]
+
+[image storage="edroll_07" layer=base page=back]
+[trans method=universal rule="ÉhÉbÉgÉãÅ[Éã" time=3000Å@vaque=100]
+[wt]
+[wait time=8000]
+
+[image storage="edroll_08" layer=base page=back]
+[trans method=universal rule="ÉhÉbÉgÉãÅ[Éã" time=3000Å@vaque=100]
+[wt]
+[wait time=10000]
+
+[image storage="edroll_09" layer=base page=back]
+[trans method=universal rule="ÉhÉbÉgÉãÅ[Éã" time=3000Å@vaque=100]
+[wt]
+[wait time=9000]
+
+[image storage="edroll_10" layer=base page=back]
+[trans method=universal rule="ÉhÉbÉgÉãÅ[Éã" time=3000Å@vaque=100]
+[wt]
+[wait time=7000]
+
+[image storage="edroll_11" layer=base page=back]
+[trans method=universal rule="ÉhÉbÉgÉãÅ[Éã" time=3000Å@vaque=100]
+[wt]
+[wait time=7000]
+
+[image storage="blue" layer=base page=back]
+[trans method=universal rule="ÉhÉbÉgÉãÅ[Éã" time=3000Å@vaque=100]
+[wt]
+[wait time=3000]
+
+[waitclick]
+[wait time=1000]
+
+
+[delay speed=user]
+;[close]
+;[s]
+
+[jump storage="first.ks" target=*gameover]
+[s]

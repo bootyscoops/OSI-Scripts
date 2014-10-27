@@ -42,7 +42,7 @@
 
 [tt]
 
-yŠOlzuDaaaaaamnit! v[pc]
+yForeignerz "[Daaaaaamnit!]"[pc]
 
 [tn]
 

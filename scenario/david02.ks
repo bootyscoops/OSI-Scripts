@@ -35,7 +35,7 @@
 
 [tt]
 
-【外人】「Hey、jaaaaaaaaaaaaap!!!」[pc]
+【Foreigner】 "((Hey、jaaaaaaaaaaaaap!!!))"[pc]
 
 [tn]
 

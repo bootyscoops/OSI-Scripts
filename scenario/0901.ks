@@ -1,4 +1,4 @@
-*0901|1日目
+stuff*0901|1日目
 
 [er]
 [fadeoutbgm time=1000]
@@ -143,8 +143,8 @@ Please enter your Name[pc]
 
 【Koyanagi】 "Sir, are you awake?"[pc]
 
-Seems I fell asleep without realizing.[br]
-ハンドルを握る小柳が、信号待ちのタイミングで俺に声をかける。[pc]
+Looks like I fell asleep without realizing.[br]
+While stopped at a traffic light, Koyanagi calls to me from the driver's seat.[pc]
 
 
 [bg storage="001koyanagi_unten_hiru"]
@@ -153,18 +153,18 @@ Seems I fell asleep without realizing.[br]
 
 【[emb exp=sf.sname]】 "...What time is it?"[pc]
 
-【Koyanagi】 "8 past 10, sir. We will arrive at the hotel in about one hour."[pc]
+【Koyanagi】 "10:08, sir. We will arrive at the hotel in about one hour."[pc]
 
-必要以上に俺の秘書はモノを言うことはない。それが煩わしくなくていい。[br]
-開いた車の窓から見えるのは、まるで絵の具で塗りたくったかのような青の天井。観光パンフレットそのままの配色は、まだ感覚が覚めきっていない俺には、むしろ人工的なものに感じられた。[pc]
+My secretary never says more than is absolutely necessary, which is very helpful.[br]
+From the open window of the car, the sky above looked like almost painted on. It reminded me of the cover of some tacky tourist pamphlet.[pc]
 
-【[emb exp=sf.sname]】「…１時間か。」[pc]
+【[emb exp=sf.sname]】 "...An hour, huh."[pc]
 
-退屈だ。[br]
+I was bored.[br]
 それ以上に退屈な日々が今日から始まる。観光事業に伴う現地の下見と言ったって、椅子に座って判子だけ押してればいいだけのような仕事だ。考えるだけで憂鬱になる。[br]
 …俺を厄介払いしたい親父らしい、嫌がらせに近い任務だな。別に今に始まったことではないが。[pc]
 
-…欠伸一つ吐き出すと、俺は小柳に命令した。[pc]
+...I let out a yawn.[pc]
 
 【[emb exp=sf.sname]】 "Hey...Pull over. I've gotta piss."[pc]
 
@@ -175,7 +175,7 @@ Seems I fell asleep without realizing.[br]
 ;ブレーキの音
 [playse storage="car_stop"]
 
-小柳は表情一つ変えずに、ブレーキを踏む。[br]
+Without the slightest change in expression, Koyanagi hit the brakes.[br]
 …その秘書の動きもまた、俺には、まるで人工的に作られた[pc]
 
 [bg storage="black"]
@@ -198,7 +198,7 @@ Seems I fell asleep without realizing.[br]
 
 中央地区からホテルへと続くこの一本道は自然林を切り開いたもので、車一台通れる隙間と申し訳程度のレールがある以外、何の舗装もされていない。[pc]
 
-この水座島というのは、大きく分けて二つの地域がある。[br]
+The island of Minza is divided into two major areas.[br]
 本島やその他離島への船が出る港を中心に拡がる、地元民の住む西地域と、ホテルなどが立ち並ぶ一方、開発の進んでいない部分も混在する東地域。[br]
 俺たちが向かうのは東地域最大のリゾートホテル、「ミンザリゾート・ニライカナイ」…俺の父親が会長を務める、[emb exp=sf.sname]グループが経営するホテルだ。[pc]
 
@@ -210,8 +210,8 @@ Seems I fell asleep without realizing.[br]
 
 【[emb exp=sf.sname]】 "Hurry it up, Koyanagi."[pc]
 
-俺は、秘書に[br]
-…いや、「便器」にそう声をかけると、道脇の茂みへと足を進めた。[pc]
+My secretary and I[br]
+...Or rather, my 'toilet' and I walked into the roadside scrub.[pc]
 
 
 [image storage="kara" layer=0 page=fore pos=c]
@@ -257,20 +257,20 @@ Seems I fell asleep without realizing.[br]
 ;フェラ音
 [playse storage="fera1"]
 
-チュクッ…グチュッ…[pc]
+Shlup...Shlurp...[pc]
 
 長旅で匂う俺のペニスを清潔にすることもこいつは忘れない。[br]
 舌が、カスや汗の溜まりやすい筋に沿って滑らかに動く。[br]
 尿道を刺激して、排尿を促す。[pc]
 
-【[emb exp=sf.sname]】「……。」[pc]
+【[emb exp=sf.sname]】 "......"[pc]
 
 
 ;小便音
 
 [playse storage="toilet"]
 
-ジョボボボボ…[pc]
+Psssssss...[pc]
 
 小便を吐き出す音が、それを飲み込む小柳の喉の音で掻き消される。[br]
 アルマーニのスーツに固めた体はわずかに震え、ブルガリの眼鏡越しに見える瞳は微かに熱っぽい。[br]
@@ -292,12 +292,12 @@ Seems I fell asleep without realizing.[br]
 
 [playse storage="leaf_divide"]
 
-ガサリッ！！[pc]
+Rustle!![pc]
 
 【？？】 "Hey! You can't park your car here!!"[pc]
 
 [fadeoutbgm time=1000]
-随分と野暮ったい、太い声が道路側から響いてきた。俺は慌ててファスナーをあげる。[br]
+A deep, rough voice came from the direction of the highway and I hurriedly pulled up my pants.[br]
 ...Shit.[pc]
 
 
@@ -325,13 +325,13 @@ Seems I fell asleep without realizing.[br]
 [laycount layers=3]
 [layopt layer=1 page=fore visible=true]
 [image storage="太普通" layer=1 page=fore pos=c]
-車に戻ると、随分と大柄の…警官の制服に身を包んだ中年の男が、訝しげに俺たち二人を見調べる。[br]
-汗ばんだ肌に、少しきつめのシャツが食い込んでいる。[br]
-小柳とは別の種類の、いい肉だ。[pc]
+Returning to the car, we found ourselves being looked over quizzically by a...rather beefy middle-aged policeman.[br]
+His tight shirt bit lightly into his sweat-soaked skin.[br]
+Now this was a fine specimen.[pc]
 
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
-【警官】「…あんたたちかぁ、持ち主は。ここは駐車したら駄目だよぉ。」
+【Cop】 "...So this is your car? You're not allowed to park here, y'know."
 [pc]
 
 
@@ -343,8 +343,7 @@ Seems I fell asleep without realizing.[br]
 
 【[emb exp=sf.sname]】 "Sorry, sorry. Couldn't hold it, y'know?"[pc]
 
-愛想笑いを浮かべて、なんともなしにそう答えれば、その警官はやけに赤い顔になった。[pc]
-
+The man forced a smile and looked down, his face turning beet red.[pc]
 
 ;ここで、太の立ち絵の頬を染めたいです。
 [image storage="太普通照れ" layer=1 page=back pos=c]
@@ -356,7 +355,7 @@ Seems I fell asleep without realizing.[br]
 
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
-【警官】「…観光客なら今回は大目に見るけど、迷惑になるさぁ、早くどけてくれよ。」
+【Cop】 "...Well, I guess I can let you off this time since you're tourists. Just hurry and get outta here already."
 [pc]
 
 
@@ -371,29 +370,29 @@ Seems I fell asleep without realizing.[br]
 警官は、口早にそれだけを言うと、逃げるようにパトカーに乗り込み去っていった。[br]
 違反キップの一枚でも切れば、成績アップにでもなるだろうに。[pc]
 
-…面白い男だったな。それ以上に…。[pc]
+...Truly an interesting man. And what's more...[pc]
 
 ;何か禍々しいBGMがここで入るといいかも。心臓の鼓動とかでもいいです。
 
 [playbgm storage="hb"]
 
-…おれの、中にある何かが呻き吼えた。脈打つように、体の中で鳴り響く。[br]
-本能、と呼ぶにはあまりにもはっきりとした輪郭を持つ、その声。[pc]
+...I feel a strange urge inside me. Like a pulsing, ringing noise throughout my whole body[br]
+Like a base instinct, like a voice from a long way away, but sounding with complete clarity.[pc]
 
-犯せ。食らえ。　あれを、「飼え」と。[pc]
+Violate. Consume. And 'Transform'.[pc]
 
-【[emb exp=sf.sname]】「…いい体してたな。現役の警官か…退屈しのぎには悪くない。おい、小柳。…この辺に「生き物」を飼うのにいい場所はないか？」[pc]
+【[emb exp=sf.sname]】 "...He had a damn fine body. A beat cop, huh...Now there's something I can stave off the boredom with. Hey, Koyanagi...Do we have anywhere we can keep a 'Pet' around here?"[pc]
 
-俺の言葉の意味を即理解したのだろう。小柳は、その懐から分厚い手帳を取り出しペラペラと捲ると、やがてその一頁に指を止める。[pc]
+He caught my meaning almost instantly. Koyanagi pulled a thick notebook from his breast pocket and began to flick through. Before long, his finger came to rest on one page.[pc]
 
-【小柳】「…当グループが所有する小島が、ホテルから一時間の距離にあります。[br]
-今回の開発プロジェクトの対象区域にもなっていますが…。」[pc]
+【Koyanagi】 "...The Group has possession of a small island approximately one hour from the hotel.[br]
+Though it is currently undergoing development for future projects..."[pc]
 
-【[emb exp=sf.sname]】「今からそこは立ち入り禁止だ…いや、待てよ。[br]
-最低限の環境は欲しいな。お前に任せる。[br]
-今日中に、飼育に適した環境に整えたあと、工事関係者も全員島から退去するように指示しておけ。ホテルに戻り次第、すぐにだ。」[pc]
+【[emb exp=sf.sname]】 "From now on, that island is totally off-limits...Wait, scratch that.[br]
+I'll need place to keep them, at least. I'll leave that to you.[br]
+Today, once you've set up a new home for our livestock, make sure you get all workers off the island. When you're done, I want you back at the hotel immediately."[pc]
 
-【小柳】「かしこまりました。」[pc]
+【Koyanagi】 "Understood."[pc]
 
 
 [bg storage="car"]
@@ -401,15 +400,15 @@ Seems I fell asleep without realizing.[br]
 [layopt layer=0 page=fore visible=true]
 [image storage="0901.png" layer=0 page=fore top=0 left=660]
 
-小柳は短くそれだけいうと、運転席に戻る。俺も車の中に戻った。[pc]
+Having said all he needed to, Koyanagi resumed and I resumed our seats in the car.[pc]
 
-【[emb exp=sf.sname]】「着いたら起こせ。夜は忙しくなりそうだからな。[br]
-…ああそうだ、聞いていなかったな。[br]
-その島の名前は？」[pc]
+【[emb exp=sf.sname]】 "Wake me when we arrive. We're going to have our hands full tonight.[br]
+...Oh yeah, I just realized...[br]
+What's the island called, again?"[pc]
 
-【小柳】「クガイトウ、です。久しいに蓋で、クガイになります。」[pc]
+【Koyanagi】 "Kugaitou, sir. Though in recent times the name has been shortened to Kugai."[pc]
 
-【[emb exp=sf.sname]】「クガイ…悪くない響きだ。[br]
+【[emb exp=sf.sname]】 "Kugai...Not bad.[br]
 いいか、今日中だぞ。今日の夜までに、その島を。」[pc]
 
 
@@ -417,7 +416,7 @@ Seems I fell asleep without realizing.[br]
 
 [bg storage="black"]
 
-俺専用の、肉奴隷の飼育場にする。[pc]
+An entire stable of slaves, all for me.[pc]
 
 [black]
 ;車の走り出す音
@@ -449,8 +448,8 @@ Seems I fell asleep without realizing.[br]
 [laycount layers=3]
 [layopt layer=1 page=fore visible=true]
 [image storage="kara" layer=1 page=fore top=0 left=0]
-ホテルには、昼刻過ぎについた。[br]
-今日から一ヶ月の間、ここが俺の仕事場になる。[pc]
+We arrived at the hotel around noon.[br]
+For the next month, this would be my base of operations.[pc]
 
 
 [layopt layer=1 page=fore visible=true]
@@ -493,14 +492,14 @@ Clack clack...[pc]
 [layopt layer=2 page=fore visible=true]
 [image storage="Koyanagi_cyakui_megane" layer=2 page=fore pos=c]
 
-小柳　勇造。代々、俺の家に仕えている小柳家の人間だ。[br]
+Yuuzou Koyanagi. For generations, the men of the Koyanagi family have served my household.[br]
 「秘書」になるべくして生まれた彼は、幼い頃から各種経営マネージメントの英才教育を受け、１６になるころには常に、俺の親父についていたらしい。[br]
 ……語学・数学・科学・雑学、マルチに対応できるように、あらゆる分野の知識を植え込まれてきた小柳。[pc]
 
 …そして、異常な性癖を持つ親父を満足させるために。「マゾ」としての教育…調教もまた受けてきた。[pc]
 
 時には、親父の片腕として会社を取り仕切り、時には…親父の奴隷として、ケツを晒しペニスを猛らせる。[br]
-親父に絶対の忠誠を誓う、公私共に親父のパートナー。それが小柳だ。[pc]
+Sworn to absolute loyalty, my father's partner both in public and in private. That is Koyanagi.[pc]
 
 …その小柳が何故今、俺についているのかと言えば、それが親父の命令だからだそうだ。[br]
 まぁ、秘書と言えば体はいいが、要は監視だろう。親父も知っている。俺が、会長の存在を快く思っていないことを。[pc]
@@ -549,8 +548,8 @@ Clack clack...[pc]
 [layopt layer=0 page=fore visible=true]
 [image storage="kara.png" layer=0 page=fore top=0 left=660]
 
-小柳は、ノートをテーブルの上に広げ、ソファに腰掛けキーを操作している。[br]
-俺は、その後ろに回り無理やり小柳を背後から抱きかかえる形に座ると、スーツの上から、胸の突起を弄った。[pc]
+Koyanagi sat typing away on the sofa with his notes spread out on the table in front of him.[br]
+Standing behind him, I brought my arms around his burly frame and began to fondle his meaty chest over his suit.[pc]
 
 
 [playbgm storage="hb"]
@@ -558,9 +557,9 @@ Clack clack...[pc]
 
 【Koyanagi】 "...Sir...nh"[pc]
 
-【[emb exp=sf.sname]】「構うな、続けろ。」[pc]
+【[emb exp=sf.sname]】 "Don't mind me, keep working."[pc]
 
-コイツの開発された乳首は、薄手のシャツなら意味がないほどに大きく膨れ、ちょっとした刺激で固くなる。[br]
+Koyanagi's well-trained nipples had grown so large as to render any thin shirt meaningless, becoming hard with even the slightest stimulation.[br]
 その胸の勃起をちょっと弄ってやれば…。[pc]
 
 【Koyanagi】 "......Kuh."[pc]
@@ -570,9 +569,9 @@ Clack clack...[pc]
 年老いてなお、肉体に膏が乗りつづけ、成熟した肉体。その体は一つの彫像のように、美しい上に存在感がある。[br]
 男に興味がある奴なら、見ているだけで誰でも涎が出る体だ。[pc]
 
-胸・腿・腕にずっしりと乗る上質の肉。[br]
-メンズトワレの香りに隠れて、鼻をくすぐる「雄」の匂い。[br]
-それに…ほら、見ろよ。このペニス。[pc]
+His chest, thighs and arms were all well-raised, premium quality beef.[br]
+The scent of a 'man' totally covered that of his expensive cologne.[br]
+And...There we are. Here's his penis.[pc]
 
 ;イベントCGのかわりに小柳立ち絵(裸悶え勃起)
 
@@ -615,7 +614,7 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【小柳】「…社長…ッ…」[pc]
+【Koyanagi】 "...Sir...nh..."[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
@@ -651,7 +650,7 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【小柳】「ガァあああああああああああああ！！！！！」[pc]
+【Koyanagi】 "GyAAAAAAAAAAAAAAH!!!!!"[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
@@ -664,18 +663,18 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 
 【[emb exp=sf.sname]】 "...Hey, ass in the air. Let's pick up where we left off."[pc]
 
-もう小柳の手はマウスを握っているものの、完全に止まっている。[br]
-そして俺がケツを叩いてそう指示すれば、一瞬体が悦びに震えるのを俺は見逃さなかった。[pc]
-…マゾ豚が。[pc]
+The hand in which Koyanagi was still holding the mouse came to a complete stop.[br]
+Making sure he heard me, I gave him a firm slap on the ass, taking note of how his whole body shivered with joy.[pc]
+...Masochist pig.[pc]
 
-ズボンを脱がせ、捨てる。[br]
-どこからどう見ても、真面目で堅物。[br]
-品よく、俗的なものには無縁に見えるこの男が、俺の目の前で股を大きく開き、ふてぶてしくチンポ立てて汁垂らしているこんな姿、きっと誰にも想像つかない光景だろう。[pc]
+He removed his trousers and set them aside.[br]
+No matter what he did, he still looked so straight-laced and serious.[br]
+It was a wonderful sight, to have a man who looks so immune to vulgar urges spreading himself before my very eyes, with his thick, dripping cock hanging beneath him. Surely no one could imagine such a thing.[pc]
 
-【[emb exp=sf.sname]】「さっきは途中で邪魔された…からな。」[pc]
+【[emb exp=sf.sname]】 "You must be so pent up since we were interrupted..."[pc]
 
-すでにひくついて、挿入を願うかのように震える小柳のアナルに、俺はチンポをあてがう。[br]
-それだけで、肉の門は俺のペニスを受け入れるように開き、飲み込んでいった。[pc]
+I pressed my cock against Koyanagi's entrance, which trembled as though it were begging to be fucked.[br]
+And with that, his hole opened up to accept it, swallowing me whole.[pc]
 
 [playse storage="zubun"]
 
@@ -683,32 +682,32 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【小柳】「ンむ…はぁあぁああああ…。」[pc]
+【Koyanagi】 "Nmh...HhaaaaaAAaaaa..."[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
-あっという間に根元まで包まれる。[pc]
+In an instant, I was buried in him up to the base.[pc]
 
 [playse storage="piston1"]
 
-しかし、ゆるくはない。いつも体とケツも、鍛えさせてる甲斐があるな。[br]
-穴は広がっていても、それを締める筋は衰えていない。チンポの形にあわせて広がり、ギュッと締め咥える穴。性処理のための最高の穴だ。[pc]
+And despite the perfect fit, he was by no means loose. The principles of good training apply as well to the asshole as they do to any other muscle.[br]
+Even when spread like this, his ability to clench is in no way diminished. His hole was stretched and trained to match the exact dimensions needed to service my cock. The ultimate sex toy.[pc]
 
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【小柳】「ふぅぁ…ああ…はあ…！」[pc]
+【Koyanagi】 "Fuaah...Aah...Haah..!"[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
-【[emb exp=sf.sname]】「手が止まってるぞ。終わらせないといつまでたってもイケないぜ？小柳。[br]…まぁ俺は構わず何回でもイクけどな。」[pc]
+【[emb exp=sf.sname]】「手が止まってるぞ。終わらせないといつまでたってもイケないぜ？小柳。[br]...Well, I can cum a few times without stopping anyway."[pc]
 
 [fadeoutbgm time=1000]
 [fadeoutse time=4000]
 
-耳元で囁いてやれば、それに呼応するようにまた少しアナルがきつく締まる…。[br]
+His ass tightened a little, as though in response to me whispering in his ear...[br]
 
 
 ;小柳立ち絵消す(オプションのメガネも消す)
@@ -734,8 +733,8 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 [playbgm storage="hotel"]
 [bgmopt volume=100]
 
-…小柳のアナルの中に二回放ち、少し疲れ、いつの間にか俺はソファで転寝していた。[br]
-小柳の大きな手のひらが俺の体を揺り動かす。[pc]
+...I was a little tired after cumming inside Koyanagi twice, and fell asleep on the sofa without realizing.[br]
+Koyanagi's large hands shook me from my slumber.[pc]
 
 [layopt layer=1 page=fore visible=true]
 [image storage="Koyanagi_cyakui_futuS" layer=1 page=fore pos=c]
@@ -745,31 +744,31 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【小柳】「…お待たせしました。」
+【Koyanagi】 "...Sorry to keep you waiting."
 [pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
 
-秘書は、ついさっきまでの面影を残さない冷たい…というより、温度のない顔で俺に書類を手渡す。全く、一瞬全部夢なんじゃないかと思えるほどの切り替え振りだ。[br]
-おれは書類に目を通した。[pc]
+My secretary's only recently removed cold exterior had returned, handing with the documents with an expressionless face. Goodness gracious, his changes are severe that almost make me think I dreamt the whole thing. [br]
+I gave the documents a cursory read.[pc]
 
-「赤嶺　太（３８）沖縄県出身。[br]
-　水座派出所勤務。[br]
-　２歳年下の妻と息子が一人。家庭環境はいたって平穏。[br]
-　赤嶺本人の素行もいたって良好。[br]
-　地域からは馴染みやすい警察官として人望あり。　」[pc]
+"Futoshi Akamine (38) Okinawa.[br]
+　Employed at Minza Police Station.[br]
+　Has a wife 2 years his junior and one son. A rather peaceful domestic enironment。[br]
+　His personal behaviour is also quite good.[br]
+　He seems to be a well respected figure in the local community. "[pc]
 
-…薄い資料だな。思わず口に出しそうになった。[br]
+...Pretty short for all that research.。思わず口に出しそうになった。[br]
 まぁ、悪戯を仕掛けたのは俺なのであまり大きくも言えないわけだが。[pc]
 
 
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【小柳】「久蓋島からはすでに人払いは済んでいます。[br]
-いつ入島しても問題ありません」
+【Koyanagi】 "I have just cleared all personnel from Kugai.[br]
+We are now free to visit at any time."
 
 [pc]
 
@@ -801,8 +800,8 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 
 [fadeoutbgm time=2000]
 
----さて、と。[br]
-狩りの時間だ。[pc]
+---Now then.[br]
+The hunt begins.[pc]
 
 [eval exp="f.koyanagi=f.koyanagi+1"] 
 [jump storage="first.ks" target=*memory cond="tf.kaisou == 1"]
@@ -822,7 +821,7 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 [layopt layer=0 page=fore visible=true]
 [image storage="0901.png" layer=0 page=fore top=0 left=660]
 
-【住民】「よーぉ。お巡りさん今日もご苦労さん。」[pc]
+【Resident】 "Heeey. Have a good night, Officer."[pc]
 
 ;背景　町の裏道
 ;赤嶺　笑顔立ち絵
@@ -833,7 +832,7 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 [position layer=message0 page=fore frame="window_ft.png"]
 [position layer=message0 page=back frame="window_ft.png"]
 
-【赤嶺】「ああ、ハイサイ。今夜は久しぶりに冷えるみたいですよ。」[pc]
+【Akamine】 "Aah, Haisai. It's been too long since we've had a cool night like this."[pc]
 
 
 [position layer=message0 page=fore frame="window_fn.png"]
@@ -849,7 +848,7 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 [position layer=message0 page=fore frame="window_ft.png"]
 [position layer=message0 page=back frame="window_ft.png"]
 
-【赤嶺】「…そろそろ戻る時間か。」[pc]
+【Akamine】 "...Almost time to head home."[pc]
 
 
 [position layer=message0 page=fore frame="window_fn.png"]
@@ -884,7 +883,7 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 [position layer=message0 page=fore frame="window_ft.png"]
 [position layer=message0 page=back frame="window_ft.png"]
 
-【赤嶺】「……。気持ち悪い。」[pc]
+【Akamine】 "......Disgusting."[pc]
 
 [position layer=message0 page=fore frame="window_fn.png"]
 [position layer=message0 page=back frame="window_fn.png"]
@@ -895,7 +894,7 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 [playbgm storage="chase"]
 [bgmopt volume=100]
 
-【？？】「ひったくりだーー！！！」[pc]
+【？？】 "Help!! Someone stole my purse!!!"[pc]
 
 裏街の静寂を劈くような叫び声、声のほうを振り返れば[pc]
 
@@ -919,7 +918,7 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 [layopt layer=1 page=fore visible=true]
 [image storage="太警戒" layer=1 page=fore pos=c]
 
-【赤嶺】「待て！！！」[pc]
+【Akamine】 "Stop!!!"[pc]
 
 [position layer=message0 page=fore frame="window_fn.png"]
 [position layer=message0 page=back frame="window_fn.png"]
@@ -959,14 +958,14 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 [playse storage="ark"]
 
 
-【赤嶺】「……ぐああああ！！？　…あ…。」[pc]
+【Akamine】 "......Gyaaaaah!!? ...Ah..."[pc]
 
 後ろから、首に何か当てられた。[br]
 それを感じた次の瞬間、肉体を引き裂くような衝撃が、俺を襲う。[br]
 そして、俺は…。[pc]
 
 
-………。[pc]
+.........[pc]
 
 ;-----------------------------------------[br]
 [position layer=message0 page=fore frame="window_n.png"]
@@ -991,7 +990,7 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【小柳】「…気を失いましたね。」[pc]
+【Koyanagi】 "...He's out cold."[pc]
 
 
 [position layer=message0 page=fore frame="window_n.png"]
@@ -1036,11 +1035,11 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 【[emb exp=sf.sname]】「急いだほうがいいな。[br]
 今夜中に動かないと、警官が行方不明になるなんて騒ぎになってからだと面倒だ……。」[pc]
 
-【小柳】「赤嶺は麻薬に手を出していたそうですよ。」[pc]
+【Koyanagi】「赤嶺は麻薬に手を出していたそうですよ。」[pc]
 
 こちらも見ずに、小柳は言葉を続ける。[pc]
 
-【小柳】「今夜、本島で薬の売人が一人捕まります。[br]
+【Koyanagi】「今夜、本島で薬の売人が一人捕まります。[br]
 売人は離島の警察官にも薬を売ったと証言するでしょう。[br]
 その情報を事前に得て赤嶺太は逃亡しました。[br]
 身内の不祥事なので、なかなか外には発表されないでしょうね。[br]
@@ -1076,7 +1075,7 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 [black]
 [wait time=2000]
 [bg storage="cave"]
-＜９/２　月曜日　朝＞[br]
+＜９/２　Monday Morning＞[br]
 
 ;小さい波の音
 
@@ -1085,8 +1084,8 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 
 [position layer=message0 page=fore frame="window_fn.png"]
 [position layer=message0 page=back frame="window_fn.png"]
-んっ…[br]
-んんぅ……[pc]
+Nh...[br]
+Nnuuh......[pc]
 
 [bgn storage="cave"]
 
@@ -1098,7 +1097,7 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 
 [bg storage="cave"]
 
-…？　な…[pc]
+...? Wha...[pc]
 
 [layopt layer=0 page=fore visible=true]
 [image storage="0902.png" layer=0 page=fore top=0 left=660]
@@ -1109,7 +1108,7 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【太】「…なんだ、ここは…？！」[pc]
+【Futoshi】 "...What the, where...?!"[pc]
 
 [playbgm storage="nami"]
 [bgmopt volume=50]
@@ -1125,13 +1124,13 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 まぁ、そんな言葉しか出ないだろう。[br]
 目が覚めたら、知らない場所でいきなり大の字に縛られてるんだからな。[pc]
 
-【[emb exp=sf.sname]】「おはよう、赤嶺巡査。よく眠れたかな？」[pc]
+【[emb exp=sf.sname]】 "Good morning, Officer Akamine. Did you sleep well?"[pc]
 
 
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【太】「…っ？　誰だお前っ　…これはいったい…　　痛っ？！」[pc]
+【Futoshi】 "...Huh? Who's there...What the hell is this... Guh?!"[pc]
 
 
 [position layer=message0 page=fore frame="window_n.png"]
@@ -1144,24 +1143,27 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 回りくどい言い方をしても仕方ない。俺は単刀直入に、言い放ってやった。[br]
 俺の言っていることを飲み込めてない表情の警官。[br]
 まぁそれはそうだろう。[br]
+
+
+
 しかしやがて、ハッとした顔で、警官は俺の顔を見る。[pc]
 
 
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【太】「アンタ…昨日の、ホモ野郎…。」[pc]
+【Futoshi】 "You...you're that goddamn queer from yester..."[pc]
 
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
-そこまで言いかけて、警官は慌てて口を噤んだ。[pc]
+Before he could even finish, the cop hurriedly shut his mouth.[pc]
 
-【[emb exp=sf.sname]】「ハハッ。やっぱり覗いてたのか。それなら話は早いな。[br]
-おい、小柳…せっかくだから、目の前でもう一度見せてやるぞ。」[pc]
+【[emb exp=sf.sname]】 "Hahah. So you were watching us after all. In that case, I'll keep this brief.[br]
+Hey, Koyanagi...Since he went to all that trouble, let's give him a show right up close."[pc]
 
-小柳は命令されるやいなや、立ち上がると俺の前に跪き、そして俺の男根を口に咥えた。[pc]
+As soon as the words left my mouth, Koyanagi walked over, knelt in front of me and took my cock in his mouth.[pc]
 
 ;フェラ音
 [playse storage="fera2"]
@@ -1171,22 +1173,22 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【太】「なっ…！！！なにをして…！？」[pc]
+【Futoshi】 "Wha...!!! What're you doing...!?"[pc]
 
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
-【[emb exp=sf.sname]】「よく見てろ。これが＜奴隷＞だ。[br]
-お前は、俺の奴隷にするためにここに連れて来た。[br]
-早くそれを理解して俺に服従するといい。ほら、大したモンだろう。[br]
-こいつ、喉の奥までチンポ咥えることが出来るんだぜ。[br]
-お前にもこういう技を覚えさせてやるからな。」[pc]
+【[emb exp=sf.sname]】 "Take a good look. This is my <Slave>.[br]
+I brought you here so you could become a slave just like him.[br]
+The sooner you understand that and submit to me, the better. Hey, watch carefully, this guy's got serious skills.[br]
+He can take my cock all the way to the back of his throat.[br]
+Watch and learn, these kinds of tricks are always handy."[pc]
 
-警官は絶句したままだ。[br]
-その表情は赤らんでいるようにも見えるし、青ざめているようにもみえる。[pc]
+The policeman just lay there, speechless.[br]
+Though he seemed to blush as he watched on, he also looked distinctly pale.[pc]
 
-【[emb exp=sf.sname]】「…よし、もういい。口放せ。」[pc]
+【[emb exp=sf.sname]】 "...Okay, that's enough. Up you get."[pc]
 
 
 [playse storage="jupo"]
@@ -1200,7 +1202,7 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【太】「何いってやがる…うっ？？！！」[pc]
+【Futoshi】 "What the fuck are you talking abou--Gh??!!"[pc]
 
 
 [playse storage="dokun"]
@@ -1225,15 +1227,15 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 …そのうち、精液の匂いを嗅いだだけで、とろけちまうような豚にしてやるからな。[br]
 今のうちに吠えておくといいぞ。」[pc]
 
-【小柳】「社長、そろそろ会議の時間になります。」[pc]
+【Koyanagi】 "It's almost time for the meeting, Sir."[pc]
 
-【[emb exp=sf.sname]】「ああ、そうだったな…。それじゃぁ、また夜にでも来てやるよ。」[pc]
+【[emb exp=sf.sname]】 "Oh yeah...Well, I guess I'll see you again tonight."[pc]
 
 
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【太】「待てっ！！ここはどこだ！俺をどうする気だ…待て！放せえええ！！！」[pc]
+【Futoshi】 "Wait!! Where is this!? What will you to me...Wait! Let me goooooo!!!"[pc]
 
 
 [position layer=message0 page=fore frame="window_n.png"]
@@ -1241,7 +1243,7 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 
 [image storage="kara" layer=1 page=fore pos=c]
 
-怒鳴り散らす太を尻目に、俺と小柳は洞窟を後にした。[pc]
+With only a backward glance at Futoshi's ranting and raving, Koyanagi and I left the cave.[pc]
 
 
 [black]
@@ -1352,7 +1354,7 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【小柳】「社長。」
+【Koyanagi】 "Sir."
 [pc]
 
 
@@ -1407,8 +1409,8 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 [layopt layer=0 page=fore visible=true]
 [image storage="0902.png" layer=0 page=fore top=0 left=660]
 
-今日から、新しい日々が始まる。[br]
-俺の、そして赤嶺太の、新しい日々。[pc]
+Today was the beginning of a whole new life.[br]
+A new life for both myself and for Futoshi Akamine.[pc]
 
 俺が沖縄にいられる期間は、一ヶ月。[br]
 １０月には、再び東京に戻らないといけない。[pc]
@@ -1417,7 +1419,7 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 あの男は、一体どのような生き物へと、変わっているのだろうか。[pc]
 
 
-【[emb exp=sf.sname]】「…行こうか。小柳。」[pc]
+【[emb exp=sf.sname]】 "...Let's get going, Koyanagi."[pc]
 
 もう一度だけ俺は振り返る。あの男がいるはずの、岩の牢獄。[br]
 何か叫ぶ声が聞こえた気がしたが、そのまま捨て置いた。[pc]

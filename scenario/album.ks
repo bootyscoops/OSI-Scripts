@@ -20,28 +20,28 @@
 [graph storage="al_album" char=true][r]
 ;[font color=0xff9a17]ALBUM[resetfont][r]
 [resetfont]
-[if exp="sf.f_112==1"][links target=*f_112]太拘束1[endlink][r][endif]
+[if exp="sf.f_112==1"][links target=*f_112]Bound 1[endlink][r][endif]
 [if exp="sf.f_112==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.f_110==1"][links target=*f_110]太拘束2[endlink][r][endif]
+[if exp="sf.f_110==1"][links target=*f_110]Bound 2[endlink][r][endif]
 [if exp="sf.f_110==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.f_111==1"][links target=*f_111]太拘束3[endlink][r][endif]
+[if exp="sf.f_111==1"][links target=*f_111]Bound 3[endlink][r][endif]
 [if exp="sf.f_111==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.f_120==1"][links target=*f_120]太拘束4[endlink][r][endif]
+[if exp="sf.f_120==1"][links target=*f_120]Bound 4[endlink][r][endif]
 [if exp="sf.f_120==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.f_009==1"][links target=*f_009]太奴隷宣誓[endlink][r][endif]
+[if exp="sf.f_009==1"][links target=*f_009]Slave Oath[endlink][r][endif]
 [if exp="sf.f_009==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.f_012==1"][links target=*f_012]太フェラ[endlink][r][endif]
+[if exp="sf.f_012==1"][links target=*f_012]Blowjob[endlink][r][endif]
 [if exp="sf.f_012==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.f_011==1"][links target=*f_011]太失禁[endlink][r][endif]
+[if exp="sf.f_011==1"][links target=*f_011]Wetting[endlink][r][endif]
 [if exp="sf.f_011==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.f_013==1"][links target=*f_013]太処女喪失[endlink][r][endif]
+[if exp="sf.f_013==1"][links target=*f_013]Deflowered[endlink][r][endif]
 [if exp="sf.f_013==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
 [if exp="sf.f_014==1"][links target=*f_014]太バック1[endlink][r][endif]
@@ -50,10 +50,10 @@
 [if exp="sf.f_015==1"][links target=*f_015]太バック2[endlink][r][endif]
 [if exp="sf.f_015==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.f_016==1"][links target=*f_016]太浣腸[endlink][r][endif]
+[if exp="sf.f_016==1"][links target=*f_016]Enema[endlink][r][endif]
 [if exp="sf.f_016==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.f_017==1"][links target=*f_017]太犬[endlink][r][endif]
+[if exp="sf.f_017==1"][links target=*f_017]Dog[endlink][r][endif]
 [if exp="sf.f_017==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
 [if exp="sf.f_018==1"][links target=*f_018]太道着[endlink][r][endif]
@@ -62,16 +62,16 @@
 [if exp="sf.f_019==1"][links target=*f_019]太警官[endlink][r][endif]
 [if exp="sf.f_019==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.f_020==1"][links target=*f_020]太囚人[endlink][r][endif]
+[if exp="sf.f_020==1"][links target=*f_020]Prisoner[endlink][r][endif]
 [if exp="sf.f_020==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.f_025==1"][links target=*f_025]太帰宅[endlink][r][endif]
+[if exp="sf.f_025==1"][links target=*f_025]Homecoming[endlink][r][endif]
 [if exp="sf.f_025==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.f_023==1"][links target=*f_023]太エンディング1[endlink][r][endif]
+[if exp="sf.f_023==1"][links target=*f_023]Ending 1[endlink][r][endif]
 [if exp="sf.f_023==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.f_024==1"][links target=*f_024]太エンディング2[endlink][r][endif]
+[if exp="sf.f_024==1"][links target=*f_024]Ending 2[endlink][r][endif]
 [if exp="sf.f_024==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
 [deffont color=0xFF0033]
@@ -126,28 +126,28 @@
 [if exp="sf.r_028==1"][links target=*r_028]琉吾プラグ確認[endlink][r][endif]
 [if exp="sf.r_028==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.r_030==1"][links target=*r_030]琉吾シックスナイン[endlink][r][endif]
+[if exp="sf.r_030==1"][links target=*r_030]69[endlink][r][endif]
 [if exp="sf.r_030==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.r_031==1"][links target=*r_031]琉吾来客[endlink][r][endif]
+[if exp="sf.r_031==1"][links target=*r_031]Visitor[endlink][r][endif]
 [if exp="sf.r_031==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.r_032==1"][links target=*r_032]琉吾スパンキング1[endlink][r][endif]
+[if exp="sf.r_032==1"][links target=*r_032]Spanking 1[endlink][r][endif]
 [if exp="sf.r_032==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.r_033==1"][links target=*r_033]琉吾スパンキング2[endlink][r][endif]
+[if exp="sf.r_033==1"][links target=*r_033]Spanking 2[endlink][r][endif]
 [if exp="sf.r_033==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.r_034==1"][links target=*r_034]琉吾スパンキング3[endlink][r][endif]
+[if exp="sf.r_034==1"][links target=*r_034]Spanking 3[endlink][r][endif]
 [if exp="sf.r_034==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.r_035==1"][links target=*r_035]琉吾奴隷市場1[endlink][r][endif]
+[if exp="sf.r_035==1"][links target=*r_035]Slave Market 1[endlink][r][endif]
 [if exp="sf.r_035==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.r_036==1"][links target=*r_036]琉吾奴隷市場2[endlink][r][endif]
+[if exp="sf.r_036==1"][links target=*r_036]Slave Market 2[endlink][r][endif]
 [if exp="sf.r_036==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.r_315==1"][links target=*r_315]琉吾エンディング[endlink][r][endif]
+[if exp="sf.r_315==1"][links target=*r_315]Ending[endlink][r][endif]
 [if exp="sf.r_315==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
 [deffont color=0xFF0033]
@@ -202,10 +202,10 @@
 [if exp="sf.d_018==1"][links target=*d_018]デヴィッド奴隷散歩[endlink][r][endif]
 [if exp="sf.d_018==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.d_019==1"][links target=*d_019]デヴィッドドロップアウト[endlink][r][endif]
+[if exp="sf.d_019==1"][links target=*d_019]Dropout[endlink][r][endif]
 [if exp="sf.d_019==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.d_208==1"][links target=*d_208]デヴィッドエンディング[endlink][r][endif]
+[if exp="sf.d_208==1"][links target=*d_208]Ending[endlink][r][endif]
 [if exp="sf.d_208==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
 [deffont color=0xFF0033]
@@ -257,16 +257,16 @@
 [if exp="sf.k_107==1"][links target=*k_107]小柳回想2[endlink][r][endif]
 [if exp="sf.k_107==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.k_108==1"][links target=*k_108]小柳テイスティング[endlink][r][endif]
+[if exp="sf.k_108==1"][links target=*k_108]Tasting[endlink][r][endif]
 [if exp="sf.k_108==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.k_109==1"][links target=*k_109]小柳キス[endlink][r][endif]
+[if exp="sf.k_109==1"][links target=*k_109]Kiss[endlink][r][endif]
 [if exp="sf.k_109==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
 [if exp="sf.o_400==1"][links target=*o_400]コトウノオニ[endlink][r][endif]
 [if exp="sf.o_400==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.o_401==1"][links target=*o_401]グローリーホール[endlink][r][endif]
+[if exp="sf.o_401==1"][links target=*o_401]Gloryhole[endlink][r][endif]
 [if exp="sf.o_401==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
 [r]

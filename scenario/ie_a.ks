@@ -98,8 +98,8 @@
 
 [bg storage="sky"]
 
-さぁ、もう昼になる。[br]
-次はどこへ行く？[pc]
+Hmm, it's already noon.[br]
+Where should I go next?[pc]
 
 [fadeoutbgm time=1000]
 
