@@ -560,11 +560,11 @@ Standing behind him, I brought my arms around his burly frame and began to fondl
 【[emb exp=sf.sname]】 "Don't mind me, keep working."[pc]
 
 Koyanagi's well-trained nipples had grown so large as to render any thin shirt meaningless, becoming hard with even the slightest stimulation.[br]
-その胸の勃起をちょっと弄ってやれば…。[pc]
+If I pinch and rub them even a little...[pc]
 
 【Koyanagi】 "......Kuh."[pc]
 
-もう一つ勃起。スーツの下が、シンボルのフォルムを美しく象る。[br]
+Something else rises under the suit which so perfectly hugs every curve of his form.[br]
 世間では、男は年を取れば枯れるもの。５０も過ぎればただの中年になるのだろうが、コイツは違う。[br]
 年老いてなお、肉体に膏が乗りつづけ、成熟した肉体。その体は一つの彫像のように、美しい上に存在感がある。[br]
 男に興味がある奴なら、見ているだけで誰でも涎が出る体だ。[pc]
@@ -894,7 +894,7 @@ The hunt begins.[pc]
 [playbgm storage="chase"]
 [bgmopt volume=100]
 
-【？？】 "Help!! Someone stole my purse!!!"[pc]
+【???】 "Help!! Someone stole my purse!!!"[pc]
 
 裏街の静寂を劈くような叫び声、声のほうを振り返れば[pc]
 
@@ -932,7 +932,7 @@ The hunt begins.[pc]
 しめた、この先は袋小路だ。[pc]
 
 
-【赤嶺】「うぉおおお！！！！」[pc]
+【Akamine】「うぉおおお！！！！」[pc]
 
 
 行き止まりにブチあたり、足の止まった男の背中に俺は跳びかかる。[pc]
@@ -943,7 +943,7 @@ The hunt begins.[pc]
 倒れこむ二人。覆いかぶさる形になった俺は、その男の背中を地に押し付ける。[pc]
 
 
-【赤嶺】「動くな、警察だ！！」[pc]
+【Akamine】 "Police! Freeze!!"[pc]
 
 
 もう一度グイと背を押し込む。[br]
@@ -960,9 +960,9 @@ The hunt begins.[pc]
 
 【Akamine】 "......Gyaaaaah!!? ...Ah..."[pc]
 
-後ろから、首に何か当てられた。[br]
-それを感じた次の瞬間、肉体を引き裂くような衝撃が、俺を襲う。[br]
-そして、俺は…。[pc]
+I felt something hit the back of my neck.[br]
+In an instant, a searing shock surged through my whole body.[br]
+And then, I...[pc]
 
 
 .........[pc]
@@ -996,7 +996,7 @@ The hunt begins.[pc]
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
-警官の体をこともなげにどけると、小柳は埃のついたスーツをパタパタと叩く。[pc]
+Koyanagi stepped over the crumpled form of the policeman, dusting off his suit.[pc]
 
 【[emb exp=sf.sname]】「スタンガンは扱いが難しいな。急所に当てないと気絶させるほどの威力がないし、かといってやりすぎると、後遺症が残る。」[pc]
 
@@ -1029,15 +1029,15 @@ The hunt begins.[pc]
 
 [bg storage="002koyanagi_unten_yoru"]
 
-【小柳】「行きましょうか。港に船を用意してあります。」[pc]
+【Koyanagi】 "Shall we depart? I have prepared a ship in the harbor."[pc]
 
 
-【[emb exp=sf.sname]】「急いだほうがいいな。[br]
-今夜中に動かないと、警官が行方不明になるなんて騒ぎになってからだと面倒だ……。」[pc]
+【[emb exp=sf.sname]】 "We'd better hurry.[br]
+If we don't move him before someone realizes he's missing we'll have a lot more problems to deal with......"[pc]
 
 【Koyanagi】「赤嶺は麻薬に手を出していたそうですよ。」[pc]
 
-こちらも見ずに、小柳は言葉を続ける。[pc]
+Without turning to look at me, Koyanagi continued.[pc]
 
 【Koyanagi】「今夜、本島で薬の売人が一人捕まります。[br]
 売人は離島の警察官にも薬を売ったと証言するでしょう。[br]
@@ -1046,7 +1046,7 @@ The hunt begins.[pc]
 家族にもすぐには説明されないでしょう。[br]
 警察の対応次第では、赤嶺巡査はいなかったものとされるかもしれませんね。」[pc]
 
-車が走り出す。[pc]
+He started the car.[pc]
 
 ;車の走り出す音
 [playse storage="car_start"]
@@ -1067,7 +1067,7 @@ The hunt begins.[pc]
 
 [bg storage="black"]
 
-楽しくなりそうだな。[pc]
+This is going to be fun.[pc]
 
 
 ;-----------------------[br]
@@ -1137,8 +1137,8 @@ Nnuuh......[pc]
 [position layer=message0 page=back frame="window_n.png"]
 
 【[emb exp=sf.sname]】「初めまして、とでも言えばいいのかな、こういうときは。[br]
-…俺は、今日からお前の飼い主になる人間だ。[br]
-今日からお前を俺の奴隷にするために、ここまでさらってきた。」[pc]
+...From this day forward, I'm your new Owner.…俺は、今日からお前の飼い主になる人間だ。[br]
+I've abducted you and brought you here to become my Slave."[pc]
 
 回りくどい言い方をしても仕方ない。俺は単刀直入に、言い放ってやった。[br]
 俺の言っていることを飲み込めてない表情の警官。[br]
@@ -1217,13 +1217,13 @@ Though he seemed to blush as he watched on, he also looked distinctly pale.[pc]
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【太】「くそっ…！汚い、放せ！！ほどけ！！！くそっ！！」[pc]
+【Futoshi】 "Shit...! Let me go, you bastard!! Untie me!!! Shit!!"[pc]
 
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
-【[emb exp=sf.sname]】「はは、いい顔だな。[br]
+【[emb exp=sf.sname]】 "Hahah, such a lovely expression.[br]
 …そのうち、精液の匂いを嗅いだだけで、とろけちまうような豚にしてやるからな。[br]
 今のうちに吠えておくといいぞ。」[pc]
 

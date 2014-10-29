@@ -97,7 +97,7 @@ It was an email from Koyanagi.[pc]
 どうせだし、もっといろいろな場所を見ておきたい。[br]
 俺は裏通りを後にした。[pc]
 
-さて、どこに向かおうか[pc]
+Now then, where should I go next?[pc]
 
 [jump target=*erabu]
 -------------------
@@ -140,7 +140,7 @@ It was an email from Koyanagi.[pc]
 
 こうやって、独りでゆっくり休むのも、そういえば久しぶりだな……[pc]
 
-……。[pc]
+......[pc]
 
 [fadeoutbgm time=1000]
 
@@ -151,18 +151,18 @@ It was an email from Koyanagi.[pc]
 [layopt layer=0 page=fore visible=true]
 [image storage="0901.png" layer=0 page=fore top=0 left=660]
 
-……　……。[pc]
+...... ......[pc]
 
 
 
 そうして、ウトウトしながら過ごしていると、やがて小柳からのメールが届いた。[pc]
 
 
-＜埠頭までお越しください。地図を添付します----＞[pc]
+＜Please come to the wharf. I have attached a map----＞[pc]
 
 ……準備が出来たか。そう思い俺が立ち上がろうとすると。[pc]
 
-【[emb exp=sf.sname]】「？」[pc]
+【[emb exp=sf.sname]】 "?"[pc]
 
 すでにこんな時間だ。観光客は消え、出店も当然閉まっていて。なのに、こんな時間に冴えない男が一人でウロウロしてる。[br]散歩か何かか？[pc]
 なんとなくだが、その男に俺は同じ種類の人間の匂い……言ってしまえば「ホモ臭さ」を感じた。みんなそうだろうが、大体その手の人間はなんとなく分かる。[br]
@@ -191,7 +191,7 @@ It was an email from Koyanagi.[pc]
 どうせだし、もっといろいろな場所を見ておきたい。[br]
 俺は公園を後にした。[pc]
 
-さて、どこに向かおうか[pc]
+Okay, where to next...[pc]
 
 [jump target=*erabu]
 --------------------------
@@ -226,7 +226,7 @@ It was an email from Koyanagi.[pc]
 
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
-【琉吾】「ほらネーネー、見て行ってさー！」[pc]
+【Ryuugo】 "Hey, come on, take a look!"[pc]
 
 
 [position layer=message0 page=fore frame="window_n.png"]
@@ -247,8 +247,8 @@ It was an email from Koyanagi.[pc]
 ;★下心が俺の中でムクムクと生まれた
 
 [select]
-[links target=*ichiba1]1.しかしあまり長居も出来ないな[endlink][r]
-[links target=*ichiba2]2.下心が俺の中でムクムクと生まれた[endlink][r]
+[links target=*ichiba1]1. I can't hang around here too long.[endlink][r]
+[links target=*ichiba2]2. I feel an Ulterior Motive billowing up inside me.[endlink][r]
 [endselect]
 [s]
 --------------------
@@ -300,7 +300,7 @@ It was an email from Koyanagi.[pc]
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【Ryuugo】 ".....So you're a Naichaa, bro? A tourist?"[pc]
+【Ryuugo】 ".....Ah, so you're a tourist, huh? You from the mainland, bro?"[pc]
 
 
 [position layer=message0 page=fore frame="window_n.png"]
@@ -315,19 +315,19 @@ It was an email from Koyanagi.[pc]
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【琉吾】「ひんがーいか」[pc]
+【Ryuugo】 "How about some Hingaa Squid?"[pc]
 
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
-【[emb exp=sf.sname]】 ".........And what's that?"[pc]
+【[emb exp=sf.sname]】 ".........And that is?"[pc]
 
 
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【Ryuugo】 「ヤマトンチューさぁとびいかっていうかもなぁ。[br] We don't usually普段店には出ないんだけどねー。食べたことある？天日干し。」[pc]
+【Ryuugo】 "I think you'd call it 'Purple-Back Flying Squid'.[br] We don't usually get many mainlanders shopping here. Have you ever had it? It's sun-dried."[pc]
 
 
 [position layer=message0 page=fore frame="window_n.png"]
@@ -366,7 +366,7 @@ It was an email from Koyanagi.[pc]
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
-男はいそいそと烏賊の干したものを包む。[br]
+The man cheerfully wrapped up the squid.[br]
 それにしても、よりにもよってチョイスが「イカ」か。こんないい男の前で、この匂いはなかなか。劣情を催させてよくない。[pc]
 
 俺は札を取り出し男の手に乗せる。現金で買い物するのはそういえば久しぶりだということを思い出した。[pc]
