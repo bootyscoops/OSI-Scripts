@@ -1136,17 +1136,15 @@ Nnuuh......[pc]
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
-【[emb exp=sf.sname]】「初めまして、とでも言えばいいのかな、こういうときは。[br]
-...From this day forward, I'm your new Owner.…俺は、今日からお前の飼い主になる人間だ。[br]
+【[emb exp=sf.sname]】 "Pleased to meet you, I guess. What are you even supposed to say in this situation.[br]
+...From this day forward, I'm your new Owner.[br]
 I've abducted you and brought you here to become my Slave."[pc]
 
-回りくどい言い方をしても仕方ない。俺は単刀直入に、言い放ってやった。[br]
-俺の言っていることを飲み込めてない表情の警官。[br]
-まぁそれはそうだろう。[br]
+There was no point in sugarcoating it. I like to get straight to it.[br]
+Judging by the look on his face, he had no idea what I was talking about.[br]
+But then, I could hardly blame him.[br]
 
-
-
-しかしやがて、ハッとした顔で、警官は俺の顔を見る。[pc]
+When the cop finally turned and saw my face, he gasped aloud.[pc]
 
 
 [position layer=message0 page=fore frame="window_t.png"]
@@ -1217,7 +1215,7 @@ Though he seemed to blush as he watched on, he also looked distinctly pale.[pc]
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【Futoshi】 "Shit...! Let me go, you bastard!! Untie me!!! Shit!!"[pc]
+【Futoshi】 "Shit...! Let me go, you bastard!! Untie me!!! Fuck!!"[pc]
 
 
 [position layer=message0 page=fore frame="window_n.png"]
