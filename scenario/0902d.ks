@@ -28,22 +28,22 @@
 
 【Futoshi】 "...Don't fuck with me..."[pc]
 
-思ったより勢いのない声。よく見ると、体が小刻みに震えている。[pc]
+His voice was much less forceful than I expected. Looking closely, I could see his whole body trembling.[pc]
 
-【[emb exp=sf.sname]】「…ああ、小便か。そういえば丸一日近くその格好だったか？」[pc]
+【[emb exp=sf.sname]】 "...Oh, you must need to piss real bad. You've been stuck like that for almost a whole day now, haven't you?"[pc]
 
 【Futoshi】 "......"[pc]
 
-【[emb exp=sf.sname]】「…便所に行きたいか。」[pc]
+【[emb exp=sf.sname]】 "...Do you want to use the bathroom?"[pc]
 
-そう尋ねると、赤嶺は少し躊躇いながらも頷いた。[pc]
+Akamine hesitated, but soon nodded in response to my question.[pc]
 
-俺は…[pc]
+I...[pc]
 
 
 [select]
-[links target=*dame]1.しかしそれを許さなかった[endlink][r]
-[links target=*soto]2.外まで連れて行くことにした[endlink][r]
+[links target=*dame]1. Deny him the privilege[endlink][r]
+[links target=*soto]2. Decide to take him outside[endlink][r]
 [endselect]
 [s]
 
@@ -57,22 +57,22 @@
 
 [eval exp="sf.f_piss=1"]
 
-【[emb exp=sf.sname]】「そのまま漏らしていいぞ。」[pc]
+【[emb exp=sf.sname]】 "Too bad. You can go right where you are."[pc]
 
-【太】「…畜生…！お前、ふざけるな…！放せ！！」[pc]
+【Futoshi】 "...Dammit...! Quick fuckin' around! Let me go!!"[pc]
 
-【[emb exp=sf.sname]】「うるさい。」[pc]
+【[emb exp=sf.sname]】 "Shut up."[pc]
 
 [playse storage="dosa"]
 
-グギュッ！[br]
-俺は太の下腹の上に、靴底を思い切り押し当てた。[pc]
+Tmp![br]
+I placed my foot on Futoshi's abdomen and pressed down.[pc]
 
-【太】「うぅあ…やめ…ああああ！！！」[pc]
+【Futoshi】 "Uaah...Sto...AaaaAAAH!!!"[pc]
 
-【[emb exp=sf.sname]】「ほら、遠慮なく漏らせ。おら、オラ！」[pc]
+【[emb exp=sf.sname]】 "Come on, just let loose. Go, GO!"[pc]
 
-【太】「うぁ。あッ　あァッ　あ　ぁぁああああ……」[pc]
+【Futoshi】 "Auh..Ah! Unh! AaAAAaaaah......"[pc]
 
 ;SE　じょぼぼぼぼ　CG006差分（お漏らし）
 [playse storage="toilet"]
@@ -86,7 +86,7 @@
 尿道の締まりが悪いのか、溜め込んでいたのか。[br]
 その滑稽な音はいつまでも洞窟内に響く。[pc]
 
-【太】「うぅ…ぁ……」[pc]
+【Futoshi】 "Uuuh...ah......"[pc]
 
 【[emb exp=sf.sname]】「…いい年こいてお漏らしかよ。[br]
 とんでもねぇおまわりさんだな。あー臭ぇ臭ぇ。」[pc]
