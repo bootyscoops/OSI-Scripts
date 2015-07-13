@@ -105,10 +105,10 @@
 [graph storage="al_album" char=true][r]
 ;[font color=0xff9a17]ALBUM[resetfont][r]
 [resetfont]
-[if exp="sf.r_022==1"][links target=*r_022]琉吾オナニー1[endlink][r][endif]
+[if exp="sf.r_022==1"][links target=*r_022]Ryuugo Masturbation 1[endlink][r][endif]
 [if exp="sf.r_022==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.r_023==1"][links target=*r_023]琉吾オナニー2[endlink][r][endif]
+[if exp="sf.r_023==1"][links target=*r_023]Ryuugo Masturbation 2[endlink][r][endif]
 [if exp="sf.r_023==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
 [if exp="sf.r_024==1"][links target=*r_024]琉吾皮遊び1[endlink][r][endif]
@@ -193,7 +193,7 @@
 [if exp="sf.d_015==1"][links target=*d_015]デヴィッド全裸撮影[endlink][r][endif]
 [if exp="sf.d_015==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
-[if exp="sf.d_016==1"][links target=*d_016]デヴィッド全裸スクワット[endlink][r][endif]
+[if exp="sf.d_016==1"][links target=*d_016]David Naked Squat[endlink][r][endif]
 [if exp="sf.d_016==0"][font color=0x8a8a8a]Undiscovered Picture[resetfont][r][endif]
 
 [if exp="sf.d_017==1"][links target=*d_017]デヴィッド銭湯奉仕[endlink][r][endif]

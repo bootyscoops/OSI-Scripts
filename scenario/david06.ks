@@ -74,7 +74,7 @@
 「支配者」として生まれた人間だけが体感出来る、体を駆け巡るこの熱を、俺は今十分に堪能していた。[pc]
 
 うめき声は、歩道脇の茂みの、さらに深いところからだった。[br]
-そこでは、裸の男が一人、尻の穴に指を突っ込んで、自慰に耽っていた……。[pc]
+There was a naked man, alone, jerking off with a finger in his ass......[pc]
 
 ;背景茂み
 ;立ち絵　デイビー裸　哀願
@@ -84,11 +84,11 @@
 [layopt layer=1 page=fore visible=true]
 [image storage="デヴィッド哀願4" layer=1 page=fore pos=c]
 
-【[emb exp=sf.sname]】「やっぱり、お前は裸のほうが似合う。」[pc]
+【[emb exp=sf.sname]】 "I knew it, you really do look better naked."[pc]
 
 [tt]
 
-【デヴィッド】「う……ああ！？」[pc]
+【David】 "Uh...Aah!?"[pc]
 
 [tn]
 
@@ -123,12 +123,12 @@
 俺の脚にすがりつく。しがみつく。頭をこすりつける。[br]
 あの「軍人」の姿はここにはない。俺の足元でうずくまる、これは……。[pc]
 
-【デヴィッド】「……Please,Fuck……！！！」[pc]
+【David】 "....<Please, Fuck me>...!!!"[pc]
 
 ただの一匹の動物だ。[br]
 支配されることを望む、奴隷という名の生き物。[pc]
 
-【[emb exp=sf.sname]】「デヴィッド。」[pc]
+【[emb exp=sf.sname]】 "David."[pc]
 
 改めて俺は彼の肉体を観察する。[br]
 肩周りだけで、下手したら女の腰ぐらいあるんじゃないかという屈強な肉体。[br]
@@ -137,15 +137,15 @@
 それらすべてをガチガチに固くさせて、俺を求めている。[br]
 アナルの疼きに負けて、誇りを手放した、卑しいブタ。[pc]
 
-【[emb exp=sf.sname]】「前に言っただろ？俺はセックスフレンドは要らない。[br]
-奴隷。スレイブ。分かるか？[br]
-お前ら白人がかつて、ニガーを支配していたように。[br]
-お前が奴隷になるんだ。」[pc]
+【[emb exp=sf.sname]】 "Didn't I tell you before? I'm not looking for a Fuckbuddy here.[br]
+I need a Slave. <Slave>. Do you understand?[br]
+Like what you white people used to be so fond of.[br]
+You'll be my absolute, unconditional Slave."[pc]
 
-足元にまとわりつくデヴィッド。[br]
+David just clung to my foot.[br]
 いい加減それがうっとうしくて、俺は軽く蹴り飛ばした。[pc]
 
-【デヴィッド】「アウッ！！」[pc]
+【David】 "Augh!!"[pc]
 
 【[emb exp=sf.sname]】「ただケツ振ってチンポねだってれば気持ちよくしてもらえると思ったら大間違いだぞ。[br]
 俺がお前を殴りたいと思ったらお前はその太鼓腹を差し出してサンドバックとして使わせるんだ。[pc]
@@ -160,20 +160,20 @@
 俺は自分のファスナーを降ろす。そこから出てくるのは……[br]
 目の前のブタが夢にまで見ただろうものだ。[pc]
 
-【[emb exp=sf.sname]】「これが欲しいのか。」[pc]
+【[emb exp=sf.sname]】 "Is this what you want?"[pc]
 
 [tt]
 
-【デヴィッド】「････Yes･･･！」[pc]
+【David】 "...<Yes>...!"[pc]
 
 [tn]
 
-【[emb exp=sf.sname]】「だったら誓え。お前は俺のスレイブだ。[br]
-俺は、お前の飼い主……master。わかるか？」[pc]
+【[emb exp=sf.sname]】 "Then swear it. You are my Slave.[br]
+And I'm your Owner...Your <Master>. Understand?"[pc]
 
 [tt]
 
-【デヴィッド】「Yes！　I'm your slave･･･！Please･･･！！」[pc]
+【David】 "<Yes！　I'm your slave･･･！Please･･･！！>"[pc]
 
 [tn]
 
@@ -182,7 +182,7 @@ Show me your asshole.」[pc]
 
 [tt]
 
-【デヴィッド】「････Yes･･･！」[pc]
+【David】 "...<Yes>...!"[pc]
 
 [tn]
 
@@ -249,7 +249,7 @@ Show me your asshole.」[pc]
 そうやって、彼は、俺が「ご褒美」をあげるまでに、３回も果てて見せたのだ。[pc]
 
 
-こうして、米軍海兵隊軍曹、デヴィッド・ゴールドバーグは俺の手中に落ちた。[br]
+And so, USMC Sergeant David Goldberg fell into my hands.[br]
 ……しかし、まだ足りない。もっと、もっと汚さないと。[br]
 どん底の一番底まで堕ちて、もう、この生き方しか選べないと。[br]
 奴隷としてしか価値がない体に変えていかないといけない。[pc]

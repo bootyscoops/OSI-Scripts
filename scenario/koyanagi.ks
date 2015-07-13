@@ -22,8 +22,8 @@
 
 [playbgm storage="car_inside"]
 
-y[emb exp=sf.sname]zucc‚ñH[br]
-‚¨‚¢¬–öBÔ‚ğ~‚ß‚ëBv[pc]
+y[emb exp=sf.sname]z "......Hm?[br]
+Hey, Koyanagi. Stop the car."[pc]
 
 [playse storage="car_stop"]
 [wait time=1000]
@@ -46,7 +46,7 @@
 
 [playbgm storage="wind"]
 
-y[emb exp=sf.sname]zu‚¨‚¢Bv[pc]
+y[emb exp=sf.sname]z "Hey."[pc]
 
 [tt]
 

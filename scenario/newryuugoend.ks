@@ -91,7 +91,7 @@
 
 [tn]
 
-喋ってる間にも、琉吾のデカチンがズボン越しに勃起しているのが分かる。[br]
+Even as we spoke, I could see Ryuugo's fat cock throbbing under his pants.[br]
 これは相当重症だ。[pc]
 
 [layopt layer=1 page=fore visible=true]

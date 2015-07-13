@@ -3,7 +3,7 @@
 [bg storage="black"]
 [wait time=1000]
 
-<9/2@ŒŽ—j“ú@’‹„[br]
+<9/2@Monday Midday„[br]
 
 [wait time=1000]
 
@@ -29,7 +29,7 @@
 
 y[emb exp=sf.sname]zu‚»‚Ì‚Ü‚Ü‹ó‚¯‚Ä‚¨‚¯Bv[pc]
 
-y¬–özu—¹‰ð‚µ‚Ü‚µ‚½Bv[pc]
+yKoyanagiz "Understood."[pc]
 
 [fadeoutbgm time=1000]
 
@@ -72,8 +72,8 @@
 
 
 [select]
-[links target=*minza]1.…À“‡‚Ì‚±‚Æ‚É‚Â‚¢‚Ä[endlink][r]
-[links target=*job]2.ãŒ´‚ÌŽdŽ–‚É‚Â‚¢‚Ä[endlink][r]
+[links target=*minza]1. Talk about Minza. …À“‡‚Ì‚±‚Æ‚É‚Â‚¢‚Ä[endlink][r]
+[links target=*job]2. Talk about Uehara's job.ãŒ´‚ÌŽdŽ–‚É‚Â‚¢‚Ä[endlink][r]
 [links target=*but]3.‚µ‚©‚µ‚à‚¤’‚é‚Ì‚à‰­…‚¾[endlink]
 [endselect]
 [s]
@@ -220,8 +220,8 @@
 
 
 [select]
-[links storage="0902d.ks"]1.‚·‚®‚É‚Å‚à“‡‚ÉŒü‚©‚¤[endlink][r]
-[links storage="0902c.ks"]2.­‚µŠñ‚è“¹‚µ‚Ä‚¢‚±‚¤‚©[endlink]
+[links storage="0902d.ks"]1. Head straight to the island.[endlink][r]
+[links storage="0902c.ks"]2. Take a little detour.[endlink]
 [endselect]
 [s]
 

@@ -247,7 +247,7 @@
 そりゃそうだろう。俺の贔屓目を抜きにしても、小柳の肉体は素晴らしい。[br]
 やがて、小柳自身、彼らの視線にたまらなくなったのだろう……。[pc]
 
-「……すげぇ、チンポでけぇ……。」[pc]
+"......Woah, his cock is huuuge......"[pc]
 
 ギャラリーのささやきに俺が振り向けば、なるほど。[br]
 小柳は勃起していた。まだ少しも触れていないにも関わらず。[pc]
@@ -255,7 +255,7 @@
 【[emb exp=sf.sname]】「……チンポ見られて感じてるのか。[br]
 相変わらず淫らしい体だ。一緒に歩いてるこっちが恥ずかしいぞ？」[pc]
 
-【小柳】「……。」[pc]
+【Koyanagi】 "......"[pc]
 
 【[emb exp=sf.sname]】「返事はどうした？」[pc]
 
@@ -404,7 +404,7 @@
 
 [er]
 [select]
-[links target=*ziko]1.自己紹介でもしてみろよ。[endlink][r]
+[links target=*ziko]1. Have him introduce himself.[endlink][r]
 [links target=*dare]2. Have him suck someone's cock.[endlink]
 [endselect]
 [s]

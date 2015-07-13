@@ -326,11 +326,11 @@
 *seven
 
 [select]
-[links storage="sarutori_c.ks" target=*start]1.ƒTƒ‹ƒgƒŠ’Ê‚è[endlink][r]
-[links storage="park_c.ks" target=*start]2.…Àéš¬Œö‰€[endlink][r]
-[links storage="ichiba_c.ks" target=*start]3.ŠÏŒõsê[endlink][r]
-[links storage="ie_c.ks" target=*start]4.Z‘î’n[endlink][r]
-[links storage="kugai.ks" target=*start]5.ƒNƒKƒC“‡[endlink]
+[links storage="sarutori_c.ks" target=*start]1. Sarutori Street[endlink][r]
+[links storage="park_c.ks" target=*start]2. Minza Castle Park[endlink][r]
+[links storage="ichiba_c.ks" target=*start]3. The Markets[endlink][r]
+[links storage="ie_c.ks" target=*start]4. The Residential District[endlink][r]
+[links storage="kugai.ks" target=*start]5. Kugai Island[endlink]
 [endselect]
 [s]
 

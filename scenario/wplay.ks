@@ -28,14 +28,14 @@
 [layopt layer=1 page=fore visible=true]
 [image storage="デヴィッド戸惑い回想" layer=1 page=fore pos=l]
 
-デヴィッド・ゴールドバーグ[pc]
+David Goldberg[pc]
 
 ;右に　琉吾快感A2.png　ハチマキつき
 
 [layopt layer=2 page=fore visible=true]
 [image storage="琉吾快感A回想" layer=2 page=fore pos=r]
 
-仲井間　琉吾[pc]
+Ryuugo Nagaima[pc]
 
 この島で見つけた２匹の雄。両者ともに仕上がりは悪くない。[br]
 浅ましくチンポを勃起させ、俺の下で這い蹲る姿は、甲乙つけがたい。[br]
@@ -93,17 +93,17 @@
 
 [tt]
 
-【琉吾】「兄さん、着いたよ。でも、なんでこんなとこ……。」[pc]
+【Ryuugo】 "Bro, there you are. What the heck is this place......"[pc]
 
 [tn]
 
-ケイタイから聞こえてくるのは琉吾の声。出勤前にこの公園に来るように命令した。[br]
-当の琉吾は何故こんな場所に呼ばれたのかその理由を知らない。[br]
-朝の空気の中、少し緊張気味の琉吾の声が受話器越しに届いてくる。[pc]
+It was Ryuugo. He had absolutely no idea what I had planned for him here.[br]
+All I said was to come to this park before work.[br]
+He sounded a little nervous, standing alone in the still morning air.[pc]
 
-俺は少し離れたところからそんな琉吾を観察し、続いての命令を下す。[pc]
+Observing from a distance, I gave him his instructions.[pc]
 
-【[emb exp=sf.sname]】「トイレに来いよ。面白いことが待ってるぞ。」[pc]
+【[emb exp=sf.sname]】 "Go into the restroom. There's something interesting waiting for you."[pc]
 
 ;トイレの背景が必要なら差し込みますがとりあえずこのまま
 
@@ -112,16 +112,16 @@
 島一番の広さを持つ公園といえど、きちんと管理されてるとはとても言いがたく、少しの風でギシギシと音を立てるボロ便所。独特の臭気も放ち、あまり居心地のいい場所とはいえないだろう。[br]
 琉吾はなんだかそわそわしている。仕事の時間が近いせいか、それとも、これから起こる「何か」を予感してか。[pc]
 
-【[emb exp=sf.sname]】「空いてるほうの個室に入って、下を脱げ。[br]
-そしたら、壁の穴にチンポを差し込んでみろよ。」[pc]
+【[emb exp=sf.sname]】 "Go into one of the empty cubicles and pull your pants down.[br]
+Then stick your cock in the glory hole."[pc]
 
 [tt]
 
-【琉吾】「壁……の穴？」[pc]
+【Ryuugo】 "Glory......Hole?"[pc]
 
 [tn]
 
-【[emb exp=sf.sname]】「そうだ、壁の穴だ。」[pc]
+【[emb exp=sf.sname]】 "Yeah, the glory hole."[pc]
 
 [layopt layer=1 page=fore visible=true]
 [image storage="kara" layer=1 page=fore pos=c]
@@ -153,23 +153,23 @@
 
 [tt]
 
-【琉吾】「ひっ……？！　な、なんだよこれ……！！！！」[pc]
+【Ryuugo】 "Hhuh...!? W-What the hell is.....!!!!"[pc]
 
 [tn]
 
-ケイタイから飛んでくる琉吾の嬌声。[br]
-聞いているこっちは、おかしくて笑いがこみ上げてくる。[pc]
+A delightful moan soared down the phone line.[br]
+It was all I could do to keep from laughing.[pc]
 
-【[emb exp=sf.sname]】「楽しいだろぉ？琉吾。どうだ、感想は。」[pc]
+【[emb exp=sf.sname]】 "Having fun, Ryuugo? Tell me, how does it feel?"[pc]
 
 [tt]
 
-【琉吾】「なっ……？！　こ、これ何……！！[br]
-チンポ、ワンのチンポ、誰かが……！！」[pc]
+【Ryuugo】 "Wh....!? W-What is...!![br]
+Who the hell is...M-My cock......!!"[pc]
 
 [tn]
 
-【[emb exp=sf.sname]】「誰かが……？」[pc]
+【[emb exp=sf.sname]】 "Who......?"[pc]
 
 ;琉吾恥じらい３
 
@@ -180,7 +180,7 @@
 
 [tt]
 
-【琉吾】「誰か……舐めてるっ！！　あぁああ！！だめだ、こんな！ヒィィッ！！！」[pc]
+【Ryuugo】 "Who's...Licking it!! AaaaAAA!! Fuck, this is...Unngh!!!"[pc]
 
 [tn]
 
@@ -198,14 +198,14 @@
 
 [eval exp="sf.o_401=1"]
 
-壁越しに与えられるチンポへの刺激に、琉吾が鳴き吼える。[br]
-童貞チンポには相当刺激的な体験だろうな。[pc]
+The stimulation from the other side was practically making Ryuugo scream.[br]
+To a virgin cock, this would feel absolutely incredible.[pc]
 
-【[emb exp=sf.sname]】「そう、正解。その壁の向こうには、チンポが好きなお姉さんがいるんだよ。[br]
-とくに琉吾みたいな臭いデカチンが大好きなんだとよ。[br]
-嬉しいだろ？お前も。デカチン咥えられて最高だろ。」[pc]
+【[emb exp=sf.sname]】 "Well, on the other side of that wall is a woman who just loves cocks.[br]
+And she especially loves huge, ripe cocks like yours, Ryuugo.[br]
+Are you enjoying it? Having that fat dick sucked must feel amazing."[pc]
 
-【琉吾】「ああああ、な、お、女がっ！ワンの！チンポ！[br]
+【Ryuugo】「ああああ、な、お、女がっ！ワンの！チンポ！[br]
 ぁぁああ！！！　ヒグッ、ヒッ！ヒッ！っぁああああ！！！」[pc]
 
 声にならない声で悦楽の吐息を漏らす琉吾。[br]
@@ -293,7 +293,7 @@
 
 それから……[pc]
 
-【[emb exp=sf.sname]】「小柳。」[pc]
+【[emb exp=sf.sname]】 "Koyanagi."[pc]
 
 【[emb exp=sf.sname]】「会議の前の一仕事だ。お前の穴でこいつをなんとかしろ。[br]
 社長のチンポのメンテナンスも、秘書の大事な仕事だろ？」[pc]

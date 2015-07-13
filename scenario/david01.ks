@@ -105,8 +105,8 @@ Faced with the giant, I......[pc]
 身の丈、180……190越えてるか？[br]
 俺の秘書も体のボリュームはかなりのものだが、それ以上だな。[br]
 背の高さだけでない。[br]
-タンクトップの脇から生える腕は、まるで映画に出てくるアクションスター…[br]
-…いや、モンスターのようだ。[pc]
+With those massive arms bulging from his tank top, he looked like an action movie star...[br]
+...Well, no, more like a Monster.[pc]
 
 国旗をあしらったタトゥーが、巌のような彼の両肩によく映えている。[pc]
 
@@ -151,7 +151,7 @@ Faced with the giant, I......[pc]
 
 【[emb exp=sf.sname]】 "......What's this idiot saying?"[pc]
 
-I knew enough rudimentary english to get through a business meeting, but I couldn't even make out half of what this native speaker was saying.[pc]
+I knew enough rudimentary english to get through a business meeting, but I couldn't even make out half of the words coming out of this native speaker's mouth.[pc]
 
 ;小柳普通の立ち絵をディビーの隣に
 
@@ -168,7 +168,7 @@ I knew enough rudimentary english to get through a business meeting, but I could
 
 [tt]
 
-【Koyanagi】 "......What the fuck were you staring at me for, fuckin' Jap! ...Or something along those lines."[pc]
+【Koyanagi】 "......What the fuck were you staring at, fuckin' Jap! ...Or something along those lines."[pc]
 
 [tn]
 
@@ -177,7 +177,7 @@ As expected of my secretary.[pc]
 [er]
 [select]
 [links target=*step2]1. Might be interesting to pick a fight.[endlink][r]
-[links target=*goout]2. What's with this foreigner, I'm not interested.[endlink]
+[links target=*goout]2. What's with this foreigner. I'm not interested.[endlink]
 [endselect]
 [s]
 
@@ -193,7 +193,7 @@ As expected of my secretary.[pc]
 [position layer=message0 page=fore frame="window_t2.png"]
 [position layer=message0 page=back frame="window_t2.png"]
 
-【Foreigner】「……○×☆※♪＃＄！！！」[pc]
+【Foreigner】 "……○×☆※♪＃＄！！！"[pc]
 
 [tn]
 

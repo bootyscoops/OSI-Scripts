@@ -19,7 +19,7 @@
 [layopt layer=0 page=fore visible=true]
 [daywindow]
 
-【[emb exp=sf.sname]】「……。」[pc]
+【[emb exp=sf.sname]】 "......"[pc]
 
 俺はジト目で琉吾を見張る。[pc]
 
@@ -69,7 +69,7 @@
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【琉吾】「ワンだけだし、遠慮しないでよー。」[pc]
+【Ryuugo】 "It's just me here, so make yourself at home."[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
@@ -90,7 +90,7 @@
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【琉吾】「じゃじゃーんっ」[pc]
+【Ryuugo】 "Tadaaa."[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
@@ -116,7 +116,7 @@
 
 [stopse]
 
-【琉吾】「んじゃ、ま。カンパーイ！！」[pc]
+【Ryuugo】 "Well, cheers!!"[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
@@ -137,7 +137,7 @@
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【琉吾】「んー？朝イチ。」[pc]
+【Ryuugo】 "Huh? Yeah, the morning shift."[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
@@ -227,7 +227,7 @@
 
 ;SE　ゴクゴク何回か
 
-ゴクンゴクン[pc]
+Gulp gulp[pc]
 
 ;SE　ゴクゴク何回か
 
@@ -235,7 +235,7 @@
 [wait time=1000]
 
 
-おお、兄さん本当にイケる口だね[pc]
+Damn, you can really put 'em away, Bro[pc]
 
 ;SE　ゴクゴク何回か
 
@@ -340,8 +340,8 @@
 
 [er]
 [select]
-[links target=*matsu]1.そのままおとなしく待つことにする。[endlink][r]
-[links target=*toilet]2.俺も便所に行くか･･･。[endlink][r]
+[links target=*matsu]1. I'll just sit here and wait.[endlink][r]
+[links target=*toilet]2. I'll go to the toilet too...[endlink][r]
 [if exp="f.drug==1"]
 [links target=*ippuku]3.この間に一服盛るか･･･。[endlink]
 [endif]
@@ -445,12 +445,12 @@
 
 立ち上がると、ちょうど入れ替わりで琉吾が戻ってきた。[pc]
 
-【[emb exp=sf.sname]】「便所借りていいか？」[pc]
+【[emb exp=sf.sname]】 "Could I use your toilet?"[pc]
 
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【琉吾】「ああ、そこの扉。」[pc]
+【Ryuugo】 "Sure, s'that door over there."[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
@@ -544,7 +544,7 @@
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【琉吾】「ハハ、カンパーイ！」[pc]
+【Ryuugo】 "HAHAHA, CHEERS!"[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
@@ -614,12 +614,12 @@
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【琉吾】「……。」[pc]
+【Ryuugo】 "......"[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
-【[emb exp=sf.sname]】「んーどうしたー？手が止まってるぜ？」[pc]
+【[emb exp=sf.sname]】 "Hey, is something wrong?「んーどうしたー？手が止まってるぜ？」[pc]
 
 俺は何てことなしに聞く。しかし気づいてる。[br]
 薬が効いていることに。[pc]
@@ -627,8 +627,8 @@
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【琉吾】「あー？あー、いや、なんでもないさー[br]
-あー……ちと、便所……。」[pc]
+【Ryuugo】 "Huh? Oh, uuh, it's nothin'.[br]
+I, uuh...Just gotta head to the bathroom......"[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
@@ -669,18 +669,18 @@
 …ようやく酒がまわってきたようだ。[br]
 仕掛けるならそろそろか。[pc]
 
-【[emb exp=sf.sname]】「あーテレビもロクなのやってないな。[br]
-なぁ琉吾さーん。」[pc]
+【[emb exp=sf.sname]】 "Maaan, there's nothing on TV.[br]
+Hey, Ryuugo-saaan."[pc]
 
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【琉吾】「んー？」[pc]
+【Ryuugo】 "Yeah?"[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
-【[emb exp=sf.sname]】「エロビデオとかねーの？」[pc]
+【[emb exp=sf.sname]】 "You've got Porn here, right?"[pc]
 
 [layopt layer=1 page=fore visible=true]
 [image storage="琉吾驚き1" layer=1 page=fore pos=c]
@@ -693,13 +693,13 @@
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【琉吾】「アハハー。[br]
-兄さんもまじめな顔してエロいな。見たくてもビデオデッキがないよ。」[pc]
+【琉吾】 "Ahaha...[br]
+I didn't know you were such a perv, Bro. I ain't even got a VCR here."[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
-【[emb exp=sf.sname]】「エロ本ぐらいあるだろ？」[pc]
+【[emb exp=sf.sname]】 "How about magazines then?"[pc]
 
 [layopt layer=1 page=fore visible=true]
 [image storage="琉吾気まずい1" layer=1 page=fore pos=c]
@@ -710,15 +710,15 @@
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【琉吾】「持ってねーよぉ。[br]
-本屋も知り合いのオバーの店じゃ、恥ずかしくて買いにいけねぇ。」[pc]
+【Ryuugo】 "Nooope.「持ってねーよぉ。[br]
+I know the old lady who runs the bookstore, I'd be way too embarrassed to buy that stuff."[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
 なるほど。田舎の狭さゆえの苦悩か。この手の話には奥手の様子。[pc]
 
-【[emb exp=sf.sname]】「マジかよ。んじゃ＜コッチ＞のほうはどうしてるんだよ。」[pc]
+【[emb exp=sf.sname]】 "You're kidding. How the hell do you get off?"[pc]
 
 俺はわざとニヤニヤしながら、右手を上下に振るジェスチャーをして見せた。[br]
 途端、目を逸らす琉吾。[pc]
@@ -734,12 +734,12 @@
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
-【[emb exp=sf.sname]】「風俗か？」[pc]
+【[emb exp=sf.sname]】 "Hookers?"[pc]
 
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【琉吾】「そんな金ねぇよ！……あー。」[pc]
+【Ryuugo】「そんな金ねぇよ！……あー。」[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
@@ -779,29 +779,29 @@
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【琉吾】「ワンの、コレ、気持ち悪いって。[br]
-……チューチュー、プダニだって。」[pc]
+【Ryuugo】 "M-my thing is...(they say my thing is)Real gross.[br]
+......I've got a, uh, Pudani."[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
-【[emb exp=sf.sname]】「……？[br]
-悪い、分かる言葉で言ってくれ。」[pc]
+【[emb exp=sf.sname]】 "......?[br]
+Sorry, could you translate that for me?"[pc]
 
 これは本音で、悪気はなかったのだが。結果的に言葉責めのようになってしまった。[pc]
 
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【琉吾】「……だから、その……[br]
-ワンの、チンポが……でかすぎる……って。」[pc]
+【Ryuugo】 "......That means, uh...[br]
+My dick is......too big..."[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
 思わず噴出しそうになるのを、俺は堪える。[pc]
 
-【[emb exp=sf.sname]】「なんだぁ、琉吾さん、それ自慢かぁ？」[pc]
+【[emb exp=sf.sname]】 "What the hell, Ryuugo-san, are you just bragging?"[pc]
 
 [layopt layer=1 page=fore visible=true]
 [image storage="琉吾怒り1" layer=1 page=fore pos=c]
@@ -809,43 +809,43 @@
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【琉吾】「マーヌヒャー、何言ってるバー！！[br]
+【Ryuugo】 "I'm being serious here!![br]
 [layopt layer=1 page=fore visible=true]
 [image storage="琉吾気まずい1" layer=1 page=fore pos=c]
-……兄さんにはわからん。いつも、コレのせいで逃げられちまう。」[pc]
+.....You don't get it, Bro. Every girl runs away as soon as they see what I'm packin'."[pc]
 
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
-【[emb exp=sf.sname]】「あーわかんねぇよ。そんだけ言うなら相当でかいんだろうけど[br]
-……実際に見てみないことには、なぁ？」[pc]
+【[emb exp=sf.sname]】 "You're right, I don't get it. Just how big are we talking here?[br]
+......This'd be easier if I could see it, right?"[pc]
 
 言葉の後半は少し強めに。[br]
 俺の鼓動が熱く脈打っているのは、酩酊しているせい、だけではない。[pc]
 
-【[emb exp=sf.sname]】「本当にそんなにデカいのか見せてよ。」[br]
+【[emb exp=sf.sname]】 "Show me what you mean by huge."[br]
 
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【琉吾】「いや……それは、なぁー？」[pc]
+【Ryuugo】 "No......That's, uuuh..."[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
-【[emb exp=sf.sname]】「見せろよ。」[pc]
+【[emb exp=sf.sname]】 "Show me."[pc]
 
 俺はスクリと立ち上がる。溢したくもない笑みが口元に浮かんで仕方がない。[br]
 それまでちゃぶ台越しだった琉吾の体に近づいて、座りなおす。[pc]
 
-【[emb exp=sf.sname]】「大丈夫だって。別に男同士だし恥ずかしくもないだろ。[br]
-おまけに俺は来月にゃ東京に帰る他人なんだから後腐れもないだろ。[br]
-旅の恥は掻き捨て、ってな？」[pc]
+【[emb exp=sf.sname]】 "It's fine, we're all guys here. Nothing to be embarrassed about.[br]
+Besides, next month I'll be back in Tokyo, so it's not like it'll come back to haunt you.[br]
+What happens in Vegas stays in Vegas, Right? Or Okinawa. Whatever."[pc]
 
 [tt]
 
-【琉吾】「……。」[pc]
+【Ryuugo】 "......"[pc]
 
 [tn]
 
@@ -856,14 +856,14 @@
 
 [tt]
 
-【琉吾】「……あ……誰にも、内緒ダヨー？」[pc]
+【Ryuugo】 "...You won't...tell anyone, right?"[pc]
 
 [tn]
 
 [layopt layer=1 page=fore visible=true]
 [image storage="kara" layer=1 page=fore pos=c]
 
-漁師は、震える手で自分のズボンのボタンに手をかけた。[pc]
+The fisherman reached toward the button on his pants with trembling hands.[pc]
 
 
 ;少し間
@@ -883,7 +883,7 @@
 [layopt layer=1 page=fore visible=true]
 [image storage="琉吾気まずい3" layer=1 page=fore pos=c]
 
-【[emb exp=sf.sname]】「へぇ、コイツはすげぇや。」[pc]
+【[emb exp=sf.sname]】 "Holy shit, you're something else."[pc]
 
 結論から言えば。琉吾の言葉に嘘はなかった。[br]
 ズボンを脱いだ瞬間からずっと、ガチンガチンに勃起したチンポ。これだけのサイズのちんぽにはなかなかお目にかかれない。[br]
@@ -897,11 +897,11 @@
 ただし、俺にとっては、ご馳走になりえる素晴らしい一品。[br]
 これはいい。弄りがいのあるチンポだ。[pc]
 
-【[emb exp=sf.sname]】「なぁコレ、剥けるのか？」[pc]
+【[emb exp=sf.sname]】 "Hey, does this thing even pull back?"[pc]
 
 [tt]
 
-【琉吾】「あ、あぁ……。」[pc]
+【Ryuugo】 "U-Uuuh..."[pc]
 
 [tn]
 
@@ -912,7 +912,7 @@
 
 [tt]
 
-【琉吾】「はッ！……ふぅ……っっ」[pc]
+【Ryuugo】 "Wha!...Fhuh......ngh."[pc]
 
 [tn]
 
@@ -949,7 +949,7 @@
 
 [tn]
 
-【[emb exp=sf.sname]】「せんずりするところ見てみたいな。[br]
+【[emb exp=sf.sname]】 "Show me how you jerk off.[br]
 こんなデカチン、いつもどうやってしごいてるのさ？」[pc]
 
 だめと言いながら、琉吾は右手を棒から放そうとしない。[br]
@@ -983,7 +983,7 @@
 
 [tt]
 
-【琉吾】「ぅ……ぁ……あ……そんなに見ないでくれよ……恥ずかしい……ッ。」[pc]
+【Ryuugo】 "Uuh...a...Aah...Don't look at it like that...It's embarrassing..."[pc]
 
 [tn]
 
@@ -1261,7 +1261,7 @@
 鎖は今、この男の四肢にかけられた。[br]
 もう俺から逃げられない。逃げられない。[pc]
 
-【[emb exp=sf.sname]】「またな、琉吾。」[pc]
+【[emb exp=sf.sname]】 "See you soon, Ryuugo."[pc]
 
 アルコールのせいで、少し痛む頭を押さえ俺は立ち上がる。[br]
 小柳を呼ぼう。少し眠りたい。[br]

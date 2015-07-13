@@ -20,7 +20,7 @@
 
 ;CG002
 
-【小柳】「社長。」[pc]
+【Koyanagi】 "Sir."[pc]
 
 【[emb exp=sf.sname]】「分かっている。[br]
 ……明日が最終日。明後日の朝には東京だろ……。」[pc]
@@ -74,7 +74,7 @@
 
 [tt]
 
-【小柳】「おはようございます、社長。[br]
+【Koyanagi】 "Good morning, Sir.[br]
 本日は台風の影響で、午後からの移動は難しいと思われます。[br]
 幸い明日の便には影響はないようですので、予定どおり明日朝１１時の便で、本社にお戻りいただきます。」[pc]
 
@@ -96,8 +96,8 @@
 
 [er]
 [select]
-[links target=*kugai]1.クガイ島へ向かい、最後の調教を楽しむ。[endlink][r]
-[links target=*hotel]2.ホテルに残り、小柳と過ごす。[endlink]
+[links target=*kugai]1. Head over to Kugai and enjoy my last training session.[endlink][r]
+[links target=*hotel]2. Stay in the hotel with Koyanagi.[endlink]
 [endselect]
 [s]
 
@@ -549,8 +549,8 @@
 
 [tt]
 
-【太】「ああ……オマンコ……[br]
-俺のオマンコを[emb exp=sf.sname]様のチンポで掘って欲しい……っ」[pc]
+【太】 "Aaah...My pussy...[br]
+I want [emb exp=sf.sname]-sama's cock in my pussy..."[pc]
 
 【太】「ザーメン出したい……っ！[br]
 ザーメン呑みたい……っっ！[br]
@@ -778,7 +778,7 @@
 
 
 【[emb exp=sf.sname]】「……ずっと一緒だ。誰にも渡さない。[br]
-あいしてるよ、こやなぎ……。」[pc]
+I love you, Koyanagi......"[pc]
 
 [fadeoutbgm time=3000]
 

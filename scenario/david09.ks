@@ -406,8 +406,8 @@
 【デヴィッド】「マスター……アアア………　Ah……Uaaaaaa……！！」[pc]
 
 まぶたを閉じると、捨てられた奴隷の姿が思い浮かぶ。この後彼が、警察に捕まったのか、それとも米兵の特権で上手く帰国できたのかは知らない。[br]
-しかしこれだけは確信を持っていえる。きっと彼がどの運命に導かれようとも、もうまともな人間には戻れない。[br]
-きっと誰かの犬として、余生を過ごすであろうことを……。[pc]
+But this much is certain: no matter what happens to him, he'll never be able to go back to being a normal person.[br]
+Odds are, he'll spend the rest of his life being someone's dog...[pc]
 
 [fadeoutbgm time=2000]
 

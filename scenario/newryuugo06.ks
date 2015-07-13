@@ -91,7 +91,7 @@
 
 [er]
 [select]
-[links target=*kansatu]1.もう少しだけ観察していようかな。[endlink][r]
+[links target=*kansatu]1. I think I'll watch a little longer.[endlink][r]
 [links target=*akeru]2.声をかける。[endlink]
 [endselect]
 [s]
@@ -562,7 +562,7 @@
 
 [tt]
 
-【琉吾】「……トレーニング……？？」[pc]
+【Ryuugo】 "......Training...??"[pc]
 
 [tn]
 

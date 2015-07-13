@@ -410,12 +410,12 @@
 [ws]
 
 
-＜第二問＞[br]
-＜沖縄県の県花は次のうちどれ＞[br]
+＜Question 2＞[br]
+＜Which of the following is the official flower of Okinawa Prefecture?＞[br]
 [select]
-[links target=*q2a]1.デイゴ[endlink][r]
-[links target=*q2b]2.ガジュマル[endlink][r]
-[links target=*q2b]3.ハイビスカス[endlink][r]
+[links target=*q2a]1. Deego[endlink][r]
+[links target=*q2b]2. Ficus[endlink][r]
+[links target=*q2b]3. Hibiscus[endlink][r]
 [endselect]
 [s]
 

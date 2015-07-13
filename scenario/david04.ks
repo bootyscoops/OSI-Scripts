@@ -112,13 +112,13 @@
 前回と一緒の姿勢。[br]
 うつぶせに組み強いられた大きな体、尻をこちらに突き出すみっともない姿だ。[pc]
 
-【[emb exp=sf.sname]】「うるさい奴だ。そんな大声出して、人に見られてもいいのか、軍曹？」[pc]
+【[emb exp=sf.sname]】 "You're a loud guy...Keep yelling like that and people might come over and watch. Would you like that, Sergeant?"[pc]
 
-脂の乗ったデカい尻を包むジョギングパンツ。[br]
-滲み汗で貼り付いているものの、アーミーパンツよりもずっと脱がしやすい。[br]
-俺は一気に膝まで降ろした。[pc]
+His jogging pants wrapped tightly around his huge, plump ass.[br]
+Even clinging to him with sweat like this, they were still much easier to pull down than his army trousers.[br]
+I had them around his knees with one tug.[pc]
 
-【デヴィッド】「……！！！！」[pc]
+【David】 "......!!!!"[pc]
 
 【[emb exp=sf.sname]】「この間は暗がりでよく見えなかったが、ケツの穴は随分可愛い色だなぁ。[br]
 傷はもう治ったか？」[pc]

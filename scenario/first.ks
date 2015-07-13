@@ -94,10 +94,10 @@ Scripts.execStorage("WearFilmPlugin.tjs");
 [image storage="kara" layer=2 page=fore top=0 left=0]
 
 
-[links storage="0901.ks" target=*0901]はじめから[endlink][r]
-[links target=*dataload]つづきから[endlink][r]
-[links storage="album.ks" target=*album]アルバム[endlink][r]
-[links storage="kaisou.ks" target=*start]メモリー[endlink][r]
+[links storage="0901.ks" target=*0901]Start[endlink][r]
+[links target=*dataload]Continue[endlink][r]
+[links storage="album.ks" target=*album]Album[endlink][r]
+[links storage="kaisou.ks" target=*start]Memory[endlink][r]
 [if exp="sf.o_401+sf.f_012+sf.f_017+sf.f_024+sf.f_025+sf.r_026+sf.r_027+sf.r_031+sf.r_034+sf.r_036+sf.k_109+sf.d_208+sf.r_315+sf.o_400==14"][links storage="t_gene.ks" target=*start]立ち絵アルバム[endlink][r][endif]
 [s]
 ;************************************************************

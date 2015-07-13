@@ -28,7 +28,7 @@
 
 [tt]
 
-y—®Œázu‚¨‚¨A‘Ò‚Á‚Ä‚½ƒˆ[v[pc]
+yRyuugoz "Hey, sorry to keep you waiting!"[pc]
 
 [tn]
 

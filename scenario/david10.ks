@@ -6,7 +6,7 @@
 [cm]
 [ws]
 
-<9/[emb exp="f.day"]　夜　水座城址公園>[pc]
+<9/[emb exp="f.day"]　Night - Minza Castle Park>[pc]
 
 
 [bg storage="park_yu"]
@@ -200,7 +200,7 @@
 俺はドンとディビーを突き飛ばす。公園のど真ん中、裸の犬が一匹のみ。[br]
 主人がいなくても、上手に芸を見せられるかな？[pc]
 
-【David】 "((......P...Please...!!))"[pc]
+【David】 "<......P...Please...!!>"[pc]
 
 【[emb exp=sf.sname]】 "Say it in Japanese."[pc]
 
@@ -334,19 +334,19 @@ David begged in his strange, foreign accent.[pc]
 デヴィッドはほんのりと笑みを浮かべ、尻を振った。[br]
 まったく…かわいい犬に育ったものだな。[pc]
 
-【[emb exp=sf.sname]】「…犬になれて、うれしいか？」[pc]
+【[emb exp=sf.sname]】 "Do you like being a dog?"[pc]
 
 [wait time=1000]
 
 [tt]
 
-【デヴィッド】「Bow･･･」[pc]
+【David】 "Ruff..."[pc]
 
 [tn]
 
 [wait time=1000]
 
-【[emb exp=sf.sname]】「俺もうれしいよ、ディビー。」[pc]
+【[emb exp=sf.sname]】 "I like it too, Davey."[pc]
 
 ディビーは今度はペニスを振った。何の恥じらいもなく。何のためらいもなく。[br]
 俺の命令を受け、悦び、興奮するその肉体がとてもいとおしく。[pc]
@@ -359,7 +359,7 @@ David begged in his strange, foreign accent.[pc]
 
 [wait time=1000]
 
-【[emb exp=sf.sname]】「…Heel！」[pc]
+【[emb exp=sf.sname]】 "...<Heel!>"[pc]
 
 ;立ち絵消す
 [layopt layer=1 page=fore visible=true]
@@ -402,7 +402,7 @@ David begged in his strange, foreign accent.[pc]
 
 [wait time=3000]
 
-【デヴィッド】「…もう、無理だ、こんなの。」[pc]
+【David】 "...I...I can't do this."[pc]
 
 ;立ち絵消す
 

@@ -49,7 +49,7 @@
 
 *noflug|
 
-<9/[emb exp="f.day"]　朝　水座城址公園>[pc]
+<9/[emb exp="f.day"]　Morning - Minza Castle Park>[pc]
 
 [eval exp="f.come_park=0"]
 
@@ -78,10 +78,10 @@
 [daywindow]
 
 [select]
-[links storage="sarutori_b.ks" target=*start]1.サルトリ通り[endlink][r]
-[links storage="park_b.ks" target=*start]2.水座城址公園[endlink][r]
-[links storage="ichiba_b.ks" target=*start]3.観光市場[endlink][r]
-[links storage="ie_b.ks" target=*start]4.住宅地[endlink][r]
+[links storage="sarutori_b.ks" target=*start]1. Sarutori Street[endlink][r]
+[links storage="park_b.ks" target=*start]2. Minza Castle Park[endlink][r]
+[links storage="ichiba_b.ks" target=*start]3. The Markets[endlink][r]
+[links storage="ie_b.ks" target=*start]4. The Residential District[endlink][r]
 [endselect]
 
 [s]
@@ -108,7 +108,7 @@
 ;発生条件　公園朝
 ;ゴンフラグ１以上　琉吾フラグ１　発生は一回のみ
 
-<9/[emb exp="f.day"]　朝　水座城址公園>[pc]
+<9/[emb exp="f.day"]　Morning - Minza Castle Park>[pc]
 
 [bg storage="park.png"]
 [layopt layer=0 page=fore visible=true]

@@ -25,13 +25,13 @@
 
 俺は仰向けのまま縛られている赤嶺を見下ろしながら、話してやる。[pc]
 
-【[emb exp=sf.sname]】「これから、お前がどうすればいいか、わかるか？」[pc]
+【[emb exp=sf.sname]】 "Do you know what your best course of action is here?"[pc]
 
 【太】「……。」[pc]
 
-【[emb exp=sf.sname]】「簡単なことなんだよ、赤嶺巡査。[br]
-俺の奴隷になりますとその口で宣言し誓えばいい。[br]
-そうすれば、こんな扱いからは解放してやる。」[pc]
+【[emb exp=sf.sname]】 "It's simple, Officer Akamine.[br]
+All you have to do is swear to become my Slave.[br]
+As soon as you do, I won't have to treat you like this anymore."[pc]
 
 【太】「何意味の分からないことを……！[br]目的はなんだ、金か。それとも････[playse storage="dosa"]
 [wait time=1000]ングァッ！！？」[pc]
@@ -99,17 +99,17 @@
 
 [playse storage="piston6"]
 
-【小柳】「く……むぅ　ふぅうう……！」[pc]
+【Koyanagi】 "Kuh...Nmh fhuuuuh......!"[pc]
 
-【[emb exp=sf.sname]】「……もっと鳴けよ。チンポ好きだろ？ほら。言ってみろよ。」[pc]
+【[emb exp=sf.sname]】 "......Squeal more for me. You like my cock? Come on, say it out loud."[pc]
 
-【小柳】「は、はい……ちんぽ……[br]
-[emb exp=sf.sname]様のチンポ、気持ちいいです……っっうぅ……！」[pc]
+【Koyanagi】 "Y-yes sir...Cock......[br]
+Master [emb exp=sf.sname]'s cock feels so good...Nghuuh...!"[pc]
 
 面白いな。この洞窟の中だと、喘ぎ声が反響していつも以上に俺の官能をくすぐる。[br]
 いつもより興奮する理由はそれだけではないが。[pc]
 
-【[emb exp=sf.sname]】「見えるか？赤嶺。すごいだろ、こいつのケツの穴。」[pc]
+【[emb exp=sf.sname]】 "Are you watching, Akamine? This guy's asshole is something else, huh?"[pc]
 
 仰向けに縛られた赤嶺の頭上で、俺は秘書のアナルを犯す。[br]
 小柳の尻からこぼれた汁が、ポタリポタリと赤嶺の鼻先を掠める。[pc]
@@ -119,7 +119,7 @@
 
 俺は小柳を犯しながらそう囁いてやるが、赤嶺は必死で顔を背ける。[pc]
 
-【太】「やめろ……気持ち悪いっ……！」[pc]
+【Futoshi】 "Stop......That's disgusting......!"[pc]
 
 構わない。見たくないなら聴かせてやる。[br]
 男の犯される音を。[pc]

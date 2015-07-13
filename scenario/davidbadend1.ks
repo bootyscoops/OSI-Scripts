@@ -34,7 +34,7 @@
 [layopt layer=1 page=fore visible=true]
 [image storage="デヴィッド怒り" layer=1 page=fore pos=c]
 
-【外人】「……何がそんなに楽しいんだ？　ジャップ。」[pc]
+【Foreigner】 "......What's so funny, Jap?"[pc]
 
 [playbgm storage="暗黒"]
 
@@ -94,9 +94,9 @@
 
 遠くで誰かの悲鳴が聞こえた気もするし、もしかしたら自分の上げた声だったのかもしれない。[br]
 痛ぇよ、クソ。痛すぎて、もうよくわからない。[br]
-痛い。[br]
-[wait time=2000]痛い。[br]
-助けて。だれか。[pc]
+It hurts.[br]
+[wait time=2000]God, it hurts.[br]
+Help. Someone.[pc]
 
 ;殴る音
 [playse storage="atamawareru"]

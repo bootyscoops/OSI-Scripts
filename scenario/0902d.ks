@@ -2,7 +2,7 @@
 [cm]
 [ws]
 
-＜９/２　月曜日　夜＞[pc]
+＜９/２　Monday Night＞[pc]
 
 [ws]
 [black]
@@ -24,15 +24,15 @@
 [layopt layer=0 page=fore visible=true]
 [image storage="0902.png" layer=0 page=fore top=0 left=660]
 
-【[emb exp=sf.sname]】「いい子にしてたか？赤嶺巡査。」[pc]
+【[emb exp=sf.sname]】 "Have you been a good boy, Officer?"[pc]
 
-【太】「…ふざけるな…！」[pc]
+【Futoshi】 "...Don't fuck with me..."[pc]
 
 思ったより勢いのない声。よく見ると、体が小刻みに震えている。[pc]
 
 【[emb exp=sf.sname]】「…ああ、小便か。そういえば丸一日近くその格好だったか？」[pc]
 
-【太】「……。」[pc]
+【Futoshi】 "......"[pc]
 
 【[emb exp=sf.sname]】「…便所に行きたいか。」[pc]
 
@@ -231,7 +231,7 @@
 [ws]
 ;＞トイレへ連れて行く
 
-【[emb exp=sf.sname]】「仕方ないやつだな。」[pc]
+【[emb exp=sf.sname]】 "God, you're hopeless."「仕方ないやつだな。」[pc]
 
 【太】「頼む……もう、漏れそうなんだっ！急いでくれ……」[pc]
 
@@ -307,7 +307,7 @@
 太が一瞬の隙……おそらく俺たちが失禁に気を取られたその一瞬をついて小柳を投げ飛ばし、[br]
 俺もろとも倒した後、逃げ出したのだろう。[pc]
 
-【[emb exp=sf.sname]】「……あの野郎！！！」[pc]
+【[emb exp=sf.sname]】 "......That fucker!!!"[pc]
 
 ;音　追いかける音
 

@@ -7,7 +7,7 @@
 [position layer=message0 page=fore frame="window_fn.png"]
 [position layer=message0 page=back frame="window_fn.png"]
 
-「おまわりさーん　おはようございまーす！」[pc]
+"Good Morning, Officer!"[pc]
 
 ;個人的にはここで穏やかな音楽を流し、悪夢に落ちるシーンでガラッとホラー系の曲に切り替えたいです
 
@@ -22,7 +22,7 @@
 [position layer=message0 page=fore frame="window_ft.png"]
 [position layer=message0 page=back frame="window_ft.png"]
 
-【太】「ああ、ハイサーイ。　車に気をつけてねぇ。」[pc]
+【Futoshi】 "Aah, G'morning. Take careon your way to work."[pc]
 
 [position layer=message0 page=fore frame="window_fn.png"]
 [position layer=message0 page=back frame="window_fn.png"]
@@ -35,7 +35,7 @@
 [position layer=message0 page=fore frame="window_ft.png"]
 [position layer=message0 page=back frame="window_ft.png"]
 
-【太】「あーアチサン……。」[pc]
+【Futoshi】 "Man, it's hot......"[pc]
 
 [position layer=message0 page=fore frame="window_fn.png"]
 [position layer=message0 page=back frame="window_fn.png"]
@@ -49,12 +49,12 @@
 [position layer=message0 page=fore frame="window_ft.png"]
 [position layer=message0 page=back frame="window_ft.png"]
 
-【太】「さて、今日もがんばるか。」[pc]
+【Futoshi】 "Well, I'll just soldier on."[pc]
 
 [position layer=message0 page=fore frame="window_fn.png"]
 [position layer=message0 page=back frame="window_fn.png"]
 
-暑い暑い。たまらず俺はズボンのポケットからハンカチを取り出そうと、手を伸ばす。[pc]
+God, it was hot. Unable to take it any longer, I reached into my pants pocket, searching for a handkerchief.[pc]
 
 [fadeoutbgm time=100]
 
@@ -63,30 +63,30 @@
 [position layer=message0 page=fore frame="window_ft.png"]
 [position layer=message0 page=back frame="window_ft.png"]
 
-【太】「……え？」[pc]
+【Futoshi】 "......Huh?"[pc]
 
 [position layer=message0 page=fore frame="window_fn.png"]
 [position layer=message0 page=back frame="window_fn.png"]
 
 [playbgm storage="暗黒"]
 
-手を伸ばした先にハンカチはなかった。それどころか……何も履いていない。ズボンどころか下着まで身に着けていない。[pc]
+But there was no handkerchief. In fact, there wasn't even a pocket...Just bare skin. Not even my underwear, let alone my pants.[pc]
 
 [position layer=message0 page=fore frame="window_ft.png"]
 [position layer=message0 page=back frame="window_ft.png"]
 
-【太】「うっ？！　うわぁあああーーー！！！？」[pc]
+【Futoshi】 "Huh?! EyaaaaaAAAAAUGH!!!!?"[pc]
 
 [position layer=message0 page=fore frame="window_fn.png"]
 [position layer=message0 page=back frame="window_fn.png"]
 
-どういうことだ？！　こんな街中で俺はなんて格好に……！！[br]
-慌てて隠そうにも、手が動かない。後ろで、何かに縛られてる……っ！[pc]
+What the hell is this?! I can't be seen this way! Not in my own town......!![br]
+I quickly tried to cover myself, but something held my hands behind my back.[pc]
 
 [position layer=message0 page=fore frame="window_ft.png"]
 [position layer=message0 page=back frame="window_ft.png"]
 
-【太】「な、なんで……み、見るなっ！みないでくれ！！！」[pc]
+【Futoshi】 "Wh...what..? D-Don't look! Don't look at me!!!"[pc]
 
 [position layer=message0 page=fore frame="window_fn.png"]
 [position layer=message0 page=back frame="window_fn.png"]
@@ -100,14 +100,14 @@
 [position layer=message0 page=fore frame="window_ft.png"]
 [position layer=message0 page=back frame="window_ft.png"]
 
-【太】「な……っ？！　い、いやだ！！」[pc]
+【Futoshi】 "Wha......?! N-No!!"[pc]
 
 [position layer=message0 page=fore frame="window_fn.png"]
 [position layer=message0 page=back frame="window_fn.png"]
 
-「ほら、チンポ勃たせて歩いてみろ。お前の本当の姿を見せてみろ。」[pc]
+"C'mon, look at how hard you are just walking around. You love showing everyone the real you."[pc]
 
-男の言葉はまるで何かの魔法のように。その言葉に呼応して、俺を纏うものが一枚、一枚と消えていく。[br]
+The man's words were like some kind of magic. 男の言葉はまるで何かの魔法のように。その言葉に呼応して、俺を纏うものが一枚、一枚と消えていく。[br]
 それどころか……。[pc]
 
 だんだんと、下半身の一番重い部分に、妙な熱が帯びていく。[br]
@@ -139,19 +139,19 @@
 [position layer=message0 page=fore frame="window_ft.png"]
 [position layer=message0 page=back frame="window_ft.png"]
 
-【太】「や、やめてくれ！　こんなの、こんなの俺じゃぁない！！」[pc]
+【Futoshi】 "P-Please stop! This isn't me!!"[pc]
 
 [position layer=message0 page=fore frame="window_fn.png"]
 [position layer=message0 page=back frame="window_fn.png"]
 
-「気持ちいいだろう。奴隷の姿をみんなに見てもらえて嬉しいか？」[pc]
+"It feels good, doesn't it? Showing everyone what an absolute slave you are must be incredible."[pc]
 
-「ほら、みんなが見ているぞ。お前のチンポもケツの穴も。お巡りさんのチンポはこんな形だって、みんなで笑ってるのが聞こえるか。」[pc]
+"Hey, everyone's watching you. They're staring at your cock and your asshole too. I can hear them laughing at this pathetic excuse for a policeman."[pc]
 
 [position layer=message0 page=fore frame="window_ft.png"]
 [position layer=message0 page=back frame="window_ft.png"]
 
-【太】「嘘だ、いやだ、おれは……ぁぁあああ！！　うゎあああああああああ！！」[pc]
+【Futoshi】 "No! You're lying! I'm...aaaaAAAA!! UWAAAAAAAAAAH!!"[pc]
 
 [fadeoutbgm time=1000]
 
@@ -162,8 +162,8 @@
 [position layer=message0 page=fore frame="window_fn.png"]
 [position layer=message0 page=back frame="window_fn.png"]
 
-【太】「あああああああああ！！！　あ……　　[br]
-……あぁ……　　？？　　」[pc]
+【Futoshi】 "AAAAAAAAAH!!! Ah...[br]
+......Huuh......??"[pc]
 
 [playbgm storage="nami"]
 [bgmopt volume=50]
@@ -172,7 +172,7 @@
 
 [eval exp="sf.f_112=1"]
 
-【太】「ゆ……夢……？」[pc]
+【Futoshi】 "A.....A dream......?"[pc]
 
 ……違う、夢じゃない。[br]
 俺はあの日、二人組みの男に誘拐されて、この島に監禁された。[br]
@@ -183,9 +183,9 @@
 鎖を引き握る。両手足をとにかく振り回す。ここに捕らえられて何度も試みた動きだ。[br]
 けれど耳障りな金属音を掻き鳴らすだけで、外れたりなんてするわけがない。当たり前だ。[pc]
 
-【太】「くそっ……俺は、俺は……どうなっちまうんだよぉ……！」[pc]
+【Futoshi】 "Fuck......I...What the fuck have I become......!?"[pc]
 
-助けてくれ、誰か。[pc]
+Someone. Save me.[pc]
 
 もう、おかしくなる。それとも手遅れなのか？[br]
 だって、そうだろう。[pc]
@@ -195,8 +195,8 @@
 
 【太】「……勃ってるんだよぉ……ああああああああ！！！！！！」[pc]
 
-そのときだ。[br]
-あの男たちの足音が、俺の耳に届いたのは。[pc]
+It was time.[br]
+I could hear their footsteps getting closer.[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
@@ -623,7 +623,7 @@
 
 [wait time=2000]
 
-【[emb exp=sf.sname]】「奴隷になると誓え。」[pc]
+【[emb exp=sf.sname]】 "Swear to become my Slave."[pc]
 
 [fadeoutbgm time=1000]
 
@@ -710,7 +710,7 @@
 
 一週間の禁欲で敏感になったペニスは、こんな状況でも確実に太の頭に快楽のパルスを送り込む。たちまちその浅黒いチンポは、天に向かって高くつきあがった。[pc]
 
-【[emb exp=sf.sname]】「生まれて初めて男にチンポ咥えられた感想はどうだ？」[pc]
+【[emb exp=sf.sname]】 "How does it feel to have your cock sucked by a man?"[pc]
 
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
@@ -781,10 +781,10 @@
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
-【[emb exp=sf.sname]】「そうそう。さすが元警官。敬礼がサマになってるな。[br]
-小柳、ビデオは大丈夫か？」[pc]
+【[emb exp=sf.sname]】 "What a perfect salute. I'd expect nothing less of a former police officer.[br]
+Is the camera ready, Koyanagi?"[pc]
 
-【小柳】「問題ありません。」[pc]
+【Koyanagi】 "No problems, sir."[pc]
 
 【[emb exp=sf.sname]】「さぁ。さっき教えた口上を言ってみろ。」[pc]
 
@@ -827,31 +827,31 @@
 [bgmopt volume=100]
 
 ;↓フルネーム
-【太】「……わ････[br]
-私、赤嶺、太は……ただ今、９月７日をもって･･･[br]
-警察官･･･としての命を捨て･･･[br]
-[emb exp=sf.sname][emb exp=sf.name]様の[br]
-奴隷として生まれ変わることを･･誓い･･･ます･･･。」[pc]
+【Futoshi】 "......I...･[br]
+I, Futoshi Akamine...On this day, the 9th of September...[br]
+Henceforth renounce my former life as a Police Officer...[br]
+I vow to live my new life...[br]
+as Master [emb exp=sf.sname] [emb exp=sf.name]'s S...Slave..."[pc]
 
-【[emb exp=sf.sname]】「奴隷ってなんだ？」[pc]
+【[emb exp=sf.sname]】 "What does it mean to be a Slave?"[pc]
 
-【太】「･･････。」[pc]
+【Futoshi】 "......"[pc]
 
-【[emb exp=sf.sname]】「教えたとおり、続けろ。」[pc]
+【[emb exp=sf.sname]】 "Keep going, like we practiced."[pc]
 
-【太】「･･･どれいとは･･･主人のためにつくす生き物です･･･。」[pc]
+【Futoshi】 "...A slave is...a creature that lives only for the sake of its Master..."[pc]
 
-【[emb exp=sf.sname]】「そうだ。お前は俺のためにこれからの人生を捧げるんだ。[br]
-俺が椅子になれ、と言えばお前は椅子。[br]
-俺がサンドバックになれといえばお前はサンドバックだ。」[pc]
+【[emb exp=sf.sname]】 "That's right. From now on, your entire existence is devoted to me.[br]
+If I say you're furniture, you're furniture.[br]
+If I say you're dead weight, you're dead weight."[pc]
 
-【太】「･･･････。」[pc]
+【Futoshi】 "......"[pc]
 
 【[emb exp=sf.sname]】「俺が犬になれと言ったらお前は犬だ。[br]
 便器になれと言えば便器になるんだ。[br]
 ……想像しながら、もう一度言ってみろ。お前はなんだ？」[pc]
 
-【太】「･･･奴隷です･･･。」[pc]
+【Futoshi】 "...A Slave..."[pc]
 
 【[emb exp=sf.sname]】「誰の？」[pc]
 
@@ -880,17 +880,17 @@
 
 【太】「く･･ア・・・ハァ･･･ッ･･･！」[pc]
 
-【[emb exp=sf.sname]】「気持ちいいか。」[pc]
+【[emb exp=sf.sname]】 "Does it feel good?"[pc]
 
-【太】「･･･････。」[pc]
+【Futoshi】 "........."[pc]
 
-【[emb exp=sf.sname]】「返事。」[pc]
+【[emb exp=sf.sname]】 "Answer me."[pc]
 
-【太】「･･･き、きもちいいです･･･！」[pc]
+【Futoshi】 "...I-It feels good...!"[pc]
 
-【[emb exp=sf.sname]】「どこがだ？」[pc]
+【[emb exp=sf.sname]】 "Where?"[pc]
 
-【太】「････ち･･ん･････ぽ、がぁ･･･！」[pc]
+【Futoshi】 "...M...My Cock...Sir...!"[pc]
 
 【[emb exp=sf.sname]】「だったらきちんと、お礼を言え。[br]
 チンポを触る許可をくださってありがとうございます。[br]
@@ -1021,7 +1021,7 @@
 もし、鎖を解いたら、きっとあいつはすぐにこの洞窟から飛び逃げるだろう。[br]
 それでは、本物の奴隷とは言えない。[pc]
 
-【[emb exp=sf.sname]】「そうだろう？……小柳。」[pc]
+【[emb exp=sf.sname]】 "Isn't that right, Koyanagi?"[pc]
 
 ;立ち絵　小柳奴隷裸勃起
 
@@ -1036,7 +1036,7 @@
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【小柳】「･･････。」[pc]
+【Koyanagi】 "......"[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
@@ -1327,14 +1327,14 @@
 
 [tt]
 
-【売人】「まぁ待てよぉ。後ろのデカいのはアンタの＜奴隷＞かい？」[pc]
+【Dealer】 "Hey, hold up a sec. Is that huge guy behind you your 'Slave' or something?"[pc]
 
 [tn]
 
-ドレイ。[br]
-その言葉に、俺は歩みを止めた。[pc]
+Slave.[br]
+As he said the word, I stopped walking.[pc]
 
-【[emb exp=sf.sname]】「何だって？」[pc]
+【[emb exp=sf.sname]】 "What did you say?"[pc]
 
 ;ゴンニヤリ
 
@@ -1350,12 +1350,12 @@
 男は、小柳のその「尻」を指差しニヤニヤして見せた。[br]
 当の小柳は、いつもと同じ表情を崩すことがない。少しは照れや戸惑いでも見せれば可愛げがあるものを。それとも表情とは裏 腹に、心中では俺と同じように戸惑っているのだろうか。このおかしな男の言葉に。[pc]
 
-【[emb exp=sf.sname]】「恋人かもしれないだろ。何でいきなり奴隷だと。」[pc]
+【[emb exp=sf.sname]】 "He could just as well be my lover. What made you say 'Slave' straight away?"[pc]
 
 [tt]
 
 【売人】「いやいや、いんやいんや男前の兄さん。[br]
-アンタは普通の恋愛が出来るタイプじゃないだろうよ。」[pc]
+You don't seem like the kinda guy who can do the regular kind of love, is all."[pc]
 
 [tn]
 
@@ -1425,7 +1425,7 @@
 
 [tt]
 
-【売人】「ゴンだ。この辺でなら、薬売りのゴンっていやぁ大抵通じる。じゃぁな。」[pc]
+【Dealer】「ゴンだ。この辺でなら、薬売りのゴンっていやぁ大抵通じる。じゃぁな。」[pc]
 
 [tn]
 

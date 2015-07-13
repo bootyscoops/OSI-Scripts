@@ -42,12 +42,12 @@
 悪戯を咎められる子どものような慌てぶりで太は大きく首を振った。[br]
 勝手に射精した罰を恐れてか、それとも……自分の意思で射精したことを認めたくないが故か。[pc]
 
-【[emb exp=sf.sname]】「……俺の許可なく勝手にオナニーか？」[pc]
+【[emb exp=sf.sname]】 "......Were you masturbating without my permission?"[pc]
 
 [tt]
 
-【太】「俺はそんなことしてない！　俺は、俺は……[br]
-あああああぁ……ッ！！」[pc]
+【Futoshi】 "No, I swear I wasn't! I-I......[br]
+AAAAAAAAAAAUugh......!!"[pc]
 
 [tn]
 
@@ -74,8 +74,8 @@
 
 [er]
 [select]
-[links target=*dream1]1.俺はそれを厳しく叱責する。[endlink][r]
-[links target=*dream2]2.俺はそれを優しく受け止める。[endlink]
+[links target=*dream1]1. I severely punish him.[endlink][r]
+[links target=*dream2]2. I take it lightly.[endlink]
 [endselect]
 [s]
 
@@ -146,7 +146,7 @@
 
 [fadeoutbgm time=3000]
 
-【[emb exp=sf.sname]】「……太、立て。」[pc]
+【[emb exp=sf.sname]】 "......Stand up, Futoshi."[pc]
 
 命令するが、太は立ち上がらない。[br]
 俺はほぼ無理やりにその手を引いて、立ち上がらせると……[pc]
@@ -166,7 +166,7 @@
 
 [tn]
 
-【[emb exp=sf.sname]】「仕方のない奴隷だな。」[pc]
+【[emb exp=sf.sname]】 "You really are a hopeless Slave."[pc]
 
 抱きしめた手で尻を撫で回す。太が腕の中で小さく跳ねた。[pc]
 
@@ -180,7 +180,7 @@
 
 [tt]
 
-【太】「ち、違……」[pc]
+【Futoshi】 "Y-You're wrong......"[pc]
 
 [tn]
 

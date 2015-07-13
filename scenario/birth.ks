@@ -101,11 +101,11 @@
 
 [tt]
 
-【太】「俺を……家へ、水座へ帰してほしい……」[pc]
+【Futoshi】 "I.....Want to go home...To Minza......"[pc]
 
 [tn]
 
-【[emb exp=sf.sname]】「今更そんなことを言うのか？　往生際が悪いな、お前も……」[pc]
+【[emb exp=sf.sname]】 "Now? After all this time? You picked a hell of a time to give up......"[pc]
 
 [tt]
 
@@ -123,7 +123,7 @@
 
 [tt]
 
-【太】「約束なんだ……息子との。今日は、息子の誕生日なんだ……。」[pc]
+【Futoshi】 "I made a promise...to my son. Today's his birthday......"[pc]
 
 [tn]
 
@@ -370,8 +370,8 @@
 　
 [er]
 [select]
-[links target=*birthend]1.俺は太の願いを受け入れることはしなかった。[endlink][r]
-[links target=*birthnext]2.俺は太の願いを受け入れた。[endlink]
+[links target=*birthend]1. I deny Futoshi's request.[endlink][r]
+[links target=*birthnext]2. I accept Futoshi's request.[endlink]
 [endselect]
 [s]
 
@@ -449,10 +449,10 @@
 [stopse]
 
 [select]
-[links storage="sarutori_d.ks" target=*start]1.サルトリ通り[endlink][r]
-[links storage="park_d.ks" target=*start]2.水座城址公園[endlink][r]
-[links storage="ichiba_d.ks" target=*start]3.観光市場[endlink][r]
-[links storage="ie_d.ks" target=*start]4.住宅地[endlink][r]
+[links storage="sarutori_d.ks" target=*start]1. Sarutori Street[endlink][r]
+[links storage="park_d.ks" target=*start]2. Minza Castle Park[endlink][r]
+[links storage="ichiba_d.ks" target=*start]3. The Markets[endlink][r]
+[links storage="ie_d.ks" target=*start]4. The Residential District[endlink][r]
 [endselect]
 
 [s]

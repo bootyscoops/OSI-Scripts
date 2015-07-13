@@ -217,7 +217,7 @@ Okay, where to next...[pc]
 
 ほんの一歩進むたびに、しゃがれた婆の声、無駄にハイな女の声、干からびた爺の声が一様に買ってけ買ってけと耳を劈く。[pc]
 
-…………うざったい。[br]
+......This place is annoying.[br]
 暇つぶしとはいえ、来る場所を誤った気がする。[br]
 ここを抜け出そうと、歩みを早くしようと思ったその矢先。[pc]
 
@@ -248,7 +248,7 @@ Okay, where to next...[pc]
 
 [select]
 [links target=*ichiba1]1. I can't hang around here too long.[endlink][r]
-[links target=*ichiba2]2. I feel an Ulterior Motive billowing up inside me.[endlink][r]
+[links target=*ichiba2]2. I feel an Ulterior Motive coming on.[endlink][r]
 [endselect]
 [s]
 --------------------
@@ -259,12 +259,12 @@ Okay, where to next...[pc]
 
 [image storage="kara" layer=1 page=fore pos=c]
 
-どうせだし、もっといろいろな場所を見ておきたい。[br]
-俺は市場を後にした。[pc]
+I've got other places I want to check out anyway.[br]
+I left the Marketplace.[pc]
 
 [fadeoutbgm time=1000]
 
-さて、どこに向かおうか[pc]
+Now then, where to next...[pc]
 
 [jump target=*erabu]
 ---------------------
@@ -280,7 +280,7 @@ Okay, where to next...[pc]
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【Ryuugo】 "Hey Niinii, Whaddaya buyin'?"[pc]
+【Ryuugo】 "Hey Bro, Whaddaya buyin'?"[pc]
 
 
 [position layer=message0 page=fore frame="window_n.png"]
@@ -307,7 +307,7 @@ Okay, where to next...[pc]
 [position layer=message0 page=back frame="window_n.png"]
 
 表情は笑顔のままだったが、訝しげな声で漁師は聞いてくる。[br]
-ああ……よく見れば、スーツでこんなところに来ているのは俺ぐらいのものだな。[br]目立って仕方がない。[pc]
+ああ……よく見れば、スーツでこんなところに来ているのは俺ぐらいのものだな。[br] I was nothing if not conspicuous.[pc]
 
 【[emb exp=sf.sname]】「出張でね。一ヶ月こっちにいる予定。せっかくなんで今日は沖縄の美味いものでも、酒の肴に買っていこうと思ってね。」[pc]
 
@@ -327,7 +327,7 @@ Okay, where to next...[pc]
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【Ryuugo】 "I think you'd call it 'Purple-Back Flying Squid'.[br] We don't usually get many mainlanders shopping here. Have you ever had it? It's sun-dried."[pc]
+【Ryuugo】 "I think you'd call it 'Purple-Back Flying Squid'.[br] Sorry, we don't usually get many mainlanders shopping here. Have you ever had it? It's sun-dried."[pc]
 
 
 [position layer=message0 page=fore frame="window_n.png"]
@@ -477,10 +477,9 @@ You are free to visit whenever you please."
 ……ところで小柳、警察官というのはどうやって拐かせばいいものだろうな。特に金にも困ってない、女の影もないとなると一苦労だな。」[pc]
 
 
-【小柳】「準備は整っています。滞りなく済むかと思われます。」
+【Koyanagi】 "We have everything we need. We can begin whenever you're ready."[pc]
 
-[pc]
-【[emb exp=sf.sname]】「……そいつは結構。」[pc]
+【[emb exp=sf.sname]】 "......Perfect."[pc]
 
 秘書が有能だと何もしなくても玩具が手に入るから、面白くはないが困ることもない。[br]
 ……曲がりなりにも治安の整ったこの日本という国から、人間一人「消す」準備をあっさりと整えるこいつに、うすら寒いものも感じるが。[pc]

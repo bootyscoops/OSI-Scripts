@@ -161,8 +161,8 @@ From the open window of the car, the sky above looked like almost painted on. It
 【[emb exp=sf.sname]】 "...An hour, huh."[pc]
 
 I was bored.[br]
-それ以上に退屈な日々が今日から始まる。観光事業に伴う現地の下見と言ったって、椅子に座って判子だけ押してればいいだけのような仕事だ。考えるだけで憂鬱になる。[br]
-…俺を厄介払いしたい親父らしい、嫌がらせに近い任務だな。別に今に始まったことではないが。[pc]
+And what's more, my boring days were just beginning. Even if they call this 'a preliminary inspection in association with local tourism', all I'm really going to be doing is sitting in a chair stamping documents. It makes me depressed just thinkng about it.[br]
+...Seems like my old man just wanted to get rid of me, which practically makes this job a form of harrassment. In any case, it's not like there's anything I can do about it now.[pc]
 
 ...I let out a yawn.[pc]
 
@@ -176,11 +176,11 @@ I was bored.[br]
 [playse storage="car_stop"]
 
 Without the slightest change in expression, Koyanagi hit the brakes.[br]
-…その秘書の動きもまた、俺には、まるで人工的に作られた[pc]
+...It's like every movement he makes is totally artificial.[pc]
 
 [bg storage="black"]
 
-何か別のもののように感じられた。[pc]
+It felt like something else entirely.[pc]
 
 
 [black]
@@ -196,13 +196,13 @@ Without the slightest change in expression, Koyanagi hit the brakes.[br]
 
 *|
 
-中央地区からホテルへと続くこの一本道は自然林を切り開いたもので、車一台通れる隙間と申し訳程度のレールがある以外、何の舗装もされていない。[pc]
+The road that lead from the central district out to the hotel was one of the few things that cut through the forest. Apart from a one lane road and a sorry old railway line there was no pavement of any kind.[pc]
 
 The island of Minza is divided into two major areas.[br]
-本島やその他離島への船が出る港を中心に拡がる、地元民の住む西地域と、ホテルなどが立ち並ぶ一方、開発の進んでいない部分も混在する東地域。[br]
-俺たちが向かうのは東地域最大のリゾートホテル、「ミンザリゾート・ニライカナイ」…俺の父親が会長を務める、[emb exp=sf.sname]グループが経営するホテルだ。[pc]
+The locals live on the West side where there's a harbour that connects Minza to the surrounding islands, while on the East side you find things like hotel-lined beaches and stalled tourism developments.[br]
+We're on our way to the east side's biggest hotel: "Minza Resort - Nirai Kanai". The hotel is under the management of The [emb exp=sf.sname] Group...with my Father serving as its chairman.[pc]
 
-両地域を結ぶこの細道の、人通りは少ない。[br]
+There's virtually no foot traffic on this road that joins the two regions.[br]
 …しかしいくら人目につかないとは言っても、立小便なんて見場の悪い真似はしたくない。[pc]
 
 …携帯できる便器があるというのは、便利なものだ。[pc]
@@ -351,11 +351,11 @@ The man forced a smile and looked down, his face turning beet red.[pc]
 [wt]
 [image storage="kara" layer=1 page=back pos=c]
 
-....Oooh, I see...So he saw us, did he?[pc]
+....Oooh, I get it...So he saw us, did he?[pc]
 
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
-【Cop】 "...Well, I guess I can let you off this time since you're tourists. Just hurry and get outta here already."
+【Cop】 "...Well, I guess I can let you off this time since you're tourists. Just get outta here already."
 [pc]
 
 
@@ -376,8 +376,8 @@ The man forced a smile and looked down, his face turning beet red.[pc]
 
 [playbgm storage="hb"]
 
-...I feel a strange urge inside me. Like a pulsing, ringing noise throughout my whole body[br]
-Like a base instinct, like a voice from a long way away, but sounding with complete clarity.[pc]
+...I feel a strange urge inside me. Like a pulsing, ringing noise through my whole body[br]
+Like a base instinct. Like a voice from a long way away, but sounding with complete clarity.[pc]
 
 Violate. Consume. And 'Transform'.[pc]
 
@@ -390,7 +390,7 @@ Though it is currently undergoing development for future projects..."[pc]
 
 【[emb exp=sf.sname]】 "From now on, that island is totally off-limits...Wait, scratch that.[br]
 I'll need place to keep them, at least. I'll leave that to you.[br]
-Today, once you've set up a new home for our livestock, make sure you get all workers off the island. When you're done, I want you back at the hotel immediately."[pc]
+Once you've set up a new home for our livestock, make sure you get all workers off the island. When you're done, I want you back at the hotel immediately."[pc]
 
 【Koyanagi】 "Understood."[pc]
 
@@ -400,7 +400,7 @@ Today, once you've set up a new home for our livestock, make sure you get all wo
 [layopt layer=0 page=fore visible=true]
 [image storage="0901.png" layer=0 page=fore top=0 left=660]
 
-Having said all he needed to, Koyanagi resumed and I resumed our seats in the car.[pc]
+Having said all he needed to, Koyanagi and I resumed our seats in the car.[pc]
 
 【[emb exp=sf.sname]】 "Wake me when we arrive. We're going to have our hands full tonight.[br]
 ...Oh yeah, I just realized...[br]
@@ -1191,10 +1191,10 @@ Though he seemed to blush as he watched on, he also looked distinctly pale.[pc]
 
 [playse storage="jupo"]
 
-自分の幹にそれが上り詰めているのを感じると、俺は小柳の口からペニスを離すと、警官の上にまたがってみた。[pc]
+Feeling myself approaching climax, I pulled my cock from Koyanagi's mouth and went to straddle the policeman.[pc]
 
-【[emb exp=sf.sname]】「少しずつ教育してやるよ…まずは、そうだな。[br]
-一週間だ。一週間使って、お前が自分でスッ裸になって、俺に土下座するように仕込んでやるぜ。」[pc]
+【[emb exp=sf.sname]】 "I'm gonna teach you everything you'll never need to know...but first...[br]
+One week. Give me one week and I'll have you stripping yourself naked and grovelling at my feet."[pc]
 
 
 [position layer=message0 page=fore frame="window_t.png"]
@@ -1208,12 +1208,12 @@ Though he seemed to blush as he watched on, he also looked distinctly pale.[pc]
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
-男の顔に、俺は昇っていた精液を構わず吐き出してやった。[br]
-顔面だけでなく、髪や、汗臭い制服にまで俺のザーメンが飛び散る。[pc]
+I blew my load all over the man's face.[br]
+And not just his face. My cum splattered his hair and his sweat-soaked uniform as well.[pc]
 
 
 [position layer=message0 page=fore frame="window_t.png"]
-[position layer=message0 page=back frame="window_t.png"]
+[position layer=mesxsage0 page=back frame="window_t.png"]
 
 【Futoshi】 "Shit...! Let me go, you bastard!! Untie me!!! Fuck!!"[pc]
 
@@ -1359,11 +1359,11 @@ With only a backward glance at Futoshi's ranting and raving, Koyanagi and I left
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
-【[emb exp=sf.sname]】「急かすなよ。[br]
-なぁ、見てみろよ小柳。風致に富む、というのはこういう景色のことを言うのかな。」[pc]
+【[emb exp=sf.sname]】 "Come on, hurry it up.[br]
+Wow, look at this, Koyanagi. I guess this is what they call 'postcard scene'."[pc]
 
 
-俺は目線を海原へと向ける。[pc]
+I looked out across the open ocean.[pc]
 
 
 
@@ -1379,25 +1379,25 @@ With only a backward glance at Futoshi's ranting and raving, Koyanagi and I left
 [layopt layer=0 page=fore visible=true]
 [image storage="0902.png" layer=0 page=fore top=0 left=660]
 
-青と藍の境目、ホライゾンから湧き出るオレンジの輝き。[br]
-時計を見れば午前６時。日の出の時間だ。[pc]
+An orange glow rose from the horizon, spilling over into the deep blue sky.[br]
+It was 6:00AM. Sunrise.[pc]
 
 
-物言わせぬ、樺色の光線。[br]
-ゆっくりとその色は広がり、照らしていく。[pc]
+I couldn't find the right word for those strange colored rays.[br]
+They slowly crept across the sky, gently intermingling.[pc]
 
-【小柳】「…あかちち、ですね。」[pc]
+【Koyanagi】 "...'Akachichi'."[pc]
 
-【[emb exp=sf.sname]】「…なんだ？」[pc]
+【[emb exp=sf.sname]】 "...What?"[pc]
 
-戻ろうとしない俺に苛立った様子を見せていたはずの小柳が、いつの間にか隣に居た。そして聞きなれない単語を一つ、口に出す。[pc]
+In my state of somewhat frustrated concentration, I didn't notice Koyanagi standing right beside me. He had broken the silence with a single, unfamiliar word.[pc]
 
-【小柳】「沖縄の言葉です。夜明けを意味するそうですよ。」[pc]
+【Koyanagi】 "An Okinawan word. I believe it means 'Sunrise'."[pc]
 
-【[emb exp=sf.sname]】「…博学だな。」[pc]
+【[emb exp=sf.sname]】 "...How scholarly of you."[pc]
 
-俺はもう一度、水平線へと目を向けた。[br]
-小柳の言う、「あかちち」の光を、眩しさに眩みながらも見つめる。[pc]
+Once again I turned my gaze towards the horizon.[br]
+Koyanagi's words echoed in my head as I stared into the dazzling light.[pc]
 
 
 
@@ -1410,24 +1410,24 @@ With only a backward glance at Futoshi's ranting and raving, Koyanagi and I left
 Today was the beginning of a whole new life.[br]
 A new life for both myself and for Futoshi Akamine.[pc]
 
-俺が沖縄にいられる期間は、一ヶ月。[br]
-１０月には、再び東京に戻らないといけない。[pc]
+I will only be in Okinawa for One Month.[br]
+Come October, I'll have no choice but to return to Tokyo.[pc]
 
-この暁を越えて、果たして、一ヶ月後。[br]
-あの男は、一体どのような生き物へと、変わっているのだろうか。[pc]
+With this dawn, I have exactly one month left.[br]
+I wonder what kind of creature I can turn him into in that time.[pc]
 
 
 【[emb exp=sf.sname]】 "...Let's get going, Koyanagi."[pc]
 
-もう一度だけ俺は振り返る。あの男がいるはずの、岩の牢獄。[br]
-何か叫ぶ声が聞こえた気がしたが、そのまま捨て置いた。[pc]
+I looked back one last time at that man's prison of stone.[br]
+For a brief moment, I thought I could hear him shouting, but I ignored it.[pc]
 
 
 ;SE、船の動く音
 
 [playse storage="ferryboat"]
 
-船が、動き出す。[pc]
+The boat began to move.[pc]
 
 
 [fadeoutse time=2000]

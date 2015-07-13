@@ -16,11 +16,8 @@
 
 [playbgm storage="hb"]
 
-「...Hi Mom, Dad, and Cindy. It's David.[br]
-I am sure you are surprised to see me like this. I'm sorry if you are shocked but this is my desire.[br]
-So please don't worry.[br]
-（……ダディ、マミィ、シンディ。久しぶり、俺だよ。[br]
-こんな姿を見て驚いたか？ごめんよ、だけど最後だから心配しないでくれ。）」[pc]
+"...Hi Mom, Dad, and Cindy. It's David.[br]
+Are you surprised to see me like this? Sorry, but this is what I really want, so don't worry about me."[pc]
 
 [wait time=1000]
 

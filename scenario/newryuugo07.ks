@@ -50,8 +50,8 @@
 [playse storage="door_13_knock"]
 [wait time=3000]
 
-【？】「おーい！　リューゴー！！！[br]
-イルケー？？？？　おおい！！」[pc]
+【？】 "Heeey! Ryuugo!!![br]
+Are you in there??? Heeeeey!!"[pc]
 
 [bg storage="ryugo_room"]
 
@@ -59,8 +59,8 @@
 [daywindow]
 
 
-【[emb exp=sf.sname]】「おっと……大変、お客さんだ。[br]
-どうしようか、琉吾さん。」[pc]
+【[emb exp=sf.sname]】 "Oh, goodness me...We have a visitor.[br]
+What should we do, Ryuugo-san?"[pc]
 
 [layopt layer=1 page=fore visible=true]
 [image storage="琉吾快感A5" layer=1 page=fore pos=c]
@@ -73,7 +73,7 @@
 
 [er]
 [select]
-[links target=*hadaka]1.バイブを抜き、琉吾に裸のまま応対させる[endlink][r]
+[links target=*hadaka]1. Take out the vibe and make him answer it naked.[endlink][r]
 [links target=*huku]2.そのまま隠すものだけ身につけさせて応対させる[endlink]
 [endselect]
 [s]

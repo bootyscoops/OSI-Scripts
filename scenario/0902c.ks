@@ -7,16 +7,16 @@
 [image storage="0902.png" layer=0 page=fore top=0 left=660]
 [bg storage="map3"]
 
-さて、どこへ向かおうか[pc]
+Now then, where should I go?[pc]
 
 *erabu
 
 
 [select]
-[links target=*saru]1.サルトリ通り[endlink][r]
-[links target=*park]2.水座城址公園[endlink][r]
-[links target=*ichiba]3.観光市場[endlink][r]
-[links target=*ie]4.住宅地[endlink][r]
+[links target=*saru]1. Sarutori Street[endlink][r]
+[links target=*park]2. Minza Castle Park[endlink][r]
+[links target=*ichiba]3. The Market[endlink][r]
+[links target=*ie]4. The Residential District[endlink][r]
 [endselect]
 [s]
 
@@ -77,7 +77,7 @@
 
 …無駄足だったな。帰るか。そう思い俺が俺が戻ろうとすると。[pc]
 
-【[emb exp=sf.sname]】「…？」[pc]
+【[emb exp=sf.sname]】 "...?"[pc]
 
 すでにこんな時間だ。観光客は消え、出店も当然閉まっていて。なのに、こんな時間に冴えない男が一人でウロウロしてる。散歩か何かか？[br]
 なんとなくだが、その男に俺は同じ種類の人間の匂い…言ってしまえば「ホモ臭さ」を感じた。みんなそうだろうが、大体その手の人間はなんとなく分かる。[pc]
@@ -108,7 +108,7 @@
 まぁ、今の俺には必要のない場所だ。[br]
 飼いたてのペットが家にいるのに、野良に構うような奴はいない。[pc]
 
-【[emb exp=sf.sname]】「行こうか、小柳。」[pc]
+【[emb exp=sf.sname]】 "Let's go, Koyanagi."[pc]
 
 [jump storage="0902d.ks"]
 ;（0902dへ）
@@ -141,19 +141,19 @@
 [layopt layer=0 page=fore visible=true]
 [image storage="0902.png" layer=0 page=fore top=0 left=660]
 
-ごくごく普通の住宅街だ。沖縄と言っても、そこまで大きな違いはないな。[pc]
+A painfully normal neighborhood. There are dozens just like it all across Okinawa.[pc]
 
-…。[pc]
+...[pc]
 
 この街のどこかに住んでいたあの男はもう、いない。[br]
 あれからもう丸一日。さすがにもう家族や友人などは不審に思っている頃だろう。あとは警察がどう動くかだな。小柳の工作で、動きを鈍らせてはあるが。まぁ仮に操作が始まったとしても、まさか「観光事業のために東京から来ている企業社長が、一警察官を無人島に監禁している。」とは想像できないだろう。[pc]
 
 絶望、だな。最も本人はまだこのことを自覚していないだろう。もしかしたら、島で未だ有り得ない助けを待っているのかもしれない。[pc]
 
-無理だよ、赤嶺。[br]
-お前を救う手など存在しない---…[pc]
+Give up, Akamine.[br]
+No one's coming to save you...[pc]
 
-さて、そろそろ行くか。[pc]
+Well, I should get going soon.[pc]
 
 [eval exp="f.note=1"]
 
