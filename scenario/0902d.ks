@@ -88,8 +88,8 @@ I placed my foot on Futoshi's abdomen and pressed down.[pc]
 
 【Futoshi】 "Uuuh...ah......"[pc]
 
-【[emb exp=sf.sname]】「…いい年こいてお漏らしかよ。[br]
-とんでもねぇおまわりさんだな。あー臭ぇ臭ぇ。」[pc]
+【[emb exp=sf.sname]】 "...Little old to be wetting yourself, don't you think?[br]
+Some cop you are. Man, that reeks."[pc]
 
 [playse storage="dosa"]
 [wait time=1000]
@@ -102,7 +102,7 @@ I placed my foot on Futoshi's abdomen and pressed down.[pc]
 鼻をつくこの刺激臭も、俺にとっては何よりも芳しいパフュームだ。[br]
 無様に転がる中年の肉体を足蹴のままに、俺は調教の開始を宣言する。[pc]
 
-【[emb exp=sf.sname]】「さぁ…何からはじめようか？」[pc]
+【[emb exp=sf.sname]】 "Now, where to begin..."[pc]
 
 [if exp="f.kaisou==1"][jump storage="kaisou.ks" target=*album][endif]
 
@@ -143,14 +143,14 @@ I placed my foot on Futoshi's abdomen and pressed down.[pc]
 
 [layopt layer=0 page=fore visible=true]
 [image storage="Futoshi_keikai_w.png" layer=0 page=fore pos=c]
-俺は、警官の手を縛っていたロープを解く。その間、小柳は警官の首筋にスタンガンを突きつけたままだ。[pc]
+I untie the ropes that bound the policeman's hands while Koyanagi held fast with the stungun pressed to his neck.[pc]
 
 [image storage="Futoshi_keikai_w1.png" layer=0 page=fore pos=c]
-【太】「…足も、ほどいてくれ…。」
+【Futoshi】 "...My legs too...please..."
 [image storage="Futoshi_keikai_w.png" layer=0 page=fore pos=c]
 [pc]
 
-【[emb exp=sf.sname]】「必要ない。」[pc]
+【[emb exp=sf.sname]】 "That won't be necessary."[pc]
 
 ;SE　ドン！人を突き飛ばす音　立ち絵消える
 [playse storage="dosa.wav"]
@@ -231,9 +231,9 @@ I placed my foot on Futoshi's abdomen and pressed down.[pc]
 [ws]
 ;＞トイレへ連れて行く
 
-【[emb exp=sf.sname]】 "God, you're hopeless."「仕方ないやつだな。」[pc]
+【[emb exp=sf.sname]】 "God, you're hopeless."[pc]
 
-【太】「頼む……もう、漏れそうなんだっ！急いでくれ……」[pc]
+【Futoshi】 "I'm begging you...I'm five seconds from pissing myself here! Come on..."[pc]
 
 思わず俺は呆れて口が塞がらなくなる。……昨日まで雄勁な面構えを見せ、俺に歯を剥いて反抗していた男が、今は涙でも流さんばかりの勢いで俺に懇願する。……もう少し骨のあるやつかと思ったんだが……見込み違いだったか？　
 心の中で少し、気持ちがしぼんでいくのが分かる。[pc]

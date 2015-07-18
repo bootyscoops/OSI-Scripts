@@ -9391,11 +9391,11 @@ SMグッズの中でもメジャーな部類に入る器具だ。[br]
 [layopt layer=2 page=fore visible=true]
 [image storage="太奴隷哀願8" layer=2 page=fore pos=l]
 
-【[emb exp=sf.sname]】「自己紹介だ。」[pc]
+【[emb exp=sf.sname]】 "Introduce yourself."[pc]
 
 [tt]
 
-【太】「……あ……は……はい……ッ！[br]
+【Futoshi】 "....Uh...Y...Yes sir...!"[br]
 ほ、本官は……[emb exp=sf.sname]様の……奴隷の、赤嶺太であります……ッ……。」[pc]
 
 [tn]
