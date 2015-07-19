@@ -211,7 +211,7 @@
 
 「……ぉおお？？」[pc]
 
-「うわぁ、マジかよ……。」[pc]
+"Woah, no way......"[pc]
 
 [layopt layer=1 page=fore visible=true]
 [image storage="小柳裸普通" layer=1 page=fore pos=c]
@@ -229,14 +229,14 @@
 ;背景公園夜
 
 
-【小柳】「……。」[pc]
+【Koyanagi】 "......"[pc]
 
 【[emb exp=sf.sname]】「さて、いこうか。きちんとついてこいよ。」[pc]
 
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【小柳】「はい……。」[pc]
+【Koyanagi】 "Yes sir..."[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]

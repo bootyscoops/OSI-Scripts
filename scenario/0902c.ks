@@ -38,9 +38,9 @@ Now then, where should I go?[pc]
 
 [playbgm storage="zattou"]
 
-ホテルから車で間もなくの場所。[br]
-住宅街から、隔離されたかのように少し距離を置いたこの場所は、この島唯一の風俗通りだ。[br]
-如何わしい飲み屋を中心に、ソープ・アダルトグッズショップ・ビデオBOXなどなど、こんな小さな島の割には、それなりに店が揃ってる。どうやら近くの米兵キャンプに住む軍人たちのご用達らしい。[pc]
+Before long I was driving away from the hotel.[br]
+This street, the island's own miniature red light district, lies well out of the way of the residential area, almost as though it had been deliberately quarantined.[br]
+Around the shady bars sit all kinds of sex shops and adult video stores.如何わしい飲み屋を中心に、ソープ・アダルトグッズショップ・ビデオBOXなどなど、こんな小さな島の割には、それなりに店が揃ってる。 It seems as though they're here to cater to the soldiers from the nearby US Army base.[pc]
 
 少しずつ通りは賑わいだし、人の行き来が増える。[pc]
 
