@@ -7,7 +7,7 @@
 
 *0903|&f.day+'日目'
 
-<９/３　火曜日　朝＞[pc]
+<9/3　Tuesday　Morning＞[pc]
 
 [wait time=1000]
 
@@ -35,23 +35,23 @@
 [layopt layer=0 page=fore visible=true]
 [image storage="0903.png" layer=0 page=fore top=0 left=660]
 
-【[emb exp=sf.sname]】「……小柳、車は出さなくていい。ここで少し眠る。お前も休んでいい。」[pc]
+【[emb exp=sf.sname]】 "...Koyanagi, don't start the car. I'm gonna have a nap. You can take a break too if you'd like."[pc]
 
-【小柳】「了解しました。何時頃起こせばよろしいですか？」[pc]
+【Koyanagi】 "Yes Sir. When would you like me to wake you?"[pc]
 
-俺は時計を見ようと目を凝らすが、いまいち意識が定まらない。……まぁいい。[pc]
+I squint to try and get a good look at the clock, but I can't seem to focus...Well, whatever.[pc]
 
-【[emb exp=sf.sname]】「６時間後。」[pc]
+【[emb exp=sf.sname]】 "Let's say in 6 hours."[pc]
 
-俺はその返事も待たず、スーツを脱ぎバックシートに寝転がる。[br]
-やがて訪れる、まどろみ。[pc]
+I take off my suit jacket and fall onto the back seat without waiting for a response.[br]
+Within minutes, I fall asleep.[pc]
 
 [bg storage="black"]
 ;---------------------------------
 
 [wait time=2000]
 
-<９/３　火曜日　昼＞[pc]
+<9/3　Tuesday　Midday＞[pc]
 
 [wait time=1000]
 
@@ -61,19 +61,19 @@
 
 [playbgm storage="car_inside"]
 
-【小柳】「時間です、社長。」[pc]
+【Koyanagi】 "It's time, Sir."[pc]
 
 何度か声をかけられ、俺はハッと目覚める。[br]
 時計を見れば１２時０６分。俺より先に目覚め、待機してたであろう秘書は、[br]
 俺より休めていないはずなのに、いつもの姿勢を崩すことなく、[br]
 運転席でハンドルを握っている。[pc]
 
-【[emb exp=sf.sname]】「……スケジュールは？」[pc]
+【[emb exp=sf.sname]】 "...What's on the schedule?"[pc]
 
-【小柳】「社長の捺印が必要な書類が溜まってます。[br]
-今週中にはこれを終わらせていただきます。」[pc]
+【Koyanagi】 "We have a number of important documents awaiting your signature, Sir.[br]
+They'll need to be finalised by the end of the week."[pc]
 
-【[emb exp=sf.sname]】「面倒だな。」[pc]
+【[emb exp=sf.sname]】 "What a pain."[pc]
 
 【小柳】「社長にしか出来ない仕事ですから。」[pc]
 
@@ -84,14 +84,14 @@
 エリートセクレタリーとしての教育を幼い頃から叩き込まれているこの男は、見事にその使命を全うしている。[br]
 惚れ惚れするほどに、実に忠実だ。[pc]
 
-けれど。所詮は親父の犬だ。[br]
-俺が命じれば、俺に全てを委ね、全てを捧げ、全てを曝け出す。[br]
-だけどそれも全部、親父の命令だからこそ。[br]
-……時々、それを思うと冷める。[pc]
+But he's my father's dog first and foremost.[br]
+If I give him an order, he'll obey it absolutely without question.[br]
+But he only obeys me on my old man's orders.[br]
+......Sometimes it makes me worry.[pc]
 
 [select]
-[links target=*futoshi]1.まぁそれならそれで構わない。[endlink][r]
-[links target=*koyanagi]2.それはとても腹立たしい。[endlink]
+[links target=*futoshi]1. Well, I guess it doesn't really matter.[endlink][r]
+[links target=*koyanagi]2. It's absolutely infuriating.[endlink]
 [endselect]
 [s]
 
@@ -102,7 +102,7 @@
 [cm]
 [ws]
 
-利用できるものはなんでも利用すればいい。[br]
+At this point I'll take whatever I can get.[br]
 中古の犬に用はない。俺はおれだけの奴隷を作り上げてみせる。[pc]
 
 [jump target=*goryu]
@@ -153,10 +153,10 @@
 [eval exp="f.gon=1"]
 
 [select]
-[links storage="sarutori_b.ks" target=*start]1.サルトリ通り[endlink][r]
-[links storage="park_b.ks" target=*start]2.水座城址公園[endlink][r]
-[links storage="ichiba_b.ks" target=*start]3.観光市場[endlink][r]
-[links storage="ie_b.ks" target=*start]4.住宅地[endlink][r]
+[links storage="sarutori_b.ks" target=*start]1. Sarutori Street[endlink][r]
+[links storage="park_b.ks" target=*start]2. Minza Castle Park[endlink][r]
+[links storage="ichiba_b.ks" target=*start]3. The Marketplace[endlink][r]
+[links storage="ie_b.ks" target=*start]4. The Residential District[endlink][r]
 [endselect]
 
 [s]

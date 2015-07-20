@@ -75,7 +75,7 @@ Around the shady bars sit all kinds of sex shops and adult video stores.如何わし
 確かに、そんなプレミアムがなければ何の有難味もないただの広場だ。むしろこの時間だと薄気味悪ささえ感じる。主が帰り蛻の殻となった出店が、廃墟を連想させる。[br]
 …札幌の時計台だったり、東京タワーだったり、どこにでもがっかり観光名所というのは存在するらしい。[pc]
 
-…無駄足だったな。帰るか。そう思い俺が俺が戻ろうとすると。[pc]
+...What a waste of time. I'm going back. That's what I thought as I made to leave.[pc]
 
 【[emb exp=sf.sname]】 "...?"[pc]
 
@@ -89,7 +89,7 @@ Around the shady bars sit all kinds of sex shops and adult video stores.如何わし
 
 あー成程。確かにおあつらえ向きの場所だな。街から離れてるからこんな時間じゃ早々人もこない。夜中になればそれこそ、交尾目当てでもなければ誰もこないだろう。[br]
 俺は苦笑しつつ、この場を後にした。[br]
-…この公園の場所は覚えておこうか。何かに使えそうだ。[pc]
+...I'll have to remember this place. It should come in handy later.[pc]
 
 [eval exp="f.park=1"]
 [jump storage="0902d.ks"]
@@ -101,11 +101,11 @@ Around the shady bars sit all kinds of sex shops and adult video stores.如何わし
 [ws]
 ;（公園フラグあり）
 
-お宮公園。昼は名前だけの観光スポット。[br]
-そして夜は、男漁る男の集うハッテン場だ。[pc]
+お宮公園。 A tourist attraction in name only.[br]
+At night it becomes a cruising spot for men who pursue men.[pc]
 
 しかしまだ集まるには時間が早いらしく、それっぽい姿はどこにも見えなかった。[br]
-まぁ、今の俺には必要のない場所だ。[br]
+Well, looks like this place is of no use to me now.[br]
 飼いたてのペットが家にいるのに、野良に構うような奴はいない。[pc]
 
 【[emb exp=sf.sname]】 "Let's go, Koyanagi."[pc]
@@ -122,10 +122,10 @@ Around the shady bars sit all kinds of sex shops and adult video stores.如何わし
 [layopt layer=0 page=fore visible=true]
 [image storage="0902.png" layer=0 page=fore top=0 left=660]
 
-車を一歩出ると、鬱陶しいほどの潮の匂いが届いてきた。[br]
-ここは主に観光客を対象とした市場だ。しかしこの時間になるともうほとんどの店が片付いている。ここは昼までに来ないと開いてないようだな。[pc]
+I took one step out of the car and I was immediately hit by the smell of the sea.[br]
+This is a market that mainly caters to tourists.しかしこの時間になるともうほとんどの店が片付いている。ここは昼までに来ないと開いてないようだな。[pc]
 
-…そろそろ島に向かおうか。[pc]
+...I should head to the island soon.[pc]
 
 ;(0902dへ）
 [jump storage="0902d.ks"]

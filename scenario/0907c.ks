@@ -22,7 +22,7 @@
 [position layer=message0 page=fore frame="window_ft.png"]
 [position layer=message0 page=back frame="window_ft.png"]
 
-【Futoshi】 "Aah, G'morning. Take careon your way to work."[pc]
+【Futoshi】 "Aah, G'morning. Take care on your way to work."[pc]
 
 [position layer=message0 page=fore frame="window_fn.png"]
 [position layer=message0 page=back frame="window_fn.png"]
@@ -54,7 +54,7 @@
 [position layer=message0 page=fore frame="window_fn.png"]
 [position layer=message0 page=back frame="window_fn.png"]
 
-God, it was hot. Unable to take it any longer, I reached into my pants pocket, searching for a handkerchief.[pc]
+God, it's hot. Unable to take it any longer, I reach into my pants pocket, searching for a handkerchief.[pc]
 
 [fadeoutbgm time=100]
 
@@ -81,7 +81,7 @@ But there was no handkerchief. In fact, there wasn't even a pocket...Just bare s
 [position layer=message0 page=back frame="window_fn.png"]
 
 What the hell is this?! I can't be seen this way! Not in my own town......!![br]
-I quickly tried to cover myself, but something held my hands behind my back.[pc]
+I quickly try to cover myself, but something holds my hands behind my back.[pc]
 
 [position layer=message0 page=fore frame="window_ft.png"]
 [position layer=message0 page=back frame="window_ft.png"]
@@ -130,7 +130,7 @@ The man's words were like some kind of magic. 男の言葉はまるで何かの魔法のように
 [position layer=message0 page=fore frame="window_fn.png"]
 [position layer=message0 page=back frame="window_fn.png"]
 
-「ほら、こんな街中でそんな格好になって恥ずかしいなぁ？」[pc]
+"Must be humiliating walking around town dressed like that, huh?"[pc]
 
 ;太奴隷哀願6
 
@@ -174,7 +174,7 @@ The man's words were like some kind of magic. 男の言葉はまるで何かの魔法のように
 
 【Futoshi】 "A.....A dream......?"[pc]
 
-……違う、夢じゃない。[br]
+...No...It wasn't a dream.[br]
 俺はあの日、二人組みの男に誘拐されて、この島に監禁された。[br]
 そして、奴隷になるための調教だといって、あいつらは俺を……俺、を……[pc]
 
@@ -392,7 +392,7 @@ I could hear their footsteps getting closer.[pc]
 
 【[emb exp=sf.sname]】「小柳･･･。こいつのチンポをしゃぶってやれ。」[pc]
 
-【小柳】「かしこまりました。」[pc]
+【Koyanagi】 "Yes sir."[pc]
 
 ;立ち絵　恥1
 
@@ -627,9 +627,9 @@ I could hear their footsteps getting closer.[pc]
 
 [fadeoutbgm time=1000]
 
-…………。[br][wait time=2000]
-小さな風が、この岩の牢獄に吹く。[br]
-一瞬の静寂。[pc]
+.........[br][wait time=2000]
+A gentle breeze blew through the stone prison.[br]
+A moment of silence.[pc]
 
 赤嶺は呆けたように、俺の顔を見る。[br]
 俺は次の言葉を待つ。[pc]
@@ -669,7 +669,7 @@ I could hear their footsteps getting closer.[pc]
 
 【[emb exp=sf.sname]】「小柳･･･。こいつのチンポをしゃぶってやれ。」[pc]
 
-【小柳】「かしこまりました。」[pc]
+【Koyanagi】 "Yes sir."[pc]
 
 ;立ち絵　哀願2
 
@@ -710,17 +710,17 @@ I could hear their footsteps getting closer.[pc]
 
 一週間の禁欲で敏感になったペニスは、こんな状況でも確実に太の頭に快楽のパルスを送り込む。たちまちその浅黒いチンポは、天に向かって高くつきあがった。[pc]
 
-【[emb exp=sf.sname]】 "How does it feel to have your cock sucked by a man?"[pc]
+【[emb exp=sf.sname]】 "How does it feel to have a man's mouth on your cock?"[pc]
 
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【太】「うんむぅ･･･ウハァあああ･･。」[pc]
+【Futoshi】 "Unnfhuh...Uaaaaahh..."[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
-【[emb exp=sf.sname]】「小柳のフェラチオはなかなかの絶品だろう。[br]
+【[emb exp=sf.sname]】 "Koyanagi's quite a suberb cocksucker, wouldn't you say?[br]
 俺の奴隷になれば、こんな気持ちいいこともたくさん味わえるぞ。[br]
 咥えられるよりも、咥える機会のほうが多くなるだろうがな。」[pc]
 
@@ -817,8 +817,8 @@ Is the camera ready, Koyanagi?"[pc]
 支配するのは俺だ。[br]
 一時の劣情で、主人であるこの姿を崩すわけにはいかない。[pc]
 
-……再び、沈黙が訪れる。[br]
-太が口の中にたまった唾を飲み込む音が聞こえた。そして……。[pc]
+......Once again, a moment of silence.[br]
+I heard Futoshi swallow, take a deep breath, and then......[pc]
 
 ;下にスクロール
 [move layer=0 time=30000 path="(0,-600,255)"]
@@ -831,7 +831,7 @@ Is the camera ready, Koyanagi?"[pc]
 I, Futoshi Akamine...On this day, the 9th of September...[br]
 Henceforth renounce my former life as a Police Officer...[br]
 I vow to live my new life...[br]
-as Master [emb exp=sf.sname] [emb exp=sf.name]'s S...Slave..."[pc]
+as [emb exp=sf.sname] [emb exp=sf.name]-sama's S...Slave..."[pc]
 
 【[emb exp=sf.sname]】 "What does it mean to be a Slave?"[pc]
 
@@ -847,20 +847,20 @@ If I say you're dead weight, you're dead weight."[pc]
 
 【Futoshi】 "......"[pc]
 
-【[emb exp=sf.sname]】「俺が犬になれと言ったらお前は犬だ。[br]
-便器になれと言えば便器になるんだ。[br]
-……想像しながら、もう一度言ってみろ。お前はなんだ？」[pc]
+【[emb exp=sf.sname]】 "If I say you're a dog, you're a dog.[br]
+If I say you're a toilet, you're a toilet.[br]
+......With all this in mind, say it again. What are you?"[pc]
 
 【Futoshi】 "...A Slave..."[pc]
 
-【[emb exp=sf.sname]】「誰の？」[pc]
+【[emb exp=sf.sname]】 "Whose Slave?"[pc]
 
-【太】「[emb exp=sf.sname]様です･･･っ！」[pc]
+【Futoshi】 "[emb exp=sf.sname]-sama's...!"[pc]
 
 【[emb exp=sf.sname]】「そうか。お前は俺の奴隷になるんだな。それなら最初の命令だ。[br]
 そのまま、カメラの目の前でチンポしごいてみせろ。左手だけでイクんだ。」[pc]
 
-【太】「･･･はい･･･っっ。」[pc]
+【Futoshi】 "...Yes sir..."[pc]
 
 [wm]
 
@@ -878,7 +878,7 @@ If I say you're dead weight, you're dead weight."[pc]
 太は、待ち望んでいたかのようにチンポをしごきあげる。[br]
 久しぶりの快楽に貪りつく獣には、羞恥心など思い出す余裕もないだろう。[pc]
 
-【太】「く･･ア・・・ハァ･･･ッ･･･！」[pc]
+【Futoshi】 "Kuh...ah...Hhaaaah...!"[pc]
 
 【[emb exp=sf.sname]】 "Does it feel good?"[pc]
 
@@ -897,7 +897,7 @@ If I say you're dead weight, you're dead weight."[pc]
 チンポ気持ちよくしてくれてありがとうございますってな。[br]
 お前を気持ちよくさせてるのは俺だということを忘れるな。」[pc]
 
-【太】「･････････。」[pc]
+【Futoshi】 "........."[pc]
 
 【[emb exp=sf.sname]】「言え！！！　言えないならチンポを触るのは禁止だ！！」[pc]
 
@@ -967,12 +967,12 @@ If I say you're dead weight, you're dead weight."[pc]
 
 【[emb exp=sf.sname]】「手のひらを舐められるだけで感じるのか。いやらしいな。[br]
 お前の奴隷オナニー、よく撮れてたぞ。[br]
-お前の女房や息子が見たらきっと目が飛び出るほど驚くだろうなぁ？」[pc]
+I bet your wife and son wouldn't believe their eyes if they saw you now."[pc]
 
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【太】「あ･･･っっ？！」[pc]
+【Futoshi】 "Huh...?!"[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
@@ -1227,8 +1227,8 @@ If I say you're dead weight, you're dead weight."[pc]
 小柳が太ももを拭いた途端、チワワのような目を潤ませ、体をビクンと振るわせる上原。[br]
 そして二度三度痙攣したのち、グッタリとしてしまった。[pc]
 
-【上原】「……。」[pc]
-【小柳】「……。」[pc]
+【Uehara】 "......"[pc]
+【Koyanagi】 "......"[pc]
 【[emb exp=sf.sname]】「………小柳……上原さんは体調が悪そうだ。送ってさしあげなさい…。」[pc]
 
 
@@ -1354,7 +1354,7 @@ As he said the word, I stopped walking.[pc]
 
 [tt]
 
-【売人】「いやいや、いんやいんや男前の兄さん。[br]
+【Dealer】「いやいや、いんやいんや男前の兄さん。[br]
 You don't seem like the kinda guy who can do the regular kind of love, is all."[pc]
 
 [tn]

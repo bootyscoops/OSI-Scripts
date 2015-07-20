@@ -10,28 +10,28 @@
 
 [fadeoutbgm time=1000]
 
-そしてその日の予定を淡々とこなす。[br]
-あっという間に夕暮れが訪れる。[pc]
+So I'll just half-ass my way through today's schedule.[br]
+It'll be sunset before I know it.[pc]
 
-【[emb exp=sf.sname]】「……小柳、次の予定は何だ？」[pc]
+【[emb exp=sf.sname]】 "...What's next on the agenda, Koyanagi?"[pc]
 
-【小柳】「……。」[pc]
+【Koyanagi】 "......"[pc]
 
-【[emb exp=sf.sname]】「……小柳、聞いてるのか？」[pc]
+【[emb exp=sf.sname]】 "...Koyanagi, are you listening?"[pc]
 
-【小柳】「……つきました。」[pc]
+【Koyanagi】 "...We have arrived."[pc]
 
 [bg storage="sarutori_roji_yo"]
 
-【[emb exp=sf.sname]】「……なんだよここは。」[pc]
+【[emb exp=sf.sname]】 "Arrived where exactly?"[pc]
 
-降ろされたところは……人通りも少ない寂れた裏通りだった。[br]
-こんなところで、何をするというのだろう。[pc]
+The car was parked in what looked like an abandoned alleyway.[br]
+What business could we possibly have in a place like this?[pc]
 
-【[emb exp=sf.sname]】「おい、小柳。どういうことだ？　こんなところで何をしろと……。」[pc]
+【[emb exp=sf.sname]】 "Hey, Koyanagi. What is this? What the hell are we doing here....."[pc]
 
 
-【小柳】「社長に申し上げます。」[pc]
+【Koyanagi】 "I'm sorry, Sir."[pc]
 
 [wait time=300]
 
@@ -45,11 +45,11 @@
 
 [bgfast storage="white"]
 
-一瞬何がおこったのか分からなかった。[br]
-というより、今もよく分かってない。何かが自分の体を貫いた。それは分かる。[br]
-そして自分の体がゆっくりと倒れていく。それも分かる。違う、分からない。[br]
-周りの時間がゆっくり動いている。なんだこれは。[br]
-なんだ、なにがおこった　なんでこんなに痛いんだ？　[pc]
+In the moment I couldn't figure out what had happened.[br]
+I mean, it's not really clear now either. Something went through my body. I know that much.[br]
+And now my body is slowly falling. I get that too. That's a lie, I don't get it at all.[br]
+Time is moving so slow. What is this?[br]
+What's happening? Why am I in so much pain?[pc]
 
 [bgnfast storage="white"]
 
@@ -61,16 +61,16 @@
 
 [bgfast storage="white"]
 
-「……　れが　……のご意思……す……。」[pc]
+"......was never meant....end this...way..."[pc]
 
-「貴方には……の資格がない……。」[pc]
+"You simply...weren't qualified......"[pc]
 
-何か聞こえる。静かな声……いや、海の音だ。波の音だ。[pc]
+I can hear something. A quiet voice...No, it's the ocean. The sound of waves.[pc]
 
-頭の中に波の音が響く。[br]
-波の音だけ。なみ。なみ。ザッパーン。ザザー。それだけだ。なにも聞こえないし動けない。[pc]
+The waves echo in my head.[br]
+There's only the waves. Waves. Waves. Roaring. Sighing. Nothing else. I can't hear anything. I can't move.[pc]
 
-そしておれは　あわのようにはじけてきえた。[pc]
+Then I was gone      like mist in the morning light.[pc]
 
 [playse storage="big_wave"]
 
