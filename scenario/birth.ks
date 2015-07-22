@@ -18,8 +18,8 @@
 
 [tn]
 
-その日はやけに、島の色が赤かった。[br]
-彩度の高いオレンジが、小柳と俺の影を長く伸ばす……。[pc]
+The colour of the island was awfully red that day.[br]
+Mine and Koyanagi's shadows extended long in the vibrant orange light.[pc]
 
 ;暗転
 ;間
@@ -38,8 +38,8 @@
 [layopt layer=1 page=fore visible=true]
 [image storage="太奴隷普通7" layer=1 page=fore pos=c]
 
-いつものように太に会いに行く。[br]
-太は仕込まれたままの、奴隷の姿勢で俺を出迎え、俺は気分で調教メニューを考える。[pc]
+Just like always, I go to meet Futoshi.[br]
+Still filling out some forms, he greets me in a slavelike manner and I feel like coming up with a training program for him. [pc]
 
 [image storage="kara" layer=1 page=fore pos=c]
 
@@ -59,14 +59,13 @@
 
 [eval exp="sf.f_110=1"]
 
-鞭で尻を叩き、赤く焼けた肌に舌を這わせ、痛み交じりの快感を教えてやる。[br]
-ペニスや金玉や乳首にもクリップをプレゼントし、血が止まり痺れてきたころに、甘いご褒美。唇で吸ったり、甘噛んだり。[br]
-普通のセックスとは少し違う、だけどもはや太にとっては「日常」になりつつある生活。[pc]
+I whip his ass, dragging my tongue along his angry red flesh and teaching him of the pleasure in pain.[br]
+I clamp his shaft, his balls and his nipples, stopping the flow of blood, the numbness a sweet reward. Beautifully sucking in, gently clenching his jaw.[br]
+This is a little different to ordinary sex, but it's rapidly becoming an everyday lifestyle for Futoshi.[pc]
 
-しかし、なんだかいつもと調子が違う。いつもなら、俺の動きに逆らい、少しでも痛みから逃れようとするはずの太が、いやに従順だった。俺が鞭を握っても、体を引くこともせず。俺がアナルに指を這わせても、反射的に跳ねようとする自分の体を必死で抑えようと、歯を食いしばり耐えている。[pc]
-
-俺の調教が身についてきた、と思えば自然にも思えるが、それにしては体は相変わらず緊張でこわばったまま。[br]
-その仕草は、何か隠し事をしているが故の不自然さにも見えた。[pc]
+However, the tone is somehow different to the usual. If it were the usual, he'd struggle against me and would attempt to escape the pain. He hated it, but was obedient. I'd hold the whip and he wouldn't move. Even while I slid my finger into him, he'd desperately resist the desire to jump, enduring through clenched teeth.[pc]
+You could be forgiven for thinking that my training had held fast. Simply because his body remained so tense and stiff.[br]
+That gesture... It was unnatural to the extent that it looked like he was hiding something.[pc]
 
 ;暗転
 ;間
@@ -78,12 +77,12 @@
 
 [bg storage="chain"]
 
-また、従順になったフリをして、脱走でも企てているのではないだろうか…[br]
-…調教も終わり、いつものように鎖につなぎながら警戒していた俺に、ついに太は声をかけてきた。[pc]
+Surely he couldn't just be pretending to be obedient and really attempting to escape...[br]
+...Once the torture had finished and I was carefully tying him to his chain, Futoshi finally raised his voice to speak.[pc]
 
-【太】「待ってくれ……頼みがあるんだ。」[pc]
+【Futoshi】「Please wait... I have a request to ask.」[pc]
 
-【[emb exp=sf.sname]】「へぇ、それは珍しい。どうした。」[pc]
+【[emb exp=sf.sname]】「Oh, that's odd. What is it?」[pc]
 
 ;暗転
 ;間
@@ -109,8 +108,8 @@
 
 [tt]
 
-【太】「わかってる！この島には助けなどこない、俺はきっともう一生逃げられない……分かっているから、頼んでいるんだ。頼む、今夜だけでいい。これから先、どんな命令でも聞く。だから、頼む！[br]
-今夜、一度だけでいいんだ。俺を、家に帰してくれ。どうしても、やらないといけないことが……あるんだ。」[pc]
+【Futoshi】「I know that! Not only is there no way for me to be saved on this island, and there is no way on earth I could escape... It's because of that that I ask this. Just tonight, that's all I ask. From now on, I will obey any instruction. For that reason, I beg of you![br]
+Tonight, just once is all I desire. Please send me home. There are things there that I have to do... no matter what.」[pc]
 
 [tn]
 
@@ -162,8 +161,8 @@
 [position layer=message0 page=fore frame="window_ft.png"]
 [position layer=message0 page=back frame="window_ft.png"]
 
-【亮】「なぁ、父さん！頼むよ～！[br]
-バイクは自分のカネで買うし、だかさ、な？」[pc]
+【Ryo】「Hey Dad! I've got something to ask![br]
+I'd like to buy a bike with my own money, but it's pretty expensive huh!」[pc]
 
 ;太　警戒
 
@@ -174,27 +173,27 @@
 [position layer=message0 page=back frame="window_ft2.png"]
 
 
-【太】「だめだ、だめだ。ラケットなら今あるので充分だろ。[br]
-うちはそんなに金持ちではないんだぞ。」[pc]
+【太】「No, no. You've got a tennis racket, isn't that enough?[br]
+You know we don't have that kind of money.」[pc]
 
 [position layer=message0 page=fore frame="window_fn.png"]
 [position layer=message0 page=back frame="window_fn.png"]
 
 
-俺の息子、にしては出来のよすぎる息子からの、それは珍しいおねだりだった。[br]
-云万もするラケットを買ってくれ、と。高校入学まで真面目にやってきた息子のたっての願い。[br]
-受け入れてやってもよかったのかもしれないが。[pc]
+From my son, who is such a wonderful guy, that was a rare request.[br]
+So on and so forth, he begged me for that racket too. That request he made earnestly right up till he enrolled at high school.[br]
+Yet I feel it was the right thing to have accepted.[pc]
 
-古い考えの俺には、[br]
-彼の熱中するテニスというスポーツはどうにもナンパなものに思えて、[br]
-どうも心持よく見守ることが出来なかったのだ。[pc]
+Backwards-thinking me felt that[br]
+he'd only really got in to tennis so that he could pick up girls,[br]
+yet I had totally misread his intent.[pc]
 
 [position layer=message0 page=fore frame="window_ft2.png"]
 [position layer=message0 page=back frame="window_ft2.png"]
 
 
-【太】「大体なんで、たかだかこんな小さいボールを打つのに、そんな高いラケットが必要なんだ。[br]
-そんなカネのかかるスポーツより、俺のように柔道でも始めたほうが……。」[pc]
+【Futoshi】「I can't really believe that such an expensive racket is necessary for hitting such a small ball.[br]
+Surely instead of such an expensive sport, it'd be better to do something like Judo, as I did myself...」[pc]
 
 ;亮　驚き
 
@@ -204,17 +203,17 @@
 [position layer=message0 page=fore frame="window_ft.png"]
 [position layer=message0 page=back frame="window_ft.png"]
 
-【亮】「だーかーら、その話はもう聞き飽きたって！[br]
-柔道もすごいと思うし父さんもすごいと思うけど、俺はテニスが好きなの！[br]
-父さんはバカにするけど、テニスだって結構ハードなスポーツで……。[pc]」
+【Ryo】「Yeeeeeeah, and I've got tired of hearing that story![br]
+I think Judo is great, and I think you are great, but I really like tennis![br]
+Even though you make fun of it, tennis is quite a hard sport too...[pc]」
 
 [position layer=message0 page=fore frame="window_ft2.png"]
 [position layer=message0 page=back frame="window_ft2.png"]
 
 
-【太】「とにかくだめだ。[br]
-……何かの大会にでも出るならともかく、[br]
-お前の趣味にそこまで投資する気はないぞ。」[pc]
+【Futoshi】「It's useless anyway.[br]
+...In any case if you were to partake in some tournament[br]
+I don't have the will to invest in your hobby to that degree.」[pc]
 
 ;亮普通
 
@@ -225,20 +224,20 @@
 [position layer=message0 page=back frame="window_ft.png"]
 
 
-【亮】「……大会に出られたら買ってくれるのか？」[pc]
+【Ryo】「...If I weren't to go to a tournament, you'd get it for me?」[pc]
 
 [position layer=message0 page=fore frame="window_ft2.png"]
 [position layer=message0 page=back frame="window_ft2.png"]
 
 
-【太】「いや、そうは言ってないだろ……。」[pc]
+【Futoshi】「No, that's not what I was saying!」[pc]
 
 [position layer=message0 page=fore frame="window_ft.png"]
 [position layer=message0 page=back frame="window_ft.png"]
 
 
-【亮】「よし！父さん約束だからな！県大会に出場できたら買ってくれよ！[br]
-トリアンソンのプレミアムフレームラケット、５７８００円！」[pc]
+【Ryo】「Right! That's a promise, then! Get it for me should I get in to the prefectural tournament![br]
+Torianson's Premium Racket - 57,800 yen!」[pc]
 
 ;太　驚き
 
@@ -249,9 +248,9 @@
 [position layer=message0 page=back frame="window_ft2.png"]
 
 
-【太】「ご、五万？！　ば、バカ言うな！県大会なんかあがれて当たり前だ！[br]
-俺はお前ぐらいの年には全国大会にだな……[br]
-……そ、そうだ全国だ！全国に出られたら考えてやってもいい。」[pc]
+【Futoshi】「Fif- fifty thousand yen?!　You think I'm an idiot! Anyone can get in to the prefectural tournament![br]
+At your age I think I was in the national tournament...[br]
+...Yes, yes I was! You can think about it once you get into the national tournament.」[pc]
 
 ;亮　笑顔
 
@@ -262,8 +261,8 @@
 [position layer=message0 page=back frame="window_ft.png"]
 
 
-【亮】「本当に！？[br]
-約束だからな！警官なんだから嘘つくなよ、後でやっぱりナシは、ナシだからな！」[pc]
+【Ryo】「Really?![br]
+Now that's a promise! You're a cop so you can't lie - and you can't change it afterwards!」[pc]
 
 [image storage="kara" layer=2 page=fore pos=l]
 [image storage="kara" layer=1 page=fore pos=r]
