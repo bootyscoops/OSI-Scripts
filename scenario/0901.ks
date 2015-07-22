@@ -125,8 +125,9 @@ Please enter your Name[pc]
 [eval exp="sf.sname='檻原'"]
 [eval exp="sf.name='智樹'"]
 ;
+[input name=sf.name prompt="What's your First Name?" title="名前の入力"]
 [input name=sf.sname prompt="What is your Surname?" title="苗字の入力"]
-[input name=sf.name prompt="What is your Given Name?" title="名前の入力"]
+
 
 ＜９/１　Sunday Morning＞[pc]
 
@@ -203,9 +204,9 @@ The locals live on the West side where there's a harbour that connects Minza to 
 We're on our way to the east side's biggest hotel: "Minza Resort - Nirai Kanai". The hotel is under the management of The [emb exp=sf.sname] Group...with my Father serving as its chairman.[pc]
 
 There's virtually no foot traffic on this road that joins the two regions.[br]
-…しかしいくら人目につかないとは言っても、立小便なんて見場の悪い真似はしたくない。[pc]
+...I still don't want to be seen standing here pissing on the side of the road.[pc]
 
-…携帯できる便器があるというのは、便利なものだ。[pc]
+...Having a portable toilet is so convenient.[pc]
 
 
 【[emb exp=sf.sname]】 "Hurry it up, Koyanagi."[pc]
@@ -239,19 +240,19 @@ My secretary and I[br]
 
 [playbgm storage="forest"]
 
-道路沿いの林を少し進み、人目につかないところを選べば、小柳はそのまま俺の前に跪き…いつもの動きで俺のファスナーを降ろした。[br]
-小柳は…こいつの家の血筋の人間は、小柳の父親、祖父、それ以前の代からうちに仕える家系にあり、幼少の頃から、有能な「秘書」となるべく、教育されている。[pc]
+We walked a little way into the forest, making sure we were well out of sight. Kneeling in front of me, Koyanagi pulled down my zipper the way he always does.[br]
+Koyanagi's whole family...his father, his grandfather, and countless generations before, have all been servants. Taught from childhood to be as useful a secretary as one could hope for.[pc]
 
-元は親父付きの秘書だったこいつは、命令には何一つ躊躇うことなく従う。[br]
-俺の命令一つで、運転手にだって、便器にだってなる。[pc]
+He originally served my old man, willing to carry out any order without question.[br]
+At my command, he can turn from driver to Toilet in an instant.[pc]
 
-…もっとも、こいつは元々俺の持ち物ではない。[br]
-俺の父親である、会長付きの秘書だった。[br]
-それが親父の命令で、今は俺に臨時で付いている。[br]
-小柳は「親父」の僕であり、俺の命令で動いてるわけではない。[pc]
+...However, he isn't really mine.[br]
+Before anything else, he belongs to the Chairman. My old man.[br]
+It's only on my father's orders that he obeys me now.[br]
+As my father's servant, he's not really loyal to me at all.[pc]
 
-…取り出された俺のペニスを、やはり躊躇うことなく口に含む小柳。[br]
-もう何度、こいつは俺や親父のモノをこうやって咥えてきたのだろう。[pc]
+...Koyanagi pulled my penis through my fly and wrapped his mouth over it without hesitation.[br]
+It strikes me that this guy probably has a wealth of experience doing things like this for my old man.[pc]
 
 
 ;フェラ音
@@ -259,9 +260,9 @@ My secretary and I[br]
 
 Shlup...Shlurp...[pc]
 
-長旅で匂う俺のペニスを清潔にすることもこいつは忘れない。[br]
-舌が、カスや汗の溜まりやすい筋に沿って滑らかに動く。[br]
-尿道を刺激して、排尿を促す。[pc]
+He doesn't neglect to clean my penis of the smell of the long journey.[br]
+His tongue glides smoothly along the shaft, washing away the buildup of sweat.[br]
+The stimulation of my urethra helps me get started.[pc]
 
 【[emb exp=sf.sname]】 "......"[pc]
 
@@ -272,29 +273,29 @@ Shlup...Shlurp...[pc]
 
 Psssssss...[pc]
 
-小便を吐き出す音が、それを飲み込む小柳の喉の音で掻き消される。[br]
-アルマーニのスーツに固めた体はわずかに震え、ブルガリの眼鏡越しに見える瞳は微かに熱っぽい。[br]
-何もせず黙っていれば、「紳士」。そんな言葉がそのまま当てはまる風体の彼が、こうやって俺の陽物にしゃぶりつく姿は、何度見ても飽きを感じさせない。[pc]
+The sound of me pissing was quickly covered by the sound of Koyanagi gulping it down.[br]
+His solid frame, packed tight inside his Armani suit, trembled slightly. I could see his eyes behind his Bulgari glasses glaze over with lust.[br]
+To the world he looks like a "Perfect Gentleman". Seeing a man who so perfectly embodies those words down on his knees with a cock in his mouth never gets old, no matter how many times I see it.[pc]
 
-全部吐き出せば、小柳はわずかに垂れた雫を拭おうと、舌を俺の茎に這わせる。[br]
-すでに俺のペニスはガチガチだ。[br]
-それは向こうも分かっているだろう。[pc]
+When I finished, Koyanagi's tongue snaked across my shaft, lapping up the last few drops.[br]
+My cock is already hard.[br]
+He knows what's next.[pc]
 
-期待に潤んだ瞳。豚の表情。そう、これが小柳勇造の本当の姿だ。[br]
-ブランドのスーツも、シューズも、この奴隷には似合わない。[br]
-……情念の炎が、俺の劣情を煽る。[pc]
+His teary eyes gazed up at me, begging like a shameless pig. This is the true Koyanagi Yuuzou.[br]
+Fancy suits and designer shoes don't belong on this slave.[br]
+......These thoughts inflame my lust even further.[pc]
 
-【[emb exp=sf.sname]】 "......Koyanagi, strip. I wanna fuck you..."[pc]
+【[emb exp=sf.sname]】 "......Koyanagi, strip. I'm gonna fuck you..."[pc]
 
-たまらなくなった俺が、そう言って小柳に這う姿勢を促したときだ。[br]
-ちょうど俺たちがやってきた方向から、茂みをかき分けて何者かが近づいてくる音がした。[pc]
+Unable to take it anymore, I ordered him to get down on all fours.[br]
+At that exact moment, I heard someone walking through the bushes in the direction we had just come from.[pc]
 
 
 [playse storage="leaf_divide"]
 
 Rustle!![pc]
 
-【？？】 "Hey! You can't park your car here!!"[pc]
+【???】 "Hey! You can't park your car here!!"[pc]
 
 [fadeoutbgm time=1000]
 A deep, rough voice came from the direction of the highway and I hurriedly pulled up my pants.[br]
@@ -338,8 +339,8 @@ Now this was a fine specimen.[pc]
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
-警官にしては、なんというか…威厳はあるが権威的なものは感じない。[br]
-例えるなら近所のおっさんが子供を叱るような、そんな調子で男は俺たちを戒める。[pc]
+He was definitely a cop, and a physically imposing one at that, but...he didn't exactly sound authoratative.[br]
+His tone was like an old man scolding a neighbourhood kids.[pc]
 
 【[emb exp=sf.sname]】 "Sorry, sorry. Couldn't hold it, y'know?"[pc]
 
@@ -367,8 +368,8 @@ The man forced a smile and looked down, his face turning beet red.[pc]
 
 [playse storage="car_start"]
 
-警官は、口早にそれだけを言うと、逃げるようにパトカーに乗り込み去っていった。[br]
-違反キップの一枚でも切れば、成績アップにでもなるだろうに。[pc]
+The cop simply said that and fled back to his patrol car, clearly looking to end the conversation as quickly as possible.[br]
+He didn't even give us a ticket, which would've definitely looked good on his record.[pc]
 
 ...Truly an interesting man. And what's more...[pc]
 
@@ -385,7 +386,7 @@ Violate. Consume. And 'Transform'.[pc]
 
 He caught my meaning almost instantly. Koyanagi pulled a thick notebook from his breast pocket and began to flick through. Before long, his finger came to rest on one page.[pc]
 
-【Koyanagi】 "...The Group has possession of a small island approximately one hour from the hotel.[br]
+【Koyanagi】 "...The Group is in possession of a small island approximately one hour from the hotel.[br]
 Though it is currently undergoing development for future projects..."[pc]
 
 【[emb exp=sf.sname]】 "From now on, that island is totally off-limits...Wait, scratch that.[br]
@@ -409,7 +410,7 @@ What's the island called, again?"[pc]
 【Koyanagi】 "Kugaitou, sir. Though in recent times the name has been shortened to Kugai."[pc]
 
 【[emb exp=sf.sname]】 "Kugai...Not bad.[br]
-いいか、今日中だぞ。今日の夜までに、その島を。」[pc]
+Very well. I need it ready for guests by tonight."[pc]
 
 
 [fadeoutbgm time=1000]
@@ -463,17 +464,16 @@ For the next month, this would be my base of operations.[pc]
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【小柳】「かしこまりました。社長は……。」
+【Koyanagi】 "Yes Sir. And what will Sir be doing, if I may ask?"
 [pc]
 
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
-
-少し考えたが、九月といえど、まだ外を歩けばたちまちに汗がにじむ陽気だ。[br]
-沖縄にはもう何度か来ているし、そこまで珍しいものもない。[br]
-そもそも観光とか、そんなものには興味もない。[br]
-俺は、小柳の仕事が終わるまで部屋で休むことにした。[pc]
+It strikes me how ridiculous it is to get sweaty the second you step outside in September.[br]
+This isn't my first trip to Okinawa either. This is perfectly average weather.[br]
+My job is to help promote tourism in the area, but I can't imagine anything less appealing.[br]
+I decided to relax in the room until Koyanagi finished the work.[pc]
 
 [image storage="kara" layer=1 page=fore top=0 left=0]
 [image storage="kara" layer=2 page=fore top=0 left=0]
@@ -483,8 +483,8 @@ For the next month, this would be my base of operations.[pc]
 
 Clack clack...[pc]
 
-エアコンの稼動音と、秘書がキーを打つ音だけが部屋の中に静かに響く。ただ淡々と、慣れた速さで奏でられるその音は、PCを知らない人に聞かせたら、そういう音色の楽器にも思えるかもしれない。[br]
-俺は、改めて自分の秘書の顔を眺め見た。[pc]
+The room was silent save for the hum of the air conditioner and the sound of Koyanagi typing. His keystrokes were so perfectly regular that you could almost mistake it for a musical instrument if you weren't familiar with computers.[br]
+I examined the face of my secretary once again.[pc]
 
 
 [layopt layer=1 page=fore visible=true]
@@ -492,19 +492,19 @@ Clack clack...[pc]
 [layopt layer=2 page=fore visible=true]
 [image storage="Koyanagi_cyakui_megane" layer=2 page=fore pos=c]
 
-Yuuzou Koyanagi. For generations, the men of the Koyanagi family have served my household.[br]
-「秘書」になるべくして生まれた彼は、幼い頃から各種経営マネージメントの英才教育を受け、１６になるころには常に、俺の親父についていたらしい。[br]
-……語学・数学・科学・雑学、マルチに対応できるように、あらゆる分野の知識を植え込まれてきた小柳。[pc]
+Koyanagi Yuuzou. For generations, the men of the Koyanagi family have served my household.[br]
+He was born and raised to become a secretary, receiving special education in all areas of business management. As far as I can tell, he was bound to my father shortly after his 16th birthday.[br]
+......Language, Math, Science, Trivia, Koyanagi has developed a wealth of knowledge in a wide variety of areas.[pc]
 
-…そして、異常な性癖を持つ親父を満足させるために。「マゾ」としての教育…調教もまた受けてきた。[pc]
+...And, in order to satisfy my father's...unusual proclivities...he was also given comprehensive training in the ways of 'Masochism'.[pc]
 
-時には、親父の片腕として会社を取り仕切り、時には…親父の奴隷として、ケツを晒しペニスを猛らせる。[br]
+Sometimes he would serve as an important part of his management team, and sometimes...as his slave, with his body acting as little more than a sex toy.[br]
 Sworn to absolute loyalty, my father's partner both in public and in private. That is Koyanagi.[pc]
 
-…その小柳が何故今、俺についているのかと言えば、それが親父の命令だからだそうだ。[br]
-まぁ、秘書と言えば体はいいが、要は監視だろう。親父も知っている。俺が、会長の存在を快く思っていないことを。[pc]
+...If you're wondering why he's with me now, it's simply because that's what my father ordered him to do.[br]
+He's certainly attractive, but essentially he's here to keep an eye on me. I know my old man. He doesn't think I have what it takes to be in charge.[pc]
 
-親父がいるかぎり、俺はこのグループのトップには立てない。そして、親父は俺さえ抑えておけば他の誰にもその椅子を奪われないことを知っている。そしてその椅子を、自分の寿命が尽きるまで一秒でも他のやつには渡そうとはしない。[br]
+As long as he's around, I'll never climb to the top of this company.そして、親父は俺さえ抑えておけば他の誰にもその椅子を奪われないことを知っている。そしてその椅子を、自分の寿命が尽きるまで一秒でも他のやつには渡そうとはしない。[br]
 俺の父親はそういう男だ。実の息子にすら、自分の上に立つことを認めない。[br]
 だから、親父は俺をこうやって、飼い殺す。[pc]
 
@@ -639,7 +639,7 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【小柳】「ひっ！ふぅーーー！ふ、うーーー…！」[pc]
+【Koyanagi】 "Hhuh! Fhuuuu! F-Unngh...!"[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
@@ -784,14 +784,14 @@ We are now free to visit at any time."
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【小柳】「準備は整っています。滞りなく済むかと思われます。」
+【Koyanagi】 "Everything is prepared. We can commence whenever you're ready."
 [pc]
 
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
-【[emb exp=sf.sname]】「…そいつは結構。」[pc]
+【[emb exp=sf.sname]】 "...Nicely done."[pc]
 
 秘書が有能だと何もしなくても玩具が手に入るから、面白くはないが困ることもない。[br]
 …曲がりなりにも治安の整ったこの日本という国から、人間一人「消す」準備をあっさりと整えるこいつに、うすら寒いものも感じるが。[pc]
@@ -932,7 +932,7 @@ The hunt begins.[pc]
 しめた、この先は袋小路だ。[pc]
 
 
-【Akamine】「うぉおおお！！！！」[pc]
+【Akamine】 "UooOOOOOH!!!!"[pc]
 
 
 行き止まりにブチあたり、足の止まった男の背中に俺は跳びかかる。[pc]

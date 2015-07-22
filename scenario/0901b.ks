@@ -83,8 +83,8 @@ It was an email from Koyanagi.[pc]
 
 ＜Please come to the wharf. I have attached a map----＞[pc]
 
-……ちっ。仕方がない、ここはまたにしよう。[br]
-時間の使い方を間違えたかもしれないな。[pc]
+......Tch. I'll just have to come back here later.[br]
+This probably wasn't the best use of my time.[pc]
 
 ;（港へ）
 [jump target=*minato]
@@ -94,8 +94,8 @@ It was an email from Koyanagi.[pc]
 [cm]
 [ws]
 
-どうせだし、もっといろいろな場所を見ておきたい。[br]
-俺は裏通りを後にした。[pc]
+I want to see what else this island as to offer.[br]
+I turn away from the back street.[pc]
 
 Now then, where should I go next?[pc]
 
@@ -138,7 +138,7 @@ Now then, where should I go next?[pc]
 ……他に比べればまだここは涼しいほうか。特に他に見るような場所もない。[br]
 移動で疲れてたしな。俺は車を降りると、日陰に設置されたベンチを見つけそこに寝転がった。[pc]
 
-こうやって、独りでゆっくり休むのも、そういえば久しぶりだな……[pc]
+It's been a long time since I've just relaxed by myself like this...[pc]
 
 ......[pc]
 
@@ -169,11 +169,11 @@ Now then, where should I go next?[pc]
 ……向こうもこっちに気づいてるようだが、何かおかしい。なんだか俺を値踏みするような目で見て。まるで男漁りでもしてるかのような……というか、うん。されてるな。なんだこいつ。[pc]
 
 と、ここで気がつく。夕暮れの公園、ホモが一人で来てる、俺を値踏みしてるような目つき。[br]
-……ここ、ハッテン場か。[pc]
+......Is this a cruising spot?……ここ、ハッテン場か。[pc]
 
 あー成程。確かにおあつらえ向きの場所だな。街から離れてるからこんな時間じゃ早々人もこない。夜中になればそれこそ、交尾目当てでもなければ誰もこないだろう。[br]
 俺は苦笑しつつ、この場を後にした。[br]
-……この公園の場所は覚えておこうか。何かに使えそうだ。[pc]
+......I'll have to remember this park. Could definitely be useful later.[pc]
 
 ;（公園フラグ立つ/港へ）
 
@@ -188,8 +188,8 @@ Now then, where should I go next?[pc]
 [ws]
 
 [fadeoutbgm time=1000]
-どうせだし、もっといろいろな場所を見ておきたい。[br]
-俺は公園を後にした。[pc]
+I've got other places I want to check out while I'm here.[br]
+I left the Park.[pc]
 
 Okay, where to next...[pc]
 
@@ -211,15 +211,15 @@ Okay, where to next...[pc]
 車を一歩出ると、にぎわしい声と、鬱陶しいほどの潮の匂いが届いてきた。[br]
 ここは主に観光客を対象とした市場だ。メインは水座の海で取れた海産物だが、近所の農園野菜、各種加工品。「市場」と名がつく場所には不似合いなキーホルダー・ペナントまで売っているあたり、成程観光客に媚びた作りになっている。[pc]
 
-【売店】「さーさ見て行ってよー」[pc]
+【Shopkeeper】 "Heey, come take a look!"[pc]
 
-【売店】「今朝獲れたて！今朝獲れたてよー！」[pc]
+【Shopkeeper】 "It's all fresh! Everything caught this morning!"[pc]
 
 ほんの一歩進むたびに、しゃがれた婆の声、無駄にハイな女の声、干からびた爺の声が一様に買ってけ買ってけと耳を劈く。[pc]
 
 ......This place is annoying.[br]
-暇つぶしとはいえ、来る場所を誤った気がする。[br]
-ここを抜け出そうと、歩みを早くしようと思ったその矢先。[pc]
+I have a feeling coming here to kill time was a mistake.[br]
+I quicken my pace and make a bee line for the exit.[pc]
 
 [layopt layer=1 page=fore visible=true]
 [image storage="琉吾笑顔" layer=1 page=fore pos=c]
@@ -232,16 +232,16 @@ Okay, where to next...[pc]
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
-売り子、というにはヤケに野太い声。思わず振り返ると、そこでは、黒エプロンにゴム長靴の大柄な男が、屈託のない笑顔で声をあげていた。[br]
-どう見ても本職の店員ではない。よく見ると、魚の問屋であろうそのスペースには似たような風体の男が何人か居座っていた。[pc]
+The shopkeeper was yelling wildly in a gruff voice. I turned back without thinking and there stood a beefy man in a black apron and rubber boots beaming with a carefree smile.[br]
+He was clearly not a full-time cashier.よく見ると、魚の問屋であろうそのスペースには似たような風体の男が何人か居座っていた。[pc]
 
 その風体を見るに、地元の漁師らしい。[br]漁のない時間はこうやって借り出されているのだろうか。[pc]
 
 それにしても……。[pc]
 
-一番前で、一番大きな声をあげているこの男。[br]海の男らしい、灼けた肌に太い腕。[br]それに不釣合いな、子どものような素直な笑顔。[pc]
+Of everyone here, his voice was by far the loudest.[br] A real man of the sea, with sun-kissed skin and burly arms.[br] The honest, child-like smile on his face seemed almost out of place.[pc]
 
-一言で言えば、そそる。[pc]
+In other words, he's tantalising.[pc]
 
 ;★しかしあまり長居も出来ないな
 ;★下心が俺の中でムクムクと生まれた
@@ -287,8 +287,8 @@ Now then, where to next...[pc]
 [position layer=message0 page=back frame="window_n.png"]
 
 心地よいほどに明るく強いその声は、それだけで俺をゾクゾクとさせる。[br]
-売り物の魚の匂いに混ざり……強く芳しい雄の匂い。[br]
-犯してみたい。[br]率直にそう思わせる肉体だ。[pc]
+The smell of the fish for sale mingled with the powerful male odor coming from his body[br]
+I want him.[br]率直にそう思わせる肉体だ。[pc]
 
 当然魚には興味がないが。この漁師と話がしてみたい。[pc]
 
@@ -375,7 +375,7 @@ The man cheerfully wrapped up the squid.[br]
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【琉吾】「あんせ～やー！」[pc]
+【Ryuugo】 "Have a good one!"[pc]
 
 
 [position layer=message0 page=fore frame="window_n.png"]
@@ -464,9 +464,8 @@ With the bag hanging over one arm, I went back to the car.[br]
 "Futoshi Akamine (38) Okinawa. Passed the Okinawa Prefecture Police Exam after graduating from Minza High School, employed in April 19XX.[br]
 　Sergeant at Minza Police Station.[br]
 　Has a wife two years his junior who works at a department store and 1 son.[br]
-　A normal, peaceful domestic life. His performance record is also quite good.[pc]
-　
-　Hobbies: Judo. In the Judo club in Middle and High school, also enjoys regular success in Police Judo Tournaments. A familiar and well-respected police officer in the region. "[pc]
+　A normal, peaceful domestic life. His performance record is also quite good.[pc]　
+　Hobbies: Judo. Was in the Judo club in Middle and High school, also enjoys regular success in Police Judo Tournaments. A familiar and well-respected police officer in the region. "[pc]
 
 
 【Koyanagi】 "I have cleared Kugai of all personnel.[br]

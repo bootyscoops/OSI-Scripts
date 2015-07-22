@@ -95,7 +95,7 @@
 
 <9/[emb exp="f.day"]　朝　サルトリ通り>[pc]
 
-【[emb exp=sf.sname]】「ゴン。」[pc]
+【[emb exp=sf.sname]】 "Gon."[pc]
 
 [tt]
 

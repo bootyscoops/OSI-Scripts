@@ -40,7 +40,7 @@
 
 [playbgm storage="zattou"]
 
-<9/[emb exp="f.day"]　朝　住宅地>[pc]
+<9/[emb exp="f.day"]　Morning Residential District>[pc]
 
 行く当てもなくここにやってきたものの、特に目新しいものがあるわけでもない。[br]
 まだ通る人もまばらで、その中に知り合いなどいるわけもなく。ふらふらと当てもなくうろついてみるものの、特に何も見つかることはなかった。[pc]
@@ -58,10 +58,10 @@
 [daywindow]
 
 [select]
-[links storage="sarutori_b.ks" target=*start]1.サルトリ通り[endlink][r]
-[links storage="park_b.ks" target=*start]2.水座城址公園[endlink][r]
-[links storage="ichiba_b.ks" target=*start]3.観光市場[endlink][r]
-[links storage="ie_b.ks" target=*start]4.住宅地[endlink][r]
+[links storage="sarutori_b.ks" target=*start]1. Sarutori Street[endlink][r]
+[links storage="park_b.ks" target=*start]2. Minza Castle Park[endlink][r]
+[links storage="ichiba_b.ks" target=*start]3. The Marketplace[endlink][r]
+[links storage="ie_b.ks" target=*start]4. The Residential District[endlink][r]
 [endselect]
 
 [s]
@@ -81,7 +81,7 @@
 
 [playbgm storage="zattou"]
 
-<9/[emb exp="f.day"]　朝　住宅地>[pc]
+<9/[emb exp="f.day"]　Morning　Residential District>[pc]
 
 老人の多い地域性ゆえか、朝でもそれなりにざわざわとしている。[br]
 とはいえ、何か面白いものがあるわけでもなし。[pc]
@@ -117,7 +117,7 @@ Where should I go next?[pc]
 
 [playbgm storage="zattou"]
 
-<9/[emb exp="f.day"]　朝　住宅地>[pc]
+<9/[emb exp="f.day"]　Morning　Residential District>[pc]
 
 
 この時間は学生や仕事に行く人間やらの移動が見られる。[br]
@@ -143,7 +143,7 @@ Where should I go next?[pc]
 
 [tt]
 
-【学生】「す、すみません！」[pc]
+【Student】 "S-Sorry!"[pc]
 
 [tn]
 

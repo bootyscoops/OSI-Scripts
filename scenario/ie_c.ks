@@ -67,10 +67,10 @@
 [daywindow]
 
 [select]
-[links storage="sarutori_d.ks" target=*start]1.サルトリ通り[endlink][r]
-[links storage="park_d.ks" target=*start]2.水座城址公園[endlink][r]
-[links storage="ichiba_d.ks" target=*start]3.観光市場[endlink][r]
-[links storage="ie_d.ks" target=*start]4.住宅地[endlink][r]
+[links storage="sarutori_d.ks" target=*start]1. Sarutori Street[endlink][r]
+[links storage="park_d.ks" target=*start]2. Minza Castle Park[endlink][r]
+[links storage="ichiba_d.ks" target=*start]3. The Marketplace[endlink][r]
+[links storage="ie_d.ks" target=*start]4. The Residential District[endlink][r]
 [endselect]
 
 [s]
@@ -466,7 +466,7 @@
 
 [bg storage="spa2"]
 
-【ゴン】「珍しいところで会うな、社長。」[pc]
+【Gon】「珍しいところで会うな、社長。」[pc]
 
 ;ゴン　全裸普通
 
@@ -486,7 +486,7 @@
 
 [tt]
 
-【ゴン】「何ジロジロ見てんだ、金取るぞ。」[pc]
+【Gon】「何ジロジロ見てんだ、金取るぞ。」[pc]
 
 [tn]
 
@@ -494,7 +494,7 @@
 
 [tt]
 
-【ゴン】「ちっ。[br]
+【Gon】「ちっ。[br]
 金持ちボンボンにゃ冗談も言えやしねぇ。」[pc]
 
 [tn]
@@ -510,7 +510,7 @@
 
 [tt]
 
-【ゴン】「……ちっ……[br]
+【Gon】「……ちっ……[br]
 石鹸忘れた……。」[pc]
 
 [tn]
@@ -530,7 +530,7 @@
 
 [tt]
 
-【ゴン】「いいのか？」[pc]
+【Gon】「いいのか？」[pc]
 
 [tn]
 
@@ -548,7 +548,7 @@
 
 [tt]
 
-【ゴン】「……俺の主義は物々交換。[br]
+【Gon】「……俺の主義は物々交換。[br]
 現金の取引も好かんし、一方的に貸しを作られるのも好きじゃねぇ。」[pc]
 
 [tn]
@@ -577,7 +577,7 @@
 
 [tt]
 
-【小柳】「お待たせいたしました。」[pc]
+【Koyanagi】「お待たせいたしました。」[pc]
 
 [tn]
 
@@ -636,7 +636,7 @@
 
 [tt]
 
-【小柳】「……銭湯、ですか……。」[pc]
+【Koyanagi】「……銭湯、ですか……。」[pc]
 
 [tn]
 
@@ -644,7 +644,7 @@
 
 [tt]
 
-【小柳】「社長の命令とあらば。」[pc]
+【Koyanagi】「社長の命令とあらば。」[pc]
 
 [tn]
 
@@ -674,14 +674,14 @@
 [image storage="小柳裸普通2" layer=1 page=fore pos=c]
 
 
-【小柳】「…………。」[pc]
+【Koyanagi】「…………。」[pc]
 
 【[emb exp=sf.sname]】「……いや、小柳。[br]
 なんで勃ててるんだよ……。」[pc]
 
 [tt]
 
-【小柳】「私は会長により、服を脱いだらいつでもこのようにしておけと命じられております。」[pc]
+【Koyanagi】「私は会長により、服を脱いだらいつでもこのようにしておけと命じられております。」[pc]
 
 [tn]
 
@@ -696,7 +696,7 @@
 
 [tt]
 
-【小柳】「も……申し訳ありません……っ[br]
+【Koyanagi】「も……申し訳ありません……っ[br]
 どんな場所でも恥知らずに勃起してしまう淫らしい私めに、どうぞ懲罰を……。」[pc]
 
 [tn]

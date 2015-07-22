@@ -336,13 +336,13 @@
 [layopt layer=0 page=back visible=true]
 [image storage="kara" layer=0 page=back pos=c]
 
-<9/[emb exp="f.day"]　夜　住宅地>[pc]
+<9/[emb exp="f.day"]　Night　Residential District>[pc]
 
-【[emb exp=sf.sname]】「……この時間だとほとんど人通りがないものだな。」[pc]
+【[emb exp=sf.sname]】 "...There's almost no one around here at this this hour, huh."[pc]
 
-【[emb exp=sf.sname]】「…………。」[pc]
+【[emb exp=sf.sname]】 "......"[pc]
 
-【[emb exp=sf.sname]】「……なぁ？小柳。」[pc]
+【[emb exp=sf.sname]】 "...What do you think, Koyanagi?"[pc]
 
 [playbgm storage="hb"]
 
@@ -354,7 +354,7 @@
 
 [tt]
 
-【小柳】「社長……お願いします、どうかお許しを……！！[br]
+【Koyanagi】 「社長……お願いします、どうかお許しを……！！[br]
 こんな……人が、人が来ます……！！」[pc]
 
 [tn]
@@ -380,8 +380,8 @@
 
 【[emb exp=sf.sname]】「…………。」[pc]
 
-【[emb exp=sf.sname]】「そこの電柱の前でオナニーして、ザーメンぶっかけろよ。[br]
-犬のマーキングみたいに、お前の印をつけてみろ。」[pc]
+【[emb exp=sf.sname]】 "Go jerk off in front of that utility pole. I want to see it splattered with cum.[br]
+Mark your territory like the dog you are."[pc]
 
 ;暗転
 
