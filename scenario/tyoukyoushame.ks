@@ -104,7 +104,7 @@ As soon as you do, I won't have to treat you like this anymore."[pc]
 y[emb exp=sf.sname]z "......Squeal more for me. You like my cock? Come on, say it out loud."[pc]
 
 yKoyanagiz "Y-yes sir...Cock......[br]
-Master [emb exp=sf.sname]'s cock feels so good...Nghuuh...!"[pc]
+[emb exp=sf.sname]-sama's cock feels so good...Nghuuh...!"[pc]
 
 –Ê”’‚¢‚ÈB‚±‚Ì“´ŒA‚Ì’†‚¾‚ÆAšb‚¬º‚ª”½‹¿‚µ‚Ä‚¢‚Â‚àˆÈã‚É‰´‚ÌŠ¯”\‚ğ‚­‚·‚®‚éB[br]
 ‚¢‚Â‚à‚æ‚è‹»•±‚·‚é——R‚Í‚»‚ê‚¾‚¯‚Å‚Í‚È‚¢‚ªB[pc]

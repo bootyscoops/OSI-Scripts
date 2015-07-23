@@ -37,11 +37,11 @@
 
 [tt]
 
-【琉吾】「…………。」[pc]
+【Ryuugo】 "........."[pc]
 
 [tn]
 
-【[emb exp=sf.sname]】「どうした、入れよ。」[pc]
+【[emb exp=sf.sname]】 "Well? Come in."[pc]
 
 琉吾は静かに首を振る。[br]
 ……この男らしからぬ、静かな態度に俺はどうも調子を崩されてしまう。[pc]
@@ -167,10 +167,10 @@ Even as we spoke, I could see Ryuugo's fat cock throbbing under his pants.[br]
 
 【太】「ウグィイイ！！！　っぁあ！！　ぁあ！！　ひはあああ！！」[pc]
 
-その後、俺は琉吾を車に乗せ、そしてこの島まで運んだ。[br]
+Soon after, I took Ryuugo to the car and brought him to this island.[br]
 もう二度と人間に戻ることがないであろう彼の服は全て途中で捨てた。[br]
 身辺処理は小柳に全て任せ……[br]
-水座にはもう、仲井間琉吾という人間の居場所はなくなる。[pc]
+The man named Ryuugo Nakaima disappeared from Minza forever.[pc]
 
 【[emb exp=sf.sname]】「気持ちよさそうだなぁ、琉吾。[br]
 童貞喪失は嬉しいか？」[pc]

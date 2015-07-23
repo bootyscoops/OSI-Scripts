@@ -13,19 +13,19 @@
 
 [playbgm storage="zattou"]
 
-<9/[emb exp="f.day"]　夕　サルトリ通り>[pc]
+<9/[emb exp="f.day"]　Evening Sarutori Street>[pc]
 
-今日はなんだか気分がのらず、小柳に赤嶺の世話を任せ、俺はサルトリへとやって来た。[br]
-夜の姿に比べると、人通りは疎ら。寂しさすら感じてしまう。[pc]
+I didn't really feel like playing today, so I left Koyanagi to look after Akamine and went over to Sarutori.[br]
+Compared to later at night, there's hardly anyone around. It's almost a little lonely.[pc]
 
-暦の上では白露。秋を感じされる頃合だが、水座の夜は遅い。東京と比べると日没の時間は一時間程度の差があるだろう。[br]
-しかし日が沈んでしまえば、その夜の濃さは都会の比ではない。少しずつ栄えてきたとはいえ、まだまだ未開発の地も残るこの離島。[br]
-派手な電飾も、四六時中明かりの点るタワーもない。[pc]
+It's the middle of autumn. Now's a good time to be going out in the evening, but the nightlife in Minza is slow. The sun sets about an hour later here compared to Tokyo.[br]
+But even once the night falls it's nothing at all like it is in the city. While it has been growing little by little, there's still a wealth of undeveloped land on the island.[br]
+There's no flashy neon lights, no tall buildings lit up around the clock.[pc]
 
-もうすぐ日が落ちる。クガイ島に居るあの男も、何度目かの夜を迎えるだろう。[br]
-見えない明日に怯え、震えているかもしれない。何せ向こうはネオンどころか星明り一つ点らない牢獄の中だ。[pc]
+The sun will set soon. I wonder how many nights it's been since my guest was first welcomed to Kugai.[br]
+He could be trembling, terrified of the horrors tomorrow might bring. There are no neon lights in his prison either, just the stars.[pc]
 
-かわいそうになぁ。そんな独り言と裏腹に、口元がニヤリとしてしまう。フフ。[pc]
+Poor thing. My mouth curls into a smile at my little monologue. Heheh.[pc]
 
 [fadeoutbgm time=1000]
 
@@ -38,23 +38,23 @@
 
 [playbgm storage="暗黒"]
 
-後ろから肩を叩かれ、俺は思わず飛び上がりそうになった。[br]
-触れられただけでも、その手のサイズが人並み以上だと分かる。まるで熊のようなその大きな手の持ち主は、俺の顔を確かめると……指先に力をこめた。[pc]
+Someone taps my shoulder from behind and I jump in surprise.[br]
+From just that touch I can tell that the hand is far bigger than average. The owner of the bearlike hand takes a good look at my face...and his hand curls into a fist.[pc]
 
-【外人】「会いたかったぜ……この間はよくも、やってくれたな。」[pc]
+【Foreigner】 "I was hoping I'd run into you......You've got a lot nerve showing your face around here."[pc]
 
-……また因縁つけてくるつもりか。懲りない奴だな。[br]
-おい、小柳。　こいつに教育してやれ……。[pc]
+......Looks like he's trying to pick a fight again. This guy never learns.[br]
+Hey, Koyanagi, teach this idiot a lesson...[pc]
 
-…………。[pc]
+.........[pc]
 
 [layopt layer=message0 page=fore visible=false]
 [wait time=2000]
 [layopt layer=message0 page=fore visible=true]
 
-……いないんだった。[pc]
+......He isn't here.[pc]
 
-【外人】「くたばれ、腰ぬけジャップ！！」[pc]
+【Foreigner】 "Die, you fuckin' Jap!!"[pc]
 
 [layopt layer=1 page=fore visible=true]
 [image storage="kara" layer=1 page=fore pos=c]
@@ -73,27 +73,27 @@
 
 [bgfast storage="red"]
 
-最初にすごい音がした。[pc]
+The first thing I'm aware of is the noise.[pc]
 
-一瞬後、頭が割れた痛みが襲う。ああ、痛みよりも音のほうが伝わる速度が早いんだな。[br]
-日本人とは比較にならないサイズのこぶしが、俺の顔面を襲う。[br]
+A moment later a splitting pain floods through my head. It happened so fast that I heard the noise before feeling any pain at all.[br]
+A fist far bigger than that of any japanese man hit me square in the face.[br]
 ;殴る音
 [playse storage="naguru"]
 [wait time=2000]　
-腹を抉る。[br]
+He hits me in the stomach.[br]
 [playse storage="dan"]
 ;殴る音
 [wait time=2000]　
-何かが体の中で折れる。[br]
+I feel something snap inside my body.[br]
 ;殴る音
 [playse storage="crash18_c"]
 [wait time=2000]　
-折れた何かが体の中で刺さる。内臓が、聞いたことのない音を立てた。[pc]
+Whatever broke has pierced something else. My abdomen is making a sound i've never heard before.[pc]
 
 [fadeoutbgm time=5000]
 
-遠くで誰かの悲鳴が聞こえた気もするし、もしかしたら自分の上げた声だったのかもしれない。[br]
-痛ぇよ、クソ。痛すぎて、もうよくわからない。[br]
+I think I can hear someone screaming in the distance, but it could just be me.[br]
+It hurts, fuck. I've never felt pain like this.[br]
 It hurts.[br]
 [wait time=2000]God, it hurts.[br]
 Help. Someone.[pc]

@@ -565,9 +565,9 @@ If I pinch and rub them even a little...[pc]
 【Koyanagi】 "......Kuh."[pc]
 
 Something else rises under the suit which so perfectly hugs every curve of his form.[br]
-世間では、男は年を取れば枯れるもの。５０も過ぎればただの中年になるのだろうが、コイツは違う。[br]
-年老いてなお、肉体に膏が乗りつづけ、成熟した肉体。その体は一つの彫像のように、美しい上に存在感がある。[br]
-男に興味がある奴なら、見ているだけで誰でも涎が出る体だ。[pc]
+Typically men wither as they age, especially once they pass 50. This man is different.[br]
+In spite of his age, his body remains exquisite. It hasn't withered, but matured.[br]
+It's a body that can make anyone with an interest in men drool just by looking at it.[pc]
 
 His chest, thighs and arms were all well-raised, premium quality beef.[br]
 The scent of a 'man' totally covered that of his expensive cologne.[br]
@@ -1004,7 +1004,7 @@ Koyanagi stepped over the crumpled form of the policeman, dusting off his suit.[
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【小柳】「…ご冗談を。初めてではないでしょうに。」[pc]
+【Koyanagi】「…ご冗談を。初めてではないでしょうに。」[pc]
 
 
 [position layer=message0 page=fore frame="window_n.png"]

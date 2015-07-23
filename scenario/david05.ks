@@ -10,17 +10,17 @@
 [playbgm storage="forest"]
 [wait time=1000]
 
-<9/[emb exp="f.day"]　朝　公園>[pc]
+<9/[emb exp="f.day"]　Morning Park>[pc]
 
-朝日がまぶしい。[br]
-ネオンや街灯の眩さで夜闇など関係なしに動く東京と違い、この島にはしっかりと夜があり、朝がある。[br]
-数時間ぶりに見る日の光に、闇に慣れていた瞳が痛い。[br]
-瞬きを繰り返しその痛みをごまかす。一つ、あくびが出た。[pc]
+The morning sun is dazzling.[br]
+Without the neon and streetlights of Tokyo, the island is pitch black from sunset to sunrise.[br]
+Having grown accustomed to the dark, my eyes are a little sore this morning.[br]
+I blink to ease the pain and yawn.[pc]
 
 最近では田舎暮らしをテーマにした月刊誌も発行されるほどに田舎崇拝の傾向があるが、そんなもの都会の仕事に疲れた人間のメンタリティーにつけこんだ刷り込みにしか思えない。[br]
 それでなければバレンタインデーやクリスマスのように、モノを売る会社の企業努力による賜物だろう。[pc]
 
-猥雑・喧騒・多事に慣れた俺にとって、ニューリゾートアイランドであるはずのこの島の空気は、毒だ。[pc]
+For someone as accustomed to the confusion, crowds and eventfulness of the city as I am, the atmosphere of this New Resort Island will be like a poison.[pc]
 
 【[emb exp=sf.sname]】「勘弁してもらいたいものだな。……こんな退屈な島で一月も過ごせだなんて。」[pc]
 
@@ -28,7 +28,7 @@
 それも、多ければ多いほどいい。俺が飽きないように。満足するように。[br]
 ……さて、この新しいおもちゃは、どれだけ遊べるのかな。[pc]
 
-【[emb exp=sf.sname]】「やっぱり来たな。ミスター、ゴールドバーグ。」[pc]
+【[emb exp=sf.sname]】 "So you came after all, Mister Goldberg."[pc]
 
 
 ;たち絵　ディビー赤面
@@ -39,17 +39,17 @@
 そう、確かに。俺の思惑通りに彼はそこに来ていた。まるで映画のキャラクターのよう。米人特有の彫りの深い顔立ちを、少し朱色に染めて。しかし。[pc]
 
 
-【[emb exp=sf.sname]】「……なんで服を着ている？デヴィッド。」[pc]
+【[emb exp=sf.sname]】 "...Why are you dressed, David?"[pc]
 
-無意識のうちに低い声が出た。[pc]
+The words came out harsher than I expected.[pc]
 
 [tt]
 
-【デヴィッド】「……。」[pc]
+【David】 "......"[pc]
 
 [tn]
 
-【[emb exp=sf.sname]】「裸で待ってろと言った筈だが。」[pc]
+【[emb exp=sf.sname]】 "I believe I told you to wait naked."[pc]
 
 ;赤面怒り
 
@@ -58,7 +58,7 @@
 
 [tt]
 
-【デヴィッド】「……うるせぇ。メチャクチャしやがって、変態野郎。いいからさっさとヤリやがれ。[br]
+【David】「……うるせぇ。メチャクチャしやがって、変態野郎。いいからさっさとヤリやがれ。[br]
 やりてぇんだろ？ウダウダ言ってるんじゃねぇよ！！」[pc]
 
 [tn]
@@ -72,11 +72,11 @@
 
 [tt]
 
-【デヴィッド】「……だったら！」[pc]
+【David】 "...Then c'mon!"[pc]
 
 [tn]
 
-【[emb exp=sf.sname]】「小柳、戻るぞ。俺の目当ての犬は来なかったみたいだからな。」[pc]
+【[emb exp=sf.sname]】 "Koyanagi, let's go. Looks like my dog didn't show up."[pc]
 
 [layopt layer=1 page=fore visible=true]
 [image storage="kara" layer=1 page=fore pos=c]
@@ -88,7 +88,7 @@
 
 [fadeoutbgm time=1000]
 
-【デヴィッド】「････。」[pc]
+【David】 "......"[pc]
 
 呆然としたままのデヴィッドを残し、俺はその場を後にした。[pc]
 

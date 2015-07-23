@@ -14,7 +14,7 @@
 [layopt layer=0 page=fore visible=true]
 [image storage="0901.png" layer=0 page=fore top=0 left=660]
 
-やはり暑い。同じ国内でこれだけ寒暖の差があると、日本が縦長の国なんだということを改めて思い知らされる。[br]
+It's still hot. The disparity in heat and gold from the mainland reminds me of just how long Japan is.[br]
 俺がこの水座島に滞在出来るのは、九月いっぱい。[br]
 この仕事が終われば、もう秋だ。その頃、俺は一体何を手にしているだろうか……？[pc]
 
@@ -169,7 +169,7 @@ It's been a long time since I've just relaxed by myself like this...[pc]
 ……向こうもこっちに気づいてるようだが、何かおかしい。なんだか俺を値踏みするような目で見て。まるで男漁りでもしてるかのような……というか、うん。されてるな。なんだこいつ。[pc]
 
 と、ここで気がつく。夕暮れの公園、ホモが一人で来てる、俺を値踏みしてるような目つき。[br]
-......Is this a cruising spot?……ここ、ハッテン場か。[pc]
+......Is this a cruising spot?[pc]
 
 あー成程。確かにおあつらえ向きの場所だな。街から離れてるからこんな時間じゃ早々人もこない。夜中になればそれこそ、交尾目当てでもなければ誰もこないだろう。[br]
 俺は苦笑しつつ、この場を後にした。[br]
@@ -472,7 +472,7 @@ With the bag hanging over one arm, I went back to the car.[br]
 You are free to visit whenever you please."
 [pc]
 
-【[emb exp=sf.sname]】「なるほど。あとは、ご招待するのみと。[br]
+【[emb exp=sf.sname]】 "I see. Now we just need to invite our guest.[br]
 ……ところで小柳、警察官というのはどうやって拐かせばいいものだろうな。特に金にも困ってない、女の影もないとなると一苦労だな。」[pc]
 
 
