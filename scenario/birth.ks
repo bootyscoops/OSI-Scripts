@@ -278,20 +278,20 @@ Now that's a promise! You're a cop so you can't lie - and you can't change it af
 [position layer=message0 page=back frame="window_fn.png"]
 
 
-そのときの亮のキラキラとした目は忘れられない。こんな目は、五歳のころに本物の手錠をこっそり触らせてやったとき以来だ。[br]
-……そして、それから二年。テニス部の部長になった亮は、夏の大会を順調に勝ちあがり……いよいよ県大会の決勝まで進んできた。[pc]
+I couldn't ever forget how Ryo's eyes shone then. His eyes had done that whenever he was really serious since he was a five year old.[br]
+... And two years after that, Ryo was now the captain of the tennis club had won the summer competition. He'd go on to be selected to compete in the prefectural competition.[pc]
 
-親ばかかもしれないが、俺には確信があった。亮はきっと約束を果たすだろう。[br]
-……まいったな。口からデマカセのつもりだったんだが……。[br]
-こりゃ、しばらく俺はビールなしのつつましい生活を送らないといけないようだ。[pc]
+I may have been a doting parent, but I could see a real conviction. Ryo would certainly fill his promise.[br]
+... I wasn't really being all that serious when I made the 'promise'...[br]
+Well, I had to begin living a modest life, no beer for me.[pc]
 
 ;太　笑顔　立ち絵
 
 [layopt layer=1 page=fore visible=true]
 [image storage="太笑顔" layer=1 page=fore pos=c]
 
-東京の知り合いに頼み、亮の望むラケットを送ってもらった。八月二十八日、亮の誕生日。[br]
-少し早い前祝で送るつもりだった。立派に約束を果たした、俺の誇るべき息子へ。[pc]
+I made a request to someone I knew in Tokyo, and had the racket Ryo desired sent over. The 28th of August. Ryo's birthday.[br]
+I had planned for it to arrive a little early so we could celebrate beforehand. I filled the promise splendidly - for the son I ought to be proud of.[pc]
 
 
 ;なにかこの背景を踏みにじるようなエフェクトとか効果とか出来ますか？
@@ -346,14 +346,14 @@ Now that's a promise! You're a cop so you can't lie - and you can't change it af
 
 [tt]
 
-【太】「プレゼントはもう用意してある、俺の家の納屋の中だ。それを渡すだけでいい、会えなくても、亮がいない間にそれを置いてくるだけでもいいんだ！　俺は逃げたりしない、頼む。それだけで……もうそれだけでいいから……。」[pc]
+【Futsohi】「I've already prepared his present, it's at the back of the house. I just want him to receive it. I don't have to even meet him, just leaving it for him while he's not there is all I want!　I won't flee or anything like that. I beg of you. Just that... just that would be all I desire.」[pc]
 
 [layopt layer=1 page=fore visible=true]
 [image storage="kara" layer=1 page=fore pos=c]
 
 [tn]
 
-まるでメロドラマの役者のように、声を詰まらせながら太は俺に土下座する。奴隷としてではない、「父親」としてのこれは、嘆願だ。[br]
+Like an actor from a soap opera, Futoshi lays prostrate in front of me, choking on his words. Like he's not even a slave, rather a 'father' makes his plea.[br]
 まるで理解できないこの行動に、俺は少々面食らう。肉親のためとはいえ、こんなことができるものなのだろうか。これは、さっき俺が予感していた、脱走するための甘言ではないだろうか。[pc]
 
 ……赤嶺太を数週間程度だが今日まで観察してきた俺には、今の彼が何かの小細工でこんな真似をできるとは思えなかった。[br]

@@ -504,23 +504,23 @@ Sworn to absolute loyalty, my father's partner both in public and in private. Th
 ...If you're wondering why he's with me now, it's simply because that's what my father ordered him to do.[br]
 He's certainly attractive, but essentially he's here to keep an eye on me. I know my old man. He doesn't think I have what it takes to be in charge.[pc]
 
-As long as he's around, I'll never climb to the top of this company.そして、親父は俺さえ抑えておけば他の誰にもその椅子を奪われないことを知っている。そしてその椅子を、自分の寿命が尽きるまで一秒でも他のやつには渡そうとはしない。[br]
-俺の父親はそういう男だ。実の息子にすら、自分の上に立つことを認めない。[br]
-だから、親父は俺をこうやって、飼い殺す。[pc]
+As long as he's around, I'll never climb to the top of this company. You see, if my father can prevent even me from reaching the top, then no-one can. He'll make it so that even just one second before he dies, there's not a chance that some other asshole could get that position.[br]
+That's the kind of man my father is. He wouldn't even let his own son stand above him.[br]
+Therefore may father has forced me to do one thing: Kill this 'shepherd' of mine.[pc]
 
-…最も、俺があの男を忌み嫌う理由はそれだけではないが。[pc]
+...However the greatest reason that I have for abhorring that man isn't just that.[pc]
 
-…イラつく。[pc]
+...He pisses me off.[pc]
 
-今、こうして俺の命令を忠実にこなしているコイツだって、結局は親父の命令でやっているだけだ。[br]
-力が、ほしい。俺だけの力が。[br]
-俺だけの奴隷が。小柳に負けない魅力を持つ肉奴隷を…。[pc]
+Right now he's following my instructions, but eventually he'll only heed my father's word.[br]
+I want power. Power that only I wield.[br]
+A slave just for me. A meat slave with more charm than that Koyanagi.[pc]
 
 
 [image storage="kara" layer=1 page=fore top=0 left=0]
 [image storage="kara" layer=2 page=fore top=0 left=0]
 
-こうしているのも退屈だ。[pc]
+Even doing that is dull.[pc]
 
 [select]
 [links target=*asobu]1. I decided to play with Koyanagi's body.[endlink][r]
@@ -600,10 +600,10 @@ With a tug, I pulled his cock free from his trousers. It was already rock hard.[
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
-赤く痛々しい痕の残った亀頭は、すでに先走りでテカテカと妖しく艶やいている。[br]
-まるで、オナニー覚えたての高校生チンポみたいにガチガチ。[br]
-けれどその色は、未成熟なガキとは違う、淫らなインディアン・レッド。[br]
-成熟した肉体が、覚えたての小僧みたいに快感に痺れ、震える。[pc]
+Left alone, his bright red, painfully erect head was beginning to gloss over enchantingly. [br]
+He was rigid like a high school student I remember jerking off.[br]
+But the colour was different to the immature brat's. Koyanagi's obscene Indian red.[br]
+But that mature flesh was trembling with pleasure much like that kid did.[pc]
 
 根元から握ってやる。俺の手の温度以上に熱く、湿っている肉のスティック。[pc]
 
