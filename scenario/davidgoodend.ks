@@ -16,20 +16,17 @@
 
 [playbgm storage="hb"]
 
-"...Hi Mom, Dad, and Cindy. It's David.[br]
+"...Hi Mom, Dad, Cindy. It's David.[br]
 Are you surprised to see me like this? Sorry, but this is what I really want, so don't worry about me."[pc]
 
 [wait time=1000]
 
-「I have found my true self and if it the best feeling of my life.[br]
-I resigned as an office. A photo of me being fucked is being sent to the base, [br]
-so there is no way for me to return.[br]
-（俺は本当の俺を見つけたんだ。人生最良の気分だよ。[br]
-俺は軍を抜けたよ。俺のファックされている写真が主人の手で基地に送られてるはずだ。だからもう俺に帰る場所はない。）」[pc]
+"I've found my true self and I've never felt better.[br]
+I've left the military too. My master sent some photos of me getting fucked to the base, so no going back for me now."[pc]
 
 「But I am not sorry. I feel really great about everything. [br]
 I have found a wonderful Sir.[br]
-（だけど後悔なんてしてないさ。本当にとても素晴らしい気分なんだ。[br]
+"I've got no regrets.本当にとても素晴らしい気分なんだ。[br]
 俺は素晴らしい上官と出会えたのさ。）」[pc]
 
 [wait time=1000]
@@ -68,10 +65,10 @@ Just thing about...[br]
 
 [bg storage="black"]
 
-そうして俺の島には素晴らしい奴隷がまた一匹増えた。[br]
-小柳とは違い、無骨で不器用。[br]
-パーフェクトと呼ぶには程遠い出来損ないの奴隷だが、それでも愛おしい。[br]
-俺だけの忠犬。[pc]
+And so, I added another wonderful slave to my island.[br]
+Unlike Koyanagi, he's unrefined and boorish.[br]
+The bastard's far from a perfect slave, but I still love him dearly.[br]
+A truly loyal dog.[pc]
 
 [bg storage="chain"]
 
@@ -85,7 +82,7 @@ Just thing about...[br]
 [playse storage="whip"]
 [wait time=1000]
 
-【デヴィッド】「AGH……HMH!!　NGHH!!!」[pc]
+【David】 "AGH......HMH!!　NGHH!!!"[pc]
 
 [playse storage="whip"]
 [wait time=1000]

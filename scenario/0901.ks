@@ -340,7 +340,7 @@ Now this was a fine specimen.[pc]
 [position layer=message0 page=back frame="window_n.png"]
 
 He was definitely a cop, and a physically imposing one at that, but...he didn't exactly sound authoratative.[br]
-His tone was like an old man scolding a neighbourhood kids.[pc]
+His tone was like an old man scolding the neighbourhood kids.[pc]
 
 Åy[emb exp=sf.sname]Åz "Sorry, sorry. Couldn't hold it, y'know?"[pc]
 

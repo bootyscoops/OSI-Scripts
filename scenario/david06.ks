@@ -63,7 +63,7 @@
 確かに聞こえた。俺でも、小柳でもない。[br]
 必死で押し殺した……それでも響く、うめき。[pc]
 
-「ムッ……フハアアア……。」[pc]
+"Mmh...Fhhuuuh..."[pc]
 
 鳥のさえずりでもない。木々の揺らめきでもない。雄が、快感を堪え喘いでいる声。[br]
 ……我ながら、落ち着きのないものだと思うが、[br]
@@ -97,7 +97,7 @@ There was a naked man, alone, jerking off with a finger in his ass......[pc]
 
 [tt]
 
-【デヴィッド】「アア･･･アァアア･･･。」[pc]
+【David】 "Uuh...Aaah..."[pc]
 
 [tn]
 

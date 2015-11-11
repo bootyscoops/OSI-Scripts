@@ -34,7 +34,7 @@
 [layopt layer=0 page=fore visible=true]
 [daywindow]
 
-<9/[emb exp="f.day"]@—[@…Àéš¬Œö‰€>[pc]
+<9/[emb exp="f.day"]@Evening Minza Castle Park>[pc]
 
 ‰´‚ÍŒö‰€‚Ü‚Å‚â‚Á‚Ä‚«‚½B[pc]
 
@@ -72,10 +72,10 @@
 [daywindow]
 
 [select]
-[links storage="sarutori_d.ks" target=*start]1.ƒTƒ‹ƒgƒŠ’Ê‚è[endlink][r]
-[links storage="park_d.ks" target=*start]2.…Àéš¬Œö‰€[endlink][r]
-[links storage="ichiba_d.ks" target=*start]3.ŠÏŒõsê[endlink][r]
-[links storage="ie_d.ks" target=*start]4.Z‘î’n[endlink][r]
+[links storage="sarutori_d.ks" target=*start]1. Sarutori Street[endlink][r]
+[links storage="park_d.ks" target=*start]2. Minza Castle Park[endlink][r]
+[links storage="ichiba_d.ks" target=*start]3. The Markets[endlink][r]
+[links storage="ie_d.ks" target=*start]4. Residential District[endlink][r]
 [endselect]
 
 [s]
@@ -108,10 +108,10 @@
 [daywindow]
 
 [select]
-[links storage="sarutori_d.ks" target=*start]1.ƒTƒ‹ƒgƒŠ’Ê‚è[endlink][r]
-[links storage="park_d.ks" target=*start]2.…Àéš¬Œö‰€[endlink][r]
-[links storage="ichiba_d.ks" target=*start]3.ŠÏŒõsê[endlink][r]
-[links storage="ie_d.ks" target=*start]4.Z‘î’n[endlink][r]
+[links storage="sarutori_d.ks" target=*start]1. Sarutori Street[endlink][r]
+[links storage="park_d.ks" target=*start]2. Minza Castle Park[endlink][r]
+[links storage="ichiba_d.ks" target=*start]3. The Markets[endlink][r]
+[links storage="ie_d.ks" target=*start]4. Residential District[endlink][r]
 [endselect]
 
 [s]

@@ -21,7 +21,7 @@
 いつもどおり、活気に溢れている観光市場。[br]
 朝は建物の外まで市が溢れるが、この時間商店は全て建物の中で営業している。[pc]
 
-【[emb exp=sf.sname]】「こんにちは。」[pc]
+【[emb exp=sf.sname]】 "Hello there."[pc]
 
 突然俺に声をかけられ、琉吾は、見ているこちらが驚くほどに体を飛び上がらせた。[pc]
 
@@ -33,7 +33,7 @@
 
 [tt]
 
-【琉吾】「あ…あぁ……兄さん……。」[pc]
+【Ryuugo】 "A...H-Hey...Bro......"[pc]
 
 [tn]
 
@@ -46,11 +46,11 @@
 
 [tn]
 
-【[emb exp=sf.sname]】「ちょっと来いよ。」[pc]
+【[emb exp=sf.sname]】 "C'mere for a second."[pc]
 
 [tt]
 
-【琉吾】「え……？」[pc]
+【Ryuugo】 "Huh...?"[pc]
 
 [tn]
 
@@ -125,7 +125,7 @@
 
 琉吾が伸ばした手を、俺は力強く払った。[pc]
 
-【琉吾】「……兄さん？」[pc]
+【Ryuugo】 "......Bro?"[pc]
 
 【[emb exp=sf.sname]】「いくら田舎者って言ってもそれぐらい知ってるよな。こういう写真データを、パソコンに移す。そしてボタン一つで、世界中の人に見てもらうことが出来るんだぜ。[br]
 沖縄で撮った地元漁師の変態オナニーなんて、人気出るんじゃないかな。」[pc]
@@ -152,14 +152,14 @@
 [layopt layer=1 page=fore visible=true]
 [image storage="琉吾気まずい" layer=1 page=fore pos=c]
 
-【[emb exp=sf.sname]】「……くくっ……！　ハハハ！！　アーッハッハッハ！！」[pc]
+【[emb exp=sf.sname]】 "......Kkh!! Haahaha! AAAAAHAHAHAHA!!"[pc]
 
 [layopt layer=1 page=fore visible=true]
 [image storage="琉吾驚き" layer=1 page=fore pos=c]
 
 [tt]
 
-【琉吾】「！？」[pc]
+【Ryuugo】 "!?"[pc]
 
 [tn]
 
@@ -183,7 +183,7 @@
 
 [tn]
 
-【[emb exp=sf.sname]】「またな、琉吾さん。」[pc]
+【[emb exp=sf.sname]】 "See you soon, Ryuugo-san."[pc]
 
 [layopt layer=1 page=fore visible=true]
 [image storage="kara" layer=1 page=fore pos=c]

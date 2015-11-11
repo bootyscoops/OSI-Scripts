@@ -7,14 +7,14 @@
 [playbgm storage="forest"]
 [wait time=1000]
 
-<9/[emb exp="f.day"]　朝　公園>[pc]
+<9/[emb exp="f.day"]　Morning Park>[pc]
 
 *fitness
 
 [eval exp="sf.d_fitness=1"]
 
-朝７：００。公園で待ち合わせ。[br]
-これだけならまるで小学生のデートのようだな。おかしくてつい、頬が緩む。[br]
+7:00AM. Here I am waiting in the park.[br]
+I feel like a grade schooler waiting for his playdate. The thought is enough to make me smile小学生のデートのようだな。おかしくてつい、頬が緩む。[br]
 最も恋人同士のデートなら、こんな指示はついてこないだろうけどな。[pc]
 
 【服を全て畳んで、素っ裸で待っていろ。俺がくるまでずっとだ。】[pc]
@@ -53,7 +53,7 @@
 
 [tt]
 
-【デヴィッド】「サー！　イェッサー！！」[pc]
+【David】 "Sir, Yes Sir!!"[pc]
 
 [tn]
 
