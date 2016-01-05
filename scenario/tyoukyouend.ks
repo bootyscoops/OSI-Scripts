@@ -50,15 +50,15 @@
 [position layer=message0 page=fore frame="window_t.png"]
 [position layer=message0 page=back frame="window_t.png"]
 
-【小柳】「社長、そろそろお時間です。」[pc]
+【Koyanagi】 "Sir, time's almost up."[pc]
 
 [position layer=message0 page=fore frame="window_n.png"]
 [position layer=message0 page=back frame="window_n.png"]
 
 秘書の声が、俺を現実へと呼び戻す。名残惜しいが仕方がないな。[pc]
 
-【[emb exp=sf.sname]】「……仕方ないな。じゃぁな、赤嶺。[br]
-また明日、遊びに来てやる。楽しみにしていろよ？」[pc]
+【[emb exp=sf.sname]】 "...Well, guess I'd better go. See you later, Akamine.[br]
+I'll be back to play again tomorrow. Sound like fun?"[pc]
 
 [fadeoutbgm time=1000]
 
@@ -83,7 +83,7 @@
 戻ってくるころには、日はすっかり沈み、闇が俺たちの姿を覆い隠す。[br]
 人の姿も見られず、俺と小柳は誰にも見つかることなく水座島へと戻ってきた。[pc]
 
-【[emb exp=sf.sname]】「……さて、小柳。次はどうしようか？」[pc]
+【[emb exp=sf.sname]】 "......Alright Koyanagi. What's next?"[pc]
 
 少し休もうか。[br]
 それとも……未だ体に残るこの熱を、どこかで発散してこようか？[pc]

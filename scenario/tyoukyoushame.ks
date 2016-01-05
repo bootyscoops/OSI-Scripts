@@ -27,53 +27,53 @@
 
 【[emb exp=sf.sname]】 "Do you know what your best course of action is here?"[pc]
 
-【太】「……。」[pc]
+【Futoshi】 "......"[pc]
 
 【[emb exp=sf.sname]】 "It's simple, Officer Akamine.[br]
 All you have to do is swear to become my Slave.[br]
-As soon as you do, I won't have to treat you like this anymore."[pc]
+As soon as you do I won't have to treat you like this anymore."[pc]
 
-【太】「何意味の分からないことを……！[br]目的はなんだ、金か。それとも････[playse storage="dosa"]
-[wait time=1000]ングァッ！！？」[pc]
+【Futoshi】 "I don't know what the hell you're talking about......![br] What is it you're after? Money? Or maybe....[playse storage="dosa"]
+[wait time=1000] Nghuuh!!?"[pc]
 
-【[emb exp=sf.sname]】「…理解の遅い豚だな。態度で教えてやったほうがわかりやすいか？」[pc]
+【[emb exp=sf.sname]】 "...Pretty slow pig, huh. Maybe you'll learn faster if we get right to it."[pc]
 
-俺は、警官の股間を踏みつける。[br]
-大股に拘束されたそこは、何にさえぎられることもない。[br]
-靴底越しに伝わる、踏み応えのある肉の感触。[pc]
+I press my foot against the policeman's crotch.[br]
+With his legs fixed apart there was no way for him to block it.[br]
+I could feel the shape of his meat even through my shoe.[pc]
 
-【[emb exp=sf.sname]】「俺に忠誠を誓えば、こういう気持ちいいことだってしてやる。[br]
-…３７歳か。最近セックスとかはしてるのか？オナニーは？[br]
-結構溜め込んでるんじゃないのか？」[pc]
+【[emb exp=sf.sname]】 "If you swear yourself to me, I'll even make things like this feel good.[br]
+...So you're 37. Have you gotten laid lately? Jerked off?[br]
+You must be pretty pent up, right?"[pc]
 
-【太】「痛い…やめろ……やめろ……っっ」[pc]
+【Futoshi】 "That hurts...Stop......Please stop......Ngh."[pc]
 
-ぐにょりとしたそれは、つま先で蹴ってやるとわずかに硬度を持ち始める。[br]
-布越しでも分かる。結構太めのチンポだ。こりゃ当たりだな…[br]
-飼い豚はデカチンのほうがいい。[br]
-中年らしい、必要以上にブッとくって汚いチンポなら最高だ。[br]
-思わず生で弄りたくなる。[br]
-だけど、その欲望を抑えて俺は足責めを続けた。[pc]
+I rub his cock with my toes and immediately feel it start to swell.[br]
+I can see it clearly through his clothes. Seems he's pretty thick. I knew it...[br]
+I always preferred my pigs well endowed.[br]
+There's nothing quite like an older guy with a excessively fat dick.[br]
+My instincts tell me to reach down and fondle it[br]
+but I manage to suppress the urge and keep tormenting him with my foot.[pc]
 
-【[emb exp=sf.sname]】「ハハ。なんだ？息が荒くなってきたぞ。」[pc]
+【[emb exp=sf.sname]】 "Hahah. What's wrong? You sound a bit out of breath."[pc]
 
-【太】「ふざけ……　るな……っっ」[pc]
+【Futoshi】 "Shut...the fuck...nhh."[pc]
 
-【[emb exp=sf.sname]】「ああ、そうそう。言葉遣いも少し……躾けないとな！！」[pc]
+【[emb exp=sf.sname]】 "Aah, that's right. Looks like I still need to teach you some manners!!"[pc]
 
 [playse storage="dosa"]
-ガッ！！！[pc]
+KSH!![pc]
 
-【太】「あああああああああ？？！！」[pc]
+【Futoshi】 "AAAAAAAAAH??!!"[pc]
 
-半勃起のチンポに、蹴りをくれてやる。腹が大きく跳ね、警官はじたばたもがいた。[br]
-まぁ、今日はこれぐらいにしておこう。[br]
+I give his semi-hard cock a swift kick. His gut bulges outwards as he thrashes about.[br]
+Well, looks like I'm about done with him for today.[br]
 甘いエサは、こいつが優秀な奴隷になってからでいい。[pc]
 
 ……もっともそれまで俺の我慢が効くのか、わからないが。[br]
-早くこいつの体が蕩けるところが見たい。[br]
+I can't wait to see how depraved I can make his body.[br]
 甘い泣き声を垂れ流し、卑猥な言葉を連呼しながら、射精するその瞬間を。[br]
-早く堕ちてこい。俺の奴隷。[pc]
+Hurry up and break, my slave.[pc]
 
 ;背景ゆっくり黒に
 
@@ -129,7 +129,7 @@ As soon as you do, I won't have to treat you like this anymore."[pc]
 [playse storage="piston_k2"]
 ブジュリッッ！[pc]
 
-【小柳】「ふんむぅううぅう！　！！」[pc]
+【Koyanagi】 "FfnmhhhuuUUuuh!!!"[pc]
 
 【[emb exp=sf.sname]】「締まってきたな。気持ちいいのか？[br]
 俺も出すぞ。ウッ……ぅっ、出る･･出るぞ、出るぞ出るぞ！！！」[pc]
